@@ -5,7 +5,7 @@ For demo browse to http://demo-s1st.cloudapp.net Login and password are provided
 [Active Agenda](https://sourceforge.net/projects/activeagenda) framework and [BOf::](https://activeagenda.github.io) consists of:
 * [aa-base](https://github.com/activeagenda/aa-base) - slightly modified unpublished version of [Active Agenda 0.8.2 beta](https://github.com/activeagenda/0.8.2-beta) , used as starting point for the fork of the active agenda framework
 * [aa-patch](https://github.com/activeagenda/aa-patch) - a patch to the  [aa-base](https://github.com/activeagenda/aa-base) reflecting current changes to the code
-* [aa-xmlbase](https://github.com/activeagenda/aa-xmlbase) - a basic set of modules needed internally by the framework to work. It must be allways installed but can be modfied if needed
+* [aa-xmlbase](https://github.com/activeagenda/aa-xmlbase) - a basic set of modules needed internally by the framework to work. It must be always installed but can be modified if needed
 * [BOf::](https://github.com/activeagenda/BOf) - a set of business applications developed on the basis of the framework
 
 The versioning numbering schema (X.X.X.X e.g. 1.1.345.23) is as follows:
@@ -13,15 +13,15 @@ The versioning numbering schema (X.X.X.X e.g. 1.1.345.23) is as follows:
 * aa-patch: consecutive version numbering e.g. -> X.X.345.X
 * aa-xmlbase: consecutive version numbering e.g. -> X.X.X.23
 
-BOf:: is using consecutive version numbering and is indepenendent from the framework versioning.
+BOf:: is using consecutive version numbering and is  independent  from the framework versioning.
 
 ## Installation of the Active Agenda framework and BOf::
-The description has been prepeared for Linux and a person having a basic knowledge of Linux, PHP, MySQL and Apache. The installation has been tested on Debian and Ubuntu 12 TLS hosted as Microsoft Azure Virtual Machine (classic).
+The description has been prepared for Linux and a person having a basic knowledge of Linux, PHP, MySQL and Apache. The installation has been tested on Debian and Ubuntu 12 TLS hosted as Microsoft Azure Virtual Machine (classic).
 
-The reference setup of [BOf::](https://activeagenda.github.io) can be downloaded as VMware virtual machine from https://www.dropbox.com The virtual machine allows interactive investigation of all configurations. 
+The reference setup of [BOf::](https://activeagenda.github.io) can be downloaded as a VMware virtual machine from https://www.dropbox.com The virtual machine allows interactive investigation of all configurations. 
 It is highly recommended way of investigating the framework and the application as well as a sandbox for first development/admin activities.
 
-The description assumes root access rights on a debian derivat server.
+The description assumes root access rights on a debian derivate.
 
 As the preparation for installation:
 * Download the latest release of [aa-base](https://github.com/activeagenda/aa-base/releases/latest) to your home directory on the server
@@ -30,7 +30,7 @@ As the preparation for installation:
 * If you have selected another destination directory that /var/www/s2a adjust the AA_PATH variable in the scripts ./s2a/util/*
 
 ##  Prerequisites
-All package prerequisits are listed in the file ./s2a/util/aa-instal Run the script to install them with your prefered root/password naming policy.
+All package prerequisites are listed in the file ./s2a/util/aa-instal . Run the script to install them with your preferred root/password naming policy.
 
 ## Patch the aa-base with aa-patch
 * Download [the latest aa-patch](https://github.com/activeagenda/aa-patch/releases/latest) to ./s2a/util/ as a zip file
@@ -47,9 +47,9 @@ All package prerequisits are listed in the file ./s2a/util/aa-instal Run the scr
 * Run the script: ./aa-patch BOf.X.zip
 * Run ./aa-permiss to set the access permissions to files and directories 
 
-## Framework installation
+## Application auto generation
 * Configure root user the database in ./s2a/active_agenda/gen-config.php (you can remove this file later, when application development is finished)
-* Configure database user and password in ./s2a/active_agenda/gen-config.php (search for "Database connection string") 
+* Configure database user and password in ./s2a/active_agenda/config.php (search for "Database connection string") 
 * Prepare application admin username and password requested during an interactive installation
 * Run ./aa-permiss to set the access permissions to files and directories 
 * Run ./s2a/s2a.php -m mod -l pl_PL (several runs may be needed) 
