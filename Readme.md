@@ -34,9 +34,9 @@ As the preparation for installation:
 
 ##  Package prerequisites
 * All package prerequisites are listed in the aa-instal file Run `./s2a/util/aa-instal`  .Run the script to install them with your preferred root/password naming policy.
-* Check php settings, see configuration file php.ini
-* Check mysql settings, see configuration file
-* Check appache settings, see configuration file 
+* Check php settings, see configuration file [php.ini](https://github.com/activeagenda/documentation/blob/master/config%20examples/php.ini)
+* Check mysql settings, see configuration file [my.cnf](https://github.com/activeagenda/documentation/blob/master/config%20examples/my.cnf)
+* Check appache settings, see configuration file [default](https://github.com/activeagenda/documentation/blob/master/config%20examples/default)
 
 ## Patch the aa-base with aa-patch
 * Download [the latest aa-patch](https://github.com/activeagenda/aa-patch/releases/latest) to directory ./s2a/util/ as a zip file
@@ -51,14 +51,14 @@ As the preparation for installation:
 * Run the script: `./aa-patch BOf.X.zip` 
 
 ## Application auto generation
-* Configure root user the database in ./s2a/active_agenda/gen-config.php (you can remove this file later, when application development is finished)
-* Configure database user and password in ./s2a/active_agenda/config.php (search for "Database connection string") 
+* Configure root user the database in ./s2a/active_agenda/[gen-config.php](https://github.com/activeagenda/documentation/blob/master/config%20examples/gen-config.php) (you can remove this file later, when application development is finished)
+* Configure database user and password in ./s2a/active_agenda/[config.php](https://github.com/activeagenda/documentation/blob/master/config%20examples/config.php) (search for "Database connection string") 
 * Prepare application admin username and password requested during an interactive installation
 * Run `./aa-permiss` to set the access permissions to files and directories 
 * Run `./s2a/s2a.php -m mod -l pl_PL` (several runs may be needed) 
 * Run `./s2a/s2a.php -t -l pl_PL` (for 460 modules 90 minutes needed)
 * Run `./s2a/ s2a-install-db -u`
-* Customize database root and password in ./aa-postinstall and run the script
+* Customize database root and password in the file ./aa-postinstall and run the script `./aa-postinstall`
 * Configure the web server 
 
 ## Run the application
@@ -66,3 +66,6 @@ As the preparation for installation:
 * Enter new people (URL bar: .../list.php?mdl=ppl) and make out of them user (URL bar: .../list.php?mdl=ppl) with proper modules permissions
 
 ## Email notfication setup
+* Configure ./s2a/active_agenda/[email-config.php](https://github.com/activeagenda/documentation/blob/master/config%20examples/email-config.php) 
+* Setup crone job
+* Setup email connection to your post server
