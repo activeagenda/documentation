@@ -3,7 +3,7 @@
 ## Demo
 For demo browse to http://demo-s1st.cloudapp.net .Login and password are provided on the login page.
 
-## Framework structure and the way of work
+## Framework structure
 [Active Agenda](https://sourceforge.net/projects/activeagenda) framework and [BOf::](https://activeagenda.github.io) consists of:
 * [aa-base](https://github.com/activeagenda/aa-base) - slightly modified unpublished version of [Active Agenda 0.8.2 beta](https://github.com/activeagenda/0.8.2-beta) , starting point for the fork of the active agenda framework
 * [aa-patch](https://github.com/activeagenda/aa-patch) - a patch to the  [aa-base](https://github.com/activeagenda/aa-base) reflecting development changes to the code
@@ -74,4 +74,4 @@ As the preparation for installation:
 * Setup email connection to your post server
 
 ## Problems
-If problems encountered report them on https://github.com/issues 
+If problems encountered report them on https://github.com/activeagenda/bof/issues 
