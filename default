@@ -1,0 +1,54 @@
+<VirtualHost *:80>
+	ServerAdmin webmaster@localhost
+
+	DocumentRoot /var/www/s2a/active_agenda/web
+	<Directory />
+		Options FollowSymLinks
+		AllowOverride None
+	</Directory>
+
+	<Directory /var/www/s2a/active_agenda/web>
+		
+		Options -Indexes FollowSymLinks MultiViews
+		AllowOverride None
+		Order allow,deny
+		allow from all
+		
+		ErrorDocument 404 /index.php
+		
+		<FilesMatch "\.(gif|jpg|png|js|css|swf|flv)$">
+		    Header set Catch-Control "max-age=29030400, public"
+		</FilesMatch>
+		
+		RewriteEngine on
+		RewriteRule ^([a-z0-9]{2,5})$ /frames.php?mdl=$1 [R,L]
+		RewriteRule ^([a-z0-9]{2,5})/([0-9]+)$ /frames.php?mdl=$1&rid=$2 [R,L]
+	
+	</Directory>
+
+	ScriptAlias /cgi-bin/ /usr/lib/cgi-bin/
+	<Directory "/usr/lib/cgi-bin">
+		AllowOverride None
+		Options +ExecCGI -MultiViews +SymLinksIfOwnerMatch
+		Order allow,deny
+		Allow from all
+	</Directory>
+
+	ErrorLog /var/log/apache2/error.log
+
+	# Possible values include: debug, info, notice, warn, error, crit,
+	# alert, emerg.
+	LogLevel warn
+
+	CustomLog /var/log/apache2/access.log combined
+
+    Alias /doc/ "/usr/share/doc/"
+    <Directory "/usr/share/doc/">
+        Options Indexes MultiViews FollowSymLinks
+        AllowOverride None
+        Order deny,allow
+        Deny from all
+        Allow from 127.0.0.0/255.0.0.0 ::1/128
+    </Directory>
+
+</VirtualHost>

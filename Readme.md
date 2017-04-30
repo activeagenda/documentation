@@ -17,9 +17,9 @@ The versioning numbering schema (X.X.X.X e.g. 1.1.345.23) is as follows:
 BOf:: is using consecutive version numbering and is independent  from the framework versioning.
 
 ## Installation of the Active Agenda framework and BOf::
-The description has been prepared for a person having a basic knowledge of Linux, PHP, MySQL and Apache. The installation has been tested on Debian and Ubuntu 12 TLS hosted as Microsoft Azure Virtual Machine (classic).
+The description has been prepared for a person having a basic knowledge of Linux, PHP, MySQL and Apache. The installation has been tested on Debian 6.0.3 squeeze and Ubuntu 12.04.05 TLS hosted as Microsoft Azure Virtual Machine (classic).
 
-The test setup similar to [BOf::](https://activeagenda.github.io) can be downloaded as a VMware virtual machine from https://www.dropbox.com The virtual machine allows interactive investigation of all configurations. 
+The test setup similar to [BOf::](https://activeagenda.github.io) can be downloaded as a VMware virtual machine from https://www.dropbox.com .The virtual machine allows interactive investigation of all configurations. 
 It is a highly recommended way of investigating the framework and the application as well as a sandbox for first development/admin activities.
 
 The description assumes root access rights on a debian derivate.
@@ -34,7 +34,7 @@ As the preparation for installation:
 
 ##  Package prerequisites
 * All package prerequisites are listed in the aa-instal file Run `./s2a/util/aa-instal`  .Run the script to install them with your preferred root/password naming policy.
-* Check php settings, see configuration file
+* Check php settings, see configuration file php.ini
 * Check mysql settings, see configuration file
 * Check appache settings, see configuration file 
 
@@ -45,12 +45,10 @@ As the preparation for installation:
 ## Patch the aa-base with aa-xmlbase
 * Download the [the latest aa-xmlbase](https://github.com/activeagenda/aa-xmlbase/releases/latest) to directory ./s2a/util/ as a zip file
 * Run the script: `./aa-xml aa-xmlbase.X.zip`
-* Run ./aa-permiss to set the access permissions to files and directories 
 
 ## Patch the aa-xmlbase with BOf::
 * Download the [the latest BOf::](https://github.com/activeagenda/bof/releases/latest) to directory ./s2a/util/ as a zip file
-* Run the script: `./aa-patch BOf.X.zip`
-* Run ./aa-permiss to set the access permissions to the added files and directories 
+* Run the script: `./aa-patch BOf.X.zip` 
 
 ## Application auto generation
 * Configure root user the database in ./s2a/active_agenda/gen-config.php (you can remove this file later, when application development is finished)
@@ -66,3 +64,5 @@ As the preparation for installation:
 ## Run the application
 * Browse to the application and login in
 * Enter new people (URL bar: .../list.php?mdl=ppl) and make out of them user (URL bar: .../list.php?mdl=ppl) with proper modules permissions
+
+## Email notfication setup
