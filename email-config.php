@@ -4,8 +4,8 @@
  * 
  */
 
-$http_host = 'http://192.168.109.130';
-$sender_email = 'pu3.sygnity@gmail.com';
-$sender_display_name = 'Active Agenda';
+$http_host = 'http://bof.example.com';
+$sender_email = 'backoffice@example.com';
+$sender_display_name = 'BOf:';
 
 ?>
