@@ -1,0 +1,6 @@
+@ Istnieje czasami koniecznoœc wstawienia pola z tekstem lub tabl¹
+
+@ Przyk³ad:
+<MemoField name="_HelpticketDescription" rows="5" cols="75" defaultText="&lt;table &gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;Cost &lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;Really?&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TinyMCE&lt;/td&gt;&lt;td&gt;Free&lt;/td&gt;&lt;td&gt;YES!&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;"/>
+
+@ Za³adowanie wstêpne praktycznie wy³¹cza pole validate ustawione na notEmpty

@@ -1,0 +1,310 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.3/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.3/ http://www.mediawiki.org/xml/export-0.3.xsd" version="0.3" xml:lang="en">
+  <siteinfo>
+    <sitename>AADoc</sitename>
+    <base>http://www.activeagenda.net/documentation/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.8.2</generator>
+    <case>first-letter</case>
+      <namespaces>
+      <namespace key="-2">Media</namespace>
+      <namespace key="-1">Special</namespace>
+      <namespace key="0" />
+      <namespace key="1">Talk</namespace>
+      <namespace key="2">User</namespace>
+      <namespace key="3">User talk</namespace>
+      <namespace key="4">AADoc</namespace>
+      <namespace key="5">AADoc talk</namespace>
+      <namespace key="6">Image</namespace>
+      <namespace key="7">Image talk</namespace>
+      <namespace key="8">MediaWiki</namespace>
+      <namespace key="9">MediaWiki talk</namespace>
+      <namespace key="10">Template</namespace>
+      <namespace key="11">Template talk</namespace>
+      <namespace key="12">Help</namespace>
+      <namespace key="13">Help talk</namespace>
+      <namespace key="14">Category</namespace>
+      <namespace key="15">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chart Generation</title>
+    <id>1186</id>
+    <revision>
+      <id>3160</id>
+      <timestamp>2006-02-21T18:54:52Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">&lt;div style=&quot;float:right;width:315px;&quot;&gt;
+  [[image:HazAbateChartRI.png|none|thumb|200px|Example 1]]
+  [[image:HazAbateChartRIByOrg.png|none|thumb|200px|Example 2]]
+&lt;/div&gt;
+
+Active Agenda allows organizations to measure and chart risk control processes and results. This is accomplished by linking Active Agenda's chart creation with its search filter. This design methodology allows users to refine search parameters so that charts can be generated based on sub-sets of data within each module.
+
+Generating charts in Active Agenda is as easy as navigating to the [[List Screen]] of any module and selecting the Charts tab. The charts page displays a list box of all available charts. Chart availabilty is determined by the author of the [[XML_Module_Definition|XML module file]]. New charts can be added by module authors but this requires experience working with the [[Charts|XML schema]] (beyond a typical user's capabilities). However, typical users can signifantly influence chart parameters by filtering the records included within a search, thereby, controlling the data utilized for chart generation.
+
+The examples within this article consist of two charts from the [[Hazard_Abatement_Module|Hazard Abatement]] module. Example one displays a radar chart of all hazards experienced by the organization categorized by [[Risk_Imperatives_View|Risk Imperative]]. Example two displays the same information filtered by the organization - Active Agenda, Inc. 
+
+Chart data can be modified using any parameter available within a respective module's [[Search Screen]]. This design capability results in a powerful array of charts available to users.
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Code Lists</title>
+    <id>1168</id>
+    <revision>
+      <id>3142</id>
+      <timestamp>2006-02-17T19:34:23Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">Code lists are the lists a user sees when selecting a field with a &quot;drop-down&quot; box that displays a list of items for selection. Active Agenda uses two types of code lists to populate fields: [[Module_Type|Module Type Lists]] and [[Code_Type|Code Type Lists]].
+
+[[Image:CodeModuleTypes.png|frame|center|Module and Code Type Lists]]
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Code Type</title>
+    <id>1165</id>
+    <revision>
+      <id>3139</id>
+      <timestamp>2006-02-17T19:13:07Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:CodeModuleTypes.png|thumb|Code and Module Type Lists]]
+
+Code type list items reside in a single table in the database and are added directly using the Code Types module located under the administration link in the navigation tree or indirectly by using the &quot;plus&quot; symbol next to a respective field. &quot;Clicking&quot; the small plus sumbol adjacent to a code type field will open the Code Types module in a new window while displaying the respective code type's item list and allowing for the addition and/or modification of items on the list. Saving and closing the list will make the items available for immediate selection.
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Main Menu</title>
+    <id>1149</id>
+    <revision>
+      <id>6715</id>
+      <timestamp>2009-10-09T14:46:44Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:NavigationTree.jpg|thumb|Main Menu]]
+
+
+
+Go back to [[General_Navigation|General Navigation]]
+
+Go back to [[User's Guide|User's Guide]]
+
+Review the [[Navigation_XML| XML]]
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Module Type</title>
+    <id>1166</id>
+    <revision>
+      <id>3140</id>
+      <timestamp>2006-02-17T19:13:34Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:CodeModuleTypes.png|thumb|Code and Module Type Lists]]
+Module type list items reside in a module specific table in the database and are added directly using the respective module located under the administration link in the navigation tree or indirectly by using the &quot;plus&quot; symbol next to a respective field. &quot;Clicking&quot; the small plus symbol adjacent to a module type field will open the &quot;add new&quot; screen of the respective module in a new window. This will allow for the addition of a new item to the list if the user has appropriate permissions to add new records to the module. &quot;Clicking&quot; the &quot;list tab&quot; of the module opened in the new window will display the [[List Screen]], allowing the user to modify existing items on the list if the user has appropriate permissions to edit the module.
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Navigation Bar</title>
+    <id>2690</id>
+    <revision>
+      <id>8112</id>
+      <timestamp>2010-05-16T00:12:06Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:NavigationBar_w_ref.gif|thumb|right|525px|Navigation Bar]]
+
+= Introduction =
+The Navigation Bar is located at the top of each screen. This bar contains several navigation features that will remain visible on every Active Agenda screen other than pop-up windows. 
+
+= [[Main Menu]] =
+[[Image:aaa.png|left]]
+[[Image:NavigationBar_MainMenu.gif|right]]
+It all starts here!  The Main Menu lets you access every module of Active Agenda. The menu opens when you place your mouse pointer over the Main Menu area at the left of the Navigation bar. The links in the menu are grouped into many sub-menus, which expand when you place your mouse pointer over a menu item with an arrow indicator. 
+
+Review the [[Navigation XML|XML]]
+
+= [[Dashboard | Dashboard]] =
+[[Image:bbb.png|left]]
+[[Image:NavigationBar_Dashboard.gif|right]]
+
+Active Agenda utilizes a dashboard to display several kinds of information and simplify the user experience. The navigation items found on the Active Agenda dashboard include: 
+
+* '''Actions''': The Actions tab on the dashboard displays a user's current list of Actions assigned from anywhere within the application. The Actions folder also represents a navigation shortcut to the Actions module and/or specific actions assigned to the user. 
+* '''Accountabilities''': The Accountabilities folder on the dashboard displays all accountability assignments having occurred throughout the application since the last time a user logged into Active Agenda. The Accountabilities folder also represents a navigation shortcut to the Accountabilities module and/or specific accountabilities assigned to the user. 
+* '''Shortcuts''': The shortcuts tab on the dashboard displays a list of user selected shortcuts to modules, records, screens, charts, and/or reports of frequent interest. Shortcuts can be added and removed on a user-by-user basis and can significantly improve Active Agenda navigation speeds. 
+* '''Charts''': Charts can be added and removed from a user's dashboard on a user-by-user basis. Each chart displayed on a user's dashboard is also a navigation link back to the respective chart screen. 
+Clicking on the Dashboard icon is a quick way to return to the Dashboard screen.
+
+= Identity text (e.g. User: Jane Doe) =
+[[Image:ccc.png|left]]
+[[Image:NavigationBar_IDText.gif|right]]
+The area between the Dashboard and Quick Guide icons is used to display the installation name of the running copy of Active Agenda. This area also displays the user name of the person currently logged into Active Agenda.
+
+= Quick Guide =
+[[Image:ddd.png|left]]
+[[Image:NavigationBar_QuickGuide.gif|right]]
+The Quick Guide icon allows you to view and/or download and/or print the contents of the Active Agenda Quick Guide. The Quick Guide introduces users to the basic navigation and use of Active Agenda. The Quick Guide is comprised of the [[Getting Around in Active Agenda|Getting Around in Active Agenda]] and [[Exploring a Module|Exploring a Module]] sections of the support documentation wiki (which you are reading now).
+
+= Email Us =
+[[Image:eee.png|left]]
+[[Image:NavigationBar_EmailUs.gif|right]]
+The Email Us icon allows users to send the project team an email directly. Please feel free to contact us with any questions you may have. Emails are received directly by the creators of Active Agenda and will be answered as quickly possible.
+
+= Forums =
+[[Image:fff.png|left]]
+[[Image:NavigationBar_Forums.gif|right]]
+The Active Agenda project uses discussion forums to bring the community together. The forums can be a great source of help. To access the forums, you simply need to click on the &quot;Forums&quot; icon on the top frame of the application. Module specific forums can be accessed by clicking on the &quot;Forums&quot; icon located on top of the screen tabs in every module.
+
+= Report a Bug =
+[[Image:ggg.png|left]]
+[[Image:NavigationBar_ReportBug.gif|right]]
+Users can submit bug reports and feature requests directly to the project tracking system. Bug reports and feature requests are entered by clicking on the &quot;Bug&quot; icon located above the screen tabs of every module. If you're not sure whether to report the bug or request because you're not comfortable with the tracking system, just send us an email using the &quot;Email Us&quot; icon on the top frame of the application.
+
+= [[Glossary_Module | Glossary]] =
+[[Image:hhh.png|left]]
+[[Image:NavigationBar_Glossary.gif|right]]
+The Glossary module allows you to look up words that you may not be familiar with. You can modify the Glossary to help share organization specific nomenclature and improve specific understanding. The Glossary can be accessed by clicking on the &quot;Glossary&quot; icon located on the top frame of the application.
+
+= Reload =
+[[Image:iii.png|left]]
+[[Image:NavigationBar_Reload.gif|right]]
+The Reload link provides a quick way to update the data on your page.  If another user has made changes to the data you are looking at, you wouldn't know it until you reload the page. (This is simply the nature of Web-based applications).
+
+= Logout =
+[[Image:jjj.png|left]]
+[[Image:NavigationBar_Logout.gif|right]]
+Clicking on the Logout link will end your user session within Active Agenda. We recommend that you make a habit of logging out when you finish your session, instead of just closing your browser. Sessions that are left open will consume resources that could be better used to improve the user experience of others.
+
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Navigation Tabs</title>
+    <id>1170</id>
+    <revision>
+      <id>8113</id>
+      <timestamp>2010-05-16T00:12:26Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:ViewScreen NavTabs MO.gif|frame|right|Navigation Tabs]]
+
+Every screen, of every module, of Active Agenda uses a list of tabs to access additional screens. This navigation feature provides a logical and predictable layout for users across the entire application.
+
+The navigation tabs are displayed in three colors when inactive. One tab of every screen will always be displayed in the same color as the page background of the screen. This tab is white in Active Agenda's default color theme. This tab is not active and is only displayed to let the users know where they are in Active Agenda.
+
+The uppermost tabs are used to navigate screens specific to the module being viewed and are all colored the same.
+
+The lowermost tabs are used to access [[Global Modules|global modules]] and are colored differently in order to emphasize the difference between the two types of navigation tabs. Global modules with saved records also display a small &quot;paper icon&quot; on the right side of the tab. The icon notifies a user when records are saved into a global module without the user having to visit the respective global module screen to make that determination.
+
+Navigation tabs that are available for selection will change size and color as a user mouses over them. Navigation tabs also display a &quot;tool tip&quot; when a user leaves the cursor over a tab without clicking it.
+
+
+Review the [[ListScreen|XML]] for inserting List Screens
+
+Review the [[ViewScreen|XML]] for inserting View Screens
+
+Review the [[EditScreen|XML]] for inserting Edit Screens. The &quot;Form&quot; screen is the basic data entry screen used in every module.
+
+Review the [[Add-On Files|XML]] for inserting screens using an Add-On file.
+
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Relations Tab</title>
+    <id>2693</id>
+    <revision>
+      <id>8115</id>
+      <timestamp>2010-05-16T00:12:52Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:ListScreen_RelationsTab.png|frame|right|Relations Tab]]
+[[Image:Relations window.gif|thumb|right|250px|Relations Window]]
+The Relations Tab allows users to explore the data relationships between an active module and all of its related modules. The tab is opened by clicking on the icon and displays the following data relationships:
+
+* Parent Modules (Modules where the active module is a submodule)
+* Submodules (Submodules of the active module)
+* Foreign Modules (The active module displays data from the listed modules)
+* Remote Modules (The active module displays data from and saves data into the listed modules)
+* Reverse Foreign Modules (Modules that display data from the active module)
+
+If the active module has an immediate parent module, the parent module is displayed as a text link on the Relations Tab.
+
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Searching Records</title>
+    <id>1179</id>
+    <revision>
+      <id>3153</id>
+      <timestamp>2006-02-21T18:09:20Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:SearchTab.png|right]]
+
+
+Active Agenda uses a powerful search filter to limit the records displayed in a module record list. The [[Search Screen]] is accessed by &quot;clicking&quot; on the Search tab found on the [[List Screen]]. The search screen displays all of the fields of a module and allows the user to limit the fields displayed in the module record list to those matching the parameters entered into the search screen.
+
+Active Agenda's search feature also controls the data utilized for charts and reports. This dynamic design allows users to limit the records to be included in a chart or report, thereby providing complete user control over Active Agenda's reporting features.
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Text Links</title>
+    <id>2689</id>
+    <revision>
+      <id>8119</id>
+      <timestamp>2010-05-16T00:13:52Z</timestamp>
+      <contributor>
+        <username>Danzahlis</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:GenNav_textlinks.gif|frame|right|Text Links]]
+Text links are used throughout the application to achieve specific functionality. Text links are used to open modules in the same window, sort data based on column header phrases, and a myriad of other purposes. Text links are displayed as underlined text and are colored differently than other text throughout the application. 
+
+An easy way to know if a line of text is a link is to mouse over the text with the cursor. Text links will change the format of the cursor to suggest an active link. The most common format of the cursor over a non-link is an arrow, while the most common format of the cursor over a text link is a small hand with a pointing finger. Text links that are not underlined will change in color when the cursor mouses over them.
+
+Many of the text links within Active Agenda will also display a [http://en.wikipedia.org/wiki/Tool_tip tooltip] to help the user know what the link will do.
+
+
+Review the [[LinkField|XML]]
+
+
+[[Category:User's Guide]]</text>
+    </revision>
+  </page>
+</mediawiki>

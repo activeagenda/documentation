@@ -1,0 +1,21 @@
+@ W ro¿nych przypadkach nalezy dozwalaæ na ró¿ne dzia³ania na EditGridzie osadzanym na stronie...
+
+@ Wwywo³anie w definicji EditGrida w module bazowym (w module zagnie¿dzanym nie testowano)
+
+@ allowAddRecord="no"
+- domyœlnie jest "yes"
+- blokuje wyœwietlanie ikony dodawania nowego rekordu
+
+
+@ addRecordOnly="yes"
+- blokuje wyœwietlanie ikon w wierszu rekordu
+- uniemo¿liwia jak¹kolwiek edycjê
+- umo¿liwa tylko dodanie nowego rekordu
+
+@ quickEditAdd="yes"
+- blokuje wyœwietlanie ikony otwierajace ekran do edycji w module (np jak go niema...)
+- umo¿liwa dodanie i edycje rekordu in-place
+
+@ quickEditOnly="yes'
+- blokuje ikonê edycji w nowym rekordzie i dodawania nowego rekordu
+- umo¿liwia tylko edycjê in-place

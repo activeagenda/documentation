@@ -1,0 +1,4 @@
+@ Aby spowodowaæ wyœwietlenie linku do inngo ekranu ni¿ list.php w <ModuleLink/> z zachowaniem kontroli praw dostêpu do modu³u nale¿y go okreœliæ przez atrybut primary
+
+@ Np
+<ModuleLink moduleID="xrc" primary="search.php?mdl=xrc" phrase="Search room calendar"/>

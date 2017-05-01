@@ -1,0 +1,11 @@
+@ Do zadrzeñ ypu pomyœlen zapisanie mog¹ zostaæ podpiête przekierowania.
+
+@ onOkGoViewScreen="View" przekierowuje zawsze na view.php
+
+@ onOkGoListScreen="List" przekierowuje zawsze na list.php
+
+@ onOkGoEditScreen="Action" przekierowuje zawsze na screen edit o nazwie Action
+
+
+
+

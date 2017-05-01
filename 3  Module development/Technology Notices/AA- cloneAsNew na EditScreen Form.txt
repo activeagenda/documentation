@@ -1,0 +1,9 @@
+@ Czasami trzeba zablokowaæ kolonowanie danych bo:
+- procedury ska³adowane
+- indeks unikalnoœci jest za³o¿ony na danych
+
+@ Checkbox klonowania wy³¹cza siê przez  cloneAsNew="no" na Form. Je¿eli nic nie ma to oznacza to cloneAsNew="yes"
+
+@ Przyk³ad:
+name="Form" onNewGoEditScreen="Actions"  cloneAsNew="no"
+

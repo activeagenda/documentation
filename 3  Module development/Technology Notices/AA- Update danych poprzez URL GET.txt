@@ -1,0 +1,8 @@
+@ Mo¿na wywo³aæ operacje zapamiêtania danych rekordu przez wywo³anie get
+
+@ Paramtery:
+&Save=1
+paremtery z EditForm (uwaga na s³owniki)
+
+@ Funkcjonuje te¿ tak:
+http://192.168.109.130/frames.php?dest=ZWRpdC5waHA/bWRsPXh0JmFtcDtyaWQ9MiZhbXA7c2NyPUZvcm0mYW1wO19UYXNrU3RhdHVzSUQ9MSZTYXZlPTE=

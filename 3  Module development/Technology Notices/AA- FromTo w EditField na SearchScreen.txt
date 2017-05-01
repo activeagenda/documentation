@@ -1,0 +1,33 @@
+@ Trzeba wyszukiwaæ po zbiorze wartoœci (np zbiór recordID) a nie po zakresie (domyœlnie) dla wartoœci:
+- int
+- float
+- date
+- money
+
+@ Dzia³a tylko na SearchScreen na polu Edit (xj/Coor):
+<SearchScreen name="Search">
+	<EditField name="_JobID" FromTo="no" size="50" maxLength="250"/>
+	...
+</SearchScreen>
+
+@ FromTo przyjmuje domyœlnie wartoœæ true dla wszystkich wartoœci o ile nie ma znacznika
+
+@ Zbiór wartoœci jest ograniczony do 100 sztuk
+
+@ Je¿eli potrzeba obu to mo¿na zastosowaæ trick (opraty o xj/CooR):
+<ModuleFields>
+       <TableField 
+		name="_JobID" type="int" dbFlags="unsigned auto_increment not null" 
+		phrase="Job ID|An automatically assigned number used to identify a record"/>
+	<CalculatedField 
+		name="_JobID_1" calcFunction="copy_field" params="_JobID" 
+		phrase="Sample Phrase|This is a sample phrase"/>
+	...
+<ModuleFields>
+<SearchScreen name="Search">
+	<!-- Wa¿na kolejnoœæ innaczej nie dzia³a ! -->
+	<EditField name="_JobID"  size="10" maxLength="10"/>
+	<EditField name="_JobID_1" FromTo="no" size="50" maxLength="250"/>
+	...
+</SearchScreen>
+      	

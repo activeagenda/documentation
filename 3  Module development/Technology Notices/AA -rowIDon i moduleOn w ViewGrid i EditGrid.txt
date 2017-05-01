@@ -1,0 +1,5 @@
+@ parametr rowIDon wstawiany jest tam gdzie jest defincija zagnie¿dzania grida
+
+@ rowIDon="paramter_w_module_gria_mapujacy_siê_na_rid_strony""
+
+@ moduleOn="paramter_pola z nazw¹_w_ridzie_mapujacy_siê_na_mdl_ze_strony""

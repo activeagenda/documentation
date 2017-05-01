@@ -1,0 +1,5 @@
+@ W CodeCombinedFiel i CombinedField mo¿na daæ pramater optionSpace="yes"
+
+@ Powoduje on rozrzedzenie opcji prze wprowadzenie neiaktywnych opcji
+
+@ Przyk³¹d jest w ntf w definicji EditGrid

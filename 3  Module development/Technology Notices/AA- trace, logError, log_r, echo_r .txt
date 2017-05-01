@@ -1,0 +1,16 @@
+@ Do debugowania aplikcji s³u¿¹  funkcje z w general_utilities od lini 1139
+
+@ trace('message') dzia³a:
+- wymaga uruchomienia w konfiguracji w config.php define( TRACE_RUNTIME, true);
+- pokazuje wywo³ania obiektów w kontekœcie wywo³ania http
+- spuszcza wynik do s2alog/trace_XXX.txt
+
+@ logError( $message ) spuszcza wynik do pliku s2alog/errors.log
+
+@ log_r( $debug_object, $debug_message='' ) :
+- s³u¿y do debuggingu obiektu
+- spuszcza wynik do s2alog/debugging.log
+
+function echo_r( $debug_object, $debug_message='' )
+- s³u¿y do debuggingu obiektu
+- spuszcza wynik do stdout

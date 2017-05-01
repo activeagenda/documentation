@@ -1,0 +1,29 @@
+@ Przyk³ady syntaktyki:
+... validate="notEmpty | eval: $value > 2" ...
+... validate="eval: $_Integer1 > $_Integer2" ...
+... validate="regexm: /-\d+/ > 2" ...
+... validate="regexm: /-\d+/999 > 2" ...
+.... validate="regexr: /^[ ]*([+](?:[0-9] ?){6,14}[0-9])[ ]*$/$1/"
+
+
+@ Nale¿y unikaæ znaku < bo jest to sprzeczne z XML -> nale¿y u¿yæ w³asnej funkcji typu LesserThan
+
+@ Wartoœæ pola jest reprezentowana przez $value lub zmienna magiczn¹ w formie nazwê TableField z $ na przedzie
+
+@ Nale¿y uwa¿aæ aby wszystkie wartoœci sprawdzane skroœnie wzajemnie poprzez magiczne zmienne istnia³y na danym formularzu
+
+@ Separator warunków ma formê /\s+|\s+/
+
+@ W³asne funkcje nale¿y zdefiniowaæ w pilki s2a/lib/includes/xns_util.php (uwaga jest podmieniany przez export!)
+
+@ Ze wzglêdu na jasnoœæ u¿ytkowania sensowne jest rozbijanie walidacji poprzez | na warunki typu: x<30 | 20<x zamiast jednego 20<x<30
+
+@ Do lokalizacji brana jest wartoœŸ od "eval:"
+"RequireSelection | eval: NoLaterThan( $_ProjectStartDate, $_ProjectFinishDate )"
+->gettext(" NoLaterThan( $_ProjectStartDate, $_ProjectFinishDate )") 
+
+@ Standardowo zaimplementowane funkcje s¹ w web_util.php od l.1735 (koniec pliku)
+
+@ vide przyk³ady w katalogu validate & warn w modu³ach  yv yx!!!
+
+ 

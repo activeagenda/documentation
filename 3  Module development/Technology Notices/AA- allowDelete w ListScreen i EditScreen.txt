@@ -1,0 +1,11 @@
+@ Czasami trzeba zdusiæ button Delete na ListScreenie (np wtedy gdy nie ma Forma trzeba daæ prawa edycji modu³u vide ntf)
+
+@ Czasami trzeba zdusiæ button Delete na EditScreen (pokazuje siê tylko n apierwszym ekaranie typu EditScreen)
+
+@ Zdusznie osi¹ga siê przez :
+<ListScreen name="List" allowDelete="no" ...  >
+<EditScreen name="Form" allowDelete="no" ... >
+
+@ Brak allowDelete lub allowDelete='yes' powoduje wyœwietlanie siê buttonu Delete na ListScreen lub EditScreen
+
+@ Wraz allowAddRecord="no" w definicji modu³u wycina wszelkie usuwanie i dodawanie rekordów.-> Mo¿na je tylko modyfikowaæ!

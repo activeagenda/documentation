@@ -1,0 +1,16 @@
+@ Potrzebne s¹ diagramy typu "top5:" bo:
+- ludzie lubi¹ rankingi
+- diagramy rozpadaj¹ siê przy nadmiarze wartoœci
+
+@ Osi¹ga siê to poprzez dodanie parametru <ParetoChart rowLimit="5" ... do deklaracji chartu
+
+@ Najwiêkszy sens ma to w <ParetoChart/>
+
+@ <PieChart/> i <RadarChart/> s³u¿¹ do pokazania rozk³adau-> wyciêcie fa³uszuje obraz
+
+@ <BarChar/> s³u¿y do pokazania zale¿noœci w czasiê
+-> AA zwraca seriê dat nie u³o¿on¹ w interwa³y
+-> rowLimit ma sens jako ogranicznik ilosci punktów pomiarowych do ty³ (?)
+
+@ Mo¿na daæ parametr mode="categorize" aby sortowaæ nie po wartoœciach pochodnych a po nazwach
+-> ma to wp³yw na obcinanie zbioru (po pokazuje np tylko 5 wpisów od "A")

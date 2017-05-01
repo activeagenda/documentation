@@ -1,0 +1,15 @@
+@ Dokumentacja nie jest jasno sformu³awan dla <LinkField/> !
+
+@ recordIDField jest równoznacze z polem ID modu³u na który wskazujê i musi byæ uzupe³nione pole z danego modu³u
+
+@ Przyk³ad  zB xpp/BOf:
+
+<TableField 
+	name="_PersonID" type="int" dbFlags="unsigned default 0" validate="RequireSelection" 
+	phrase="Record Owner|ID of the record owner" />
+<ForeignField 
+	name="_Person" foreignTable="ppl" foreignKey="PersonID" foreignField="DisplayName" key="_PersonID" 
+	phrase="Parking place owner|Person allowed to take the parking place"/>
+<LinkField 
+	name="_PersonLink" foreignModuleID="ppl" recordIDField="_PersonID" 
+	phrase="Parking place owner|Person allowed to take the parking place"/>

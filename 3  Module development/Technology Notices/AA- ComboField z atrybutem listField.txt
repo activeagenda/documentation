@@ -1,0 +1,5 @@
+@ ComboField posiada w kodzie atrybut listField="nazwa_modu³u"
+
+@ Je¿eli nie chce siê stosowaæ konwencji OrganizacjaID Organizacja to pole Organizacja powinno byæ podane przez listField
+
+@ Nie testowano funkcjonalnoœc w AA

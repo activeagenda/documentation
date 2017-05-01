@@ -1,0 +1,22 @@
+@ Trzeba wyœwietliæ obrazek zawarty w za³¹czniku att
+
+@ Przyk³ad u¿ycia:
+
+<ForeignField 
+ name="ThisAttachment" key="ThisAttachmentID" foreignTable="att" foreignKey="AttachmentID"  foreignField="Description"  phrase="Attachment description|User defined project name">
+	<ListCondition fieldName="RelatedModuleID" mode="equals">
+		<StaticValue value="bctr"/>
+	</ListCondition>
+	<ListCondition fieldName="RelatedRecordID" mode="equals">
+		<FieldValue value="CountryID"/>
+	</ListCondition> 
+</ForeignField>
+<CalculatedField 
+ name="AttachmentPict" 
+ calcFunction="img_from_att" 
+ params="+bctr CountryID ThisAttachmentID #300 #200"  
+ phrase="Attachment Picture|This is a sample phrase"/>
+
+@ Ca³y przyk³ad w Tips &Tricks w 
+"AA- Demo wyœwietlania obrazów z att w View.xml"
+		

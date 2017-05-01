@@ -1,0 +1,21 @@
+@ Zapis w Tablefield relacji z innymi modu³ami i sposobem usuniêci:
+deleteKeys="usrp._TagetId sta.StaeID"
+
+@ Separatorem jest " "
+
+@ deleteKeys jest umiesczane w TableField bêd¹cym kluczem rekordu (ID)
+
+
+@ Algorytm:
+[1] Pobranie wartoœci ("usrp._TagetID sta.StateID")
+[2] Rozbicie na na elementy (usrp=>_TagetID sta=> sta.StateID)
+[3] Wygenerowanie trigra o odpowiedniej formie i jego wgranie
+
+@ Przyk³ad:
+Usuniêcie wojeówdztwa z ze sta powinno skutkowaæ usuniêciem przynale¿nych powiatów
+
+@ Przyk³ad u¿ycia w usrg deleteKeys="usrgm.UserGroupID ursgp.UserGroupID"
+
+
+
+ 

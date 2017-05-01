@@ -1,0 +1,17 @@
+@ Przyk³ady:
+
+<UniquenessIndex name="DisplayNameOrganizationID">
+	<FieldRef name="DisplayName"/>
+        <FieldRef name="OrganizationID"/>
+</UniquenessIndex>
+
+ <Index name="RoomID_BookingDate" unique="yes" >
+        <FieldRef name="_RoomID"/>
+        <FieldRef name="_BookingDate"/>
+</Index>
+
+@ <Index/> bez atrybutu unique="yes" tworzy KEY w definicji tablei (alias do INDEX)
+
+@ <Index/> z atrybutem unique="yes" tworzy UNIQUE KEY jako CONSTRAINT w definicji tabeli
+
+@ <UniquenessIndex/> jest aliasem <Index/> bez unique="yes" 

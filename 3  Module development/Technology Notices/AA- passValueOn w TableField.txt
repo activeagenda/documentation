@@ -1,0 +1,15 @@
+@ Parametr passValueOn jest stosowany w TableField np
+passValueOn="xt._TaskStatusID/_ProjectID=xt._ProjectID 
+ AND xt._TaskStatusID='1' | xj._TaskStatusID/_ProjectID=xj._ProjectID"
+
+@ Pierwsza wartoœæ (xt._TaskStatusID) przejmuje wartoœæ pola TableField
+
+@ "/" jest separatorem (bez \s+ )
+
+@ Wyra¿eniue klucz zaczynaj¹ce siê od pola w danym module (_ProjectID=xt._ProjectID)
+
+@ Wyra¿enie mo¿e byæ uzupe³niane wyra¿eniem przejmowanym 1:1 do SQL (AND xt._TaskStatusID='1'). Mo¿na u¿yæ " ' " do opakowania wartoœci
+
+@ Wyrazenia uzupe³niaj¹ce mog¹ sterowac dzia³aniem np tylko deaktywacja
+
+@ " | " jest separatorem miêdzy kolejnymi poleceniami

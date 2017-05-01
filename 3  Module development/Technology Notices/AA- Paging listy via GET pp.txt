@@ -1,0 +1,3 @@
+@ Mo¿na ustawiæ paging listy tabeli poprzez wyspecyfikowanie parametru pp w wywo³aniu GET
+
+@ Nie sprawdzona jak siê zachowuje pryzpodaniu paremtrów innych ni¿e 5,10,20,100

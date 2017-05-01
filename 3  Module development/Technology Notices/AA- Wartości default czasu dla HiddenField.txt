@@ -1,0 +1,7 @@
+@ W HidenField mo¿na podaæ wartoœæ czasu przez:
+- now
+- today
+
+@ ""today" podaje aktualn¹ datê systemu PHP
+
+@ "now" podaje aktualny datetime systemu PHP

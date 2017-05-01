@@ -1,0 +1,16 @@
+@ Dklaracja goEditScreen="name_EditScreen" jest umiesczny w ViewScreen jako parametr ViewGrid-> buduje link w ikonie do skoku do edycji grida
+
+@ goSelectScreen="name_SelectScreen" jest umiesczny w ViewScreen 
+-> buduje link w ikonie do skoku do edycji Selectgrida i searchselectgrida (niezbêdne z powodu bugu)
+
+@ Deklaracja goViewAnchor="nazwa_anchora_Viw" jest umieszczona w EditScreen jako parametr EditGrid do którego ma skoczyæ spowrotem.
+
+@ W ViewScreen mo¿na dodaæ atrybut name="orginalna-nazwa" i u¿ywaæ go jako achor w goViewAnchor
+
+@ Na stronie View zabudowane s¹ nastêpuj¹ce anchory:
+- "top" u samej góry
+- "RecordInfo" po Danych G³ownych 
+- "Global" jako poc¿atek kontekstu rekordu
+
+@ Na stronach z *SelectGrid do których nprzejœcie by³o przez goSelectScreen nie ma powrotu do ostatniej pozycji na ekranie
+-> trzeba emulowac przez Anchor (name lub ScrenSection)

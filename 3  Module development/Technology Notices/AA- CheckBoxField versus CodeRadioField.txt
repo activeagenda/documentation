@@ -1,0 +1,3 @@
+@ CheckBoxField jest de facto aliasem dla CodeRadioField
+
+@ CheckBoxField nie umo¿lwia ustawiania predefiniowanej wartoœci przez defaulValue="..."

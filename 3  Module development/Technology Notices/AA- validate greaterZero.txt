@@ -1,0 +1,3 @@
+@ Czêsto trzeb sprawdzaæ czy coœ jest wiêksze od zera...
+
+@ Wykonuje to polcenie validate="greaterZero"

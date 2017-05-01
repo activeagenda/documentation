@@ -1,0 +1,9 @@
+@ czsami trzeba wyraziæ na liœcie wyszukiwania:
+  - wszystkie inne ni¿ Niezg³oszona
+  - wszystkie inne ni¿ Zg³oszona
+ - ...
+
+@ CodeID powinnien byæ wiêkszy do zera (-1 i -2 s¹ zastrze¿one a ) powoduje b³êdy)
+
+@ Wprowadzenie ujemnego  CodeID z offsetem 1000 powoduje wygenerowanie warunki zapytania wszystkie inne ni¿ np
+CodeId =1 -> wszystkie inne ni¿ -> -1001

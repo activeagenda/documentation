@@ -1,0 +1,5 @@
+@ orgaListOptions umo¿liwia zdefiniowanie pra dostêpu po organizacji do której nale¿y u¿ytkownik (intpar)
+
+@ Filtrowanie organizacji mo¿e odbywac siê po dodatkowym polu z modu³u org na wartoœæ 1
+
+@ Stara implemntacja special_keywords zosta³a usniêta

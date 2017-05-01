@@ -1,0 +1,3779 @@
+From: <Zapisane przez program Windows Internet Explorer 7>
+Subject: Grids - AADoc
+Date: Fri, 20 Feb 2009 19:13:26 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_02BA_01C9938F.4ED1F9C0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.activeagenda.net/documentation/index.php?title=Grids
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML lang=3Den dir=3Dltr xml:lang=3D"en"=20
+xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE>Grids - =
+AADoc</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3DUTF-8">
+<META=20
+content=3D"Grids,EditGrid,EditScreen,Exports,Generating a =
+Module,SearchSelectGrids,SelectGrids,ViewGrid"=20
+name=3Dkeywords><LINK href=3D"/favicon.ico" rel=3D"shortcut icon"><LINK=20
+title=3D"AADoc (English)" href=3D"/documentation/opensearch_desc.php"=20
+type=3Dapplication/opensearchdescription+xml rel=3Dsearch><LINK=20
+title=3D"Creative Commons"=20
+href=3D"/documentation/index.php?title=3DGrids&amp;action=3Dcreativecommo=
+ns"=20
+type=3Dapplication/rdf+xml rel=3Dmeta><LINK=20
+href=3D"http://creativecommons.org/licenses/by-sa/2.5/" rel=3Dcopyright>
+<STYLE type=3Dtext/css media=3Dscreen,projection>@import url( =
+/documentation/skins/monobook/main.css?9 );
+</STYLE>
+<LINK media=3Dprint=20
+href=3D"http://www.activeagenda.net/documentation/skins/common/commonPrin=
+t.css"=20
+type=3Dtext/css rel=3Dstylesheet><!--[if lt IE 5.5000]><style =
+type=3D"text/css">@import =
+"/documentation/skins/monobook/IE50Fixes.css";</style><![endif]--><!--[if=
+ IE 5.5000]><style type=3D"text/css">@import =
+"/documentation/skins/monobook/IE55Fixes.css";</style><![endif]--><!--[if=
+ IE 6]><style type=3D"text/css">@import =
+"/documentation/skins/monobook/IE60Fixes.css";</style><![endif]--><!--[if=
+ IE 7]>
+<STYLE type=3Dtext/css>@import url( =
+/documentation/skins/monobook/IE70Fixes.css?1 );
+</STYLE>
+<![endif]--><!--[if lt IE 7]><script type=3D"text/javascript" =
+src=3D"/documentation/skins/common/IEFixes.js"></script>=0A=
+		<meta http-equiv=3D"imagetoolbar" content=3D"no" /><![endif]-->
+<SCRIPT type=3Dtext/javascript>=0A=
+			var skin =3D "monobook";=0A=
+			var stylepath =3D "/documentation/skins";=0A=
+=0A=
+			var wgArticlePath =3D "/documentation/index.php?title=3D$1";=0A=
+			var wgScriptPath =3D "/documentation";=0A=
+			var wgServer =3D "http://www.activeagenda.net";=0A=
+                        =0A=
+			var wgCanonicalNamespace =3D "";=0A=
+			var wgNamespaceNumber =3D 0;=0A=
+			var wgPageName =3D "Grids";=0A=
+			var wgTitle =3D "Grids";=0A=
+			var wgArticleId =3D 1296;=0A=
+			var wgIsArticle =3D true;=0A=
+                        =0A=
+			var wgUserName =3D null;=0A=
+			var wgUserLanguage =3D "en";=0A=
+			var wgContentLanguage =3D "en";=0A=
+		</SCRIPT>
+
+<SCRIPT=20
+src=3D"http://www.activeagenda.net/documentation/skins/common/wikibits.js=
+?1"=20
+type=3Dtext/javascript><!-- wikibits js --></SCRIPT>
+
+<SCRIPT=20
+src=3D"http://www.activeagenda.net/documentation/index.php?title=3D-&amp;=
+action=3Draw&amp;gen=3Djs"=20
+type=3Dtext/javascript><!-- site js --></SCRIPT>
+
+<STYLE type=3Dtext/css>@import url( =
+/documentation/index.php?title=3DMediaWiki:Common.css&usemsgcache=3Dyes&a=
+ction=3Draw&ctype=3Dtext/css&smaxage=3D18000 );
+@import url( =
+/documentation/index.php?title=3DMediaWiki:Monobook.css&usemsgcache=3Dyes=
+&action=3Draw&ctype=3Dtext/css&smaxage=3D18000 );
+@import url( =
+/documentation/index.php?title=3D-&action=3Draw&gen=3Dcss&maxage=3D18000 =
+);
+</STYLE>
+<!-- Head Scripts -->
+<META content=3D"MSHTML 6.00.6000.16809" name=3DGENERATOR></HEAD>
+<BODY class=3D"mediawiki ns-0 ltr">
+<DIV id=3DglobalWrapper>
+<DIV id=3Dcolumn-content>
+<DIV id=3Dcontent><A id=3Dtop name=3Dtop></A>
+<H1 class=3DfirstHeading>Grids</H1>
+<DIV id=3DbodyContent>
+<H3 id=3DsiteSub>From AADoc</H3>
+<DIV id=3DcontentSub></DIV>
+<DIV id=3Djump-to-nav>Jump to: <A=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+#column-one">navigation</A>,=20
+<A=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+#searchInput">search</A></DIV><!-- start content -->
+<TABLE class=3Dtoc id=3Dtoc summary=3DContents>
+  <TBODY>
+  <TR>
+    <TD>
+      <DIV id=3Dtoctitle>
+      <H2>Contents</H2></DIV>
+      <UL>
+        <LI class=3Dtoclevel-1><A=20
+        =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+#Edit_Grids"><SPAN=20
+        class=3Dtocnumber>1</SPAN> <SPAN class=3Dtoctext>Edit =
+Grids</SPAN></A>=20
+        <LI class=3Dtoclevel-1><A=20
+        =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+#View_Grids"><SPAN=20
+        class=3Dtocnumber>2</SPAN> <SPAN class=3Dtoctext>View =
+Grids</SPAN></A>=20
+        <LI class=3Dtoclevel-1><A=20
+        =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+#Select_Grids"><SPAN=20
+        class=3Dtocnumber>3</SPAN> <SPAN class=3Dtoctext>Select =
+Grids</SPAN></A>=20
+        <LI class=3Dtoclevel-1><A=20
+        =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+#Search_Select_Grids"><SPAN=20
+        class=3Dtocnumber>4</SPAN> <SPAN class=3Dtoctext>Search Select=20
+        Grids</SPAN></A>=20
+        <LI class=3Dtoclevel-1><A=20
+        =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+#Generating_Grids"><SPAN=20
+        class=3Dtocnumber>5</SPAN> <SPAN class=3Dtoctext>Generating =
+Grids</SPAN></A>=20
+        </LI></UL></TD></TR></TBODY></TABLE>
+<SCRIPT type=3Dtext/javascript> if (window.showTocToggle) { var =
+tocShowText =3D "show"; var tocHideText =3D "hide"; showTocToggle(); } =
+</SCRIPT>
+
+<DIV class=3Deditsection style=3D"FLOAT: right; MARGIN-LEFT: 5px">[<A=20
+title=3D"Edit section: Edit Grids"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+&amp;action=3Dedit&amp;section=3D1">edit</A>]</DIV><A=20
+name=3DEdit_Grids></A>
+<H2><A title=3DEditGrid=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DEditG=
+rid">Edit=20
+Grids</A> </H2>
+<DIV class=3D"thumb tright">
+<DIV style=3D"WIDTH: 182px"><A class=3Dinternal title=3D"Edit Grid"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DImage=
+:EditGridFeedbackResponses.png"><IMG=20
+height=3D88 alt=3D"Edit Grid"=20
+src=3D"http://www.activeagenda.net/documentation/images/thumb/6/6b/EditGr=
+idFeedbackResponses.png/180px-EditGridFeedbackResponses.png"=20
+width=3D180=20
+longDesc=3D/documentation/index.php?title=3DImage:EditGridFeedbackRespons=
+es.png></A>=20
+
+<DIV class=3Dthumbcaption>
+<DIV class=3Dmagnify style=3D"FLOAT: right"><A class=3Dinternal =
+title=3DEnlarge=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DImage=
+:EditGridFeedbackResponses.png"><IMG=20
+height=3D11 alt=3DEnlarge=20
+src=3D"http://www.activeagenda.net/documentation/skins/common/images/magn=
+ify-clip.png"=20
+width=3D15></A></DIV>Edit Grid</DIV></DIV></DIV>
+<P>Edit grids are used as the primary user interface for adding =
+sub-module=20
+records. Edit grids use the same XML tags as the <A title=3DEditScreen=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DEditS=
+creen">Edit=20
+Screen</A> to dictate the behavior of data input fields. Edit grids must =
+be=20
+inserted within the Exports section of an XML module definition file in =
+order to=20
+be available within a parent module. </P>
+<DIV class=3Deditsection style=3D"FLOAT: right; MARGIN-LEFT: 5px">[<A=20
+title=3D"Edit section: View Grids"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+&amp;action=3Dedit&amp;section=3D2">edit</A>]</DIV><A=20
+name=3DView_Grids></A>
+<H2><A title=3DViewGrid=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DViewG=
+rid">View=20
+Grids</A> </H2>
+<DIV class=3D"thumb tright">
+<DIV style=3D"WIDTH: 182px"><A class=3Dinternal title=3D"View Grid"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DImage=
+:ViewGrid.png"><IMG=20
+height=3D29 alt=3D"View Grid"=20
+src=3D"http://www.activeagenda.net/documentation/images/thumb/d/d9/ViewGr=
+id.png/180px-ViewGrid.png"=20
+width=3D180 =
+longDesc=3D/documentation/index.php?title=3DImage:ViewGrid.png></A>=20
+<DIV class=3Dthumbcaption>
+<DIV class=3Dmagnify style=3D"FLOAT: right"><A class=3Dinternal =
+title=3DEnlarge=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DImage=
+:ViewGrid.png"><IMG=20
+height=3D11 alt=3DEnlarge=20
+src=3D"http://www.activeagenda.net/documentation/skins/common/images/magn=
+ify-clip.png"=20
+width=3D15></A></DIV>View Grid</DIV></DIV></DIV>
+<P>View grids are used to display sub-module records in a columnar =
+format. View=20
+grids must be inserted within the Exports section of an XML module =
+definition=20
+file in order to be available within a parent module. </P>
+<DIV class=3Deditsection style=3D"FLOAT: right; MARGIN-LEFT: 5px">[<A=20
+title=3D"Edit section: Select Grids"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+&amp;action=3Dedit&amp;section=3D3">edit</A>]</DIV><A=20
+name=3DSelect_Grids></A>
+<H2><A title=3DSelectGrids=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSelec=
+tGrids">Select=20
+Grids</A> </H2>
+<DIV class=3D"thumb tright">
+<DIV style=3D"WIDTH: 182px"><A class=3Dinternal title=3D"Select Grid"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DImage=
+:SelectGrid.png"><IMG=20
+height=3D51 alt=3D"Select Grid"=20
+src=3D"http://www.activeagenda.net/documentation/images/thumb/5/5b/Select=
+Grid.png/180px-SelectGrid.png"=20
+width=3D180 =
+longDesc=3D/documentation/index.php?title=3DImage:SelectGrid.png></A>=20
+<DIV class=3Dthumbcaption>
+<DIV class=3Dmagnify style=3D"FLOAT: right"><A class=3Dinternal =
+title=3DEnlarge=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DImage=
+:SelectGrid.png"><IMG=20
+height=3D11 alt=3DEnlarge=20
+src=3D"http://www.activeagenda.net/documentation/skins/common/images/magn=
+ify-clip.png"=20
+width=3D15></A></DIV>Select Grid</DIV></DIV></DIV>
+<P>Select grids are used for adding multiple sub-module records =
+simultaneously.=20
+Select grids must be inserted within the <A title=3DExports=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DExpor=
+ts">Exports</A>=20
+section of an XML module definition file in order to be available within =
+a=20
+parent module. Select grids must also be declared within a parent file's =
+
+SubModules section and added as an edit screen. </P>
+<DIV class=3Deditsection style=3D"FLOAT: right; MARGIN-LEFT: 5px">[<A=20
+title=3D"Edit section: Search Select Grids"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+&amp;action=3Dedit&amp;section=3D4">edit</A>]</DIV><A=20
+name=3DSearch_Select_Grids></A>
+<H2><A title=3DSearchSelectGrids=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSearc=
+hSelectGrids">Search=20
+Select Grids</A> </H2>
+<DIV class=3D"thumb tright">
+<DIV style=3D"WIDTH: 182px"><A class=3Dinternal title=3D"Search Select =
+Grid"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DImage=
+:SearchSelect.png"><IMG=20
+height=3D70 alt=3D"Search Select Grid"=20
+src=3D"http://www.activeagenda.net/documentation/images/thumb/0/03/Search=
+Select.png/180px-SearchSelect.png"=20
+width=3D180 =
+longDesc=3D/documentation/index.php?title=3DImage:SearchSelect.png></A>=20
+<DIV class=3Dthumbcaption>
+<DIV class=3Dmagnify style=3D"FLOAT: right"><A class=3Dinternal =
+title=3DEnlarge=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DImage=
+:SearchSelect.png"><IMG=20
+height=3D11 alt=3DEnlarge=20
+src=3D"http://www.activeagenda.net/documentation/skins/common/images/magn=
+ify-clip.png"=20
+width=3D15></A></DIV>Search Select Grid</DIV></DIV></DIV>
+<P>Search select grids are used for adding multiple sub-module records=20
+simultaneously. Search select grids must be inserted within the Exports =
+section=20
+of an XML module definition file in order to be available within a =
+parent=20
+module. Search select grids must also be declared within a parent file's =
+
+SubModules section and added as an edit screen. </P>
+<DIV class=3Deditsection style=3D"FLOAT: right; MARGIN-LEFT: 5px">[<A=20
+title=3D"Edit section: Generating Grids"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+&amp;action=3Dedit&amp;section=3D5">edit</A>]</DIV><A=20
+name=3DGenerating_Grids></A>
+<H2>Generating Grids</H2>
+<P>The Exports section of a module definition file is generated when a =
+module=20
+that relies on a grid is <A title=3D"Generating a Module"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGener=
+ating_a_Module">generated</A>.=20
+If you make modifications to an Exports section of a module definition =
+file, you=20
+will need to generate the module, or modules, dependent upon the export =
+grid to=20
+see your changes take affect. </P><!-- Saved in parser cache with key =
+activeagenda_wikidb:pcache:idhash:1296-0!1!0!!en!2 and timestamp =
+20090220112436 -->
+<DIV class=3Dprintfooter>Retrieved from "<A=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+">http://www.activeagenda.net/documentation/index.php?title=3DGrids</A>"<=
+/DIV>
+<DIV id=3Dcatlinks>
+<P class=3Dcatlinks><A title=3DSpecial:Categories=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSpeci=
+al:Categories&amp;article=3DGrids">Category</A>:=20
+<SPAN dir=3Dltr><A title=3D"Category:The Technology"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DCateg=
+ory:The_Technology">The=20
+Technology</A></SPAN></P></DIV><!-- end content -->
+<DIV class=3DvisualClear></DIV></DIV></DIV></DIV>
+<DIV id=3Dcolumn-one>
+<DIV class=3Dportlet id=3Dp-cactions>
+<H5>Views</H5>
+<UL>
+  <LI class=3Dselected id=3Dca-nstab-main><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+">Article</A>=20
+
+  <LI class=3Dnew id=3Dca-talk><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DTalk:=
+Grids&amp;action=3Dedit">Discussion</A>=20
+
+  <LI id=3Dca-edit><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+&amp;action=3Dedit">Edit</A>=20
+
+  <LI id=3Dca-history><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+&amp;action=3Dhistory">History</A>=20
+  </LI></UL></DIV>
+<DIV class=3Dportlet id=3Dp-personal>
+<H5>Personal tools</H5>
+<DIV class=3DpBody>
+<UL>
+  <LI id=3Dpt-login><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSpeci=
+al:Userlogin&amp;returnto=3DGrids">Log=20
+  in / create account</A> </LI></UL></DIV></DIV>
+<DIV class=3Dportlet id=3Dp-logo><A title=3D"Main Page"=20
+style=3D"BACKGROUND-IMAGE: =
+url(/documentation/skins/common/images/wikilogo.gif)"=20
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DMain_=
+Page"></A></DIV>
+<SCRIPT type=3Dtext/javascript> if (window.isMSIE55) fixalpha(); =
+</SCRIPT>
+
+<DIV class=3Dportlet id=3Dp-navigation>
+<H5>Navigation</H5>
+<DIV class=3DpBody>
+<UL>
+  <LI id=3Dn-mainpage><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DMain_=
+Page">Main=20
+  Page</A>=20
+  <LI id=3Dn-portal><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DAADoc=
+:Community_Portal">Community=20
+  portal</A>=20
+  <LI id=3Dn-currentevents><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DCurre=
+nt_events">Current=20
+  events</A>=20
+  <LI id=3Dn-recentchanges><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSpeci=
+al:Recentchanges">Recent=20
+  changes</A>=20
+  <LI id=3Dn-randompage><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSpeci=
+al:Random">Random=20
+  page</A>=20
+  <LI id=3Dn-help><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DHelp:=
+Contents">Help</A>=20
+
+  <LI id=3Dn-sitesupport><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DAADoc=
+:Site_support">Donations</A>=20
+  </LI></UL></DIV></DIV>
+<DIV class=3Dportlet id=3Dp-search>
+<H5><LABEL for=3DsearchInput>Search</LABEL></H5>
+<DIV class=3DpBody id=3DsearchBody>
+<FORM id=3Dsearchform =
+action=3D/documentation/index.php?title=3DSpecial:Search>
+<DIV><INPUT id=3DsearchInput accessKey=3Df name=3Dsearch> <INPUT =
+class=3DsearchButton id=3DsearchGoButton type=3Dsubmit value=3DGo =
+name=3Dgo>&nbsp; <INPUT class=3DsearchButton type=3Dsubmit =
+value=3DSearch name=3Dfulltext>=20
+</DIV></FORM></DIV></DIV>
+<DIV class=3Dportlet id=3Dp-tb>
+<H5>Toolbox</H5>
+<DIV class=3DpBody>
+<UL>
+  <LI id=3Dt-whatlinkshere><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSpeci=
+al:Whatlinkshere&amp;target=3DGrids">What=20
+  links here</A>=20
+  <LI id=3Dt-recentchangeslinked><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSpeci=
+al:Recentchangeslinked&amp;target=3DGrids">Related=20
+  changes</A>=20
+  <LI id=3Dt-upload><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSpeci=
+al:Upload">Upload=20
+  file</A>=20
+  <LI id=3Dt-specialpages><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DSpeci=
+al:Specialpages">Special=20
+  pages</A>=20
+  <LI id=3Dt-print><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+&amp;printable=3Dyes">Printable=20
+  version</A>=20
+  <LI id=3Dt-permalink><A=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DGrids=
+&amp;oldid=3D6059">Permanent=20
+  link</A> </LI></UL></DIV></DIV></DIV><!-- end of the left (by default =
+at least) column -->
+<DIV class=3DvisualClear></DIV>
+<DIV id=3Dfooter>
+<DIV id=3Df-poweredbyico><A href=3D"http://www.mediawiki.org/"><IMG =
+alt=3DMediaWiki=20
+src=3D"http://www.activeagenda.net/documentation/skins/common/images/powe=
+redby_mediawiki_88x31.png"></A></DIV>
+<DIV id=3Df-copyrightico><A=20
+href=3D"http://creativecommons.org/licenses/by-sa/2.5/"><IMG=20
+alt=3D"Creative Commons Attribution 2.5 License"=20
+src=3D"http://creativecommons.org/images/public/somerights20.gif"></A></D=
+IV>
+<UL id=3Df-list>
+  <LI id=3Dlastmod>This page was last modified 20:21, 22 November 2007.=20
+  <LI id=3Dviewcount>This page has been accessed 391 times.=20
+  <LI id=3Dcopyright>Content is available under <A class=3D"external "=20
+  title=3Dhttp://creativecommons.org/licenses/by-sa/2.5/=20
+  href=3D"http://creativecommons.org/licenses/by-sa/2.5/" =
+rel=3Dnofollow>Creative=20
+  Commons Attribution 2.5 License</A>.=20
+  <LI id=3Dprivacy><A title=3D"AADoc:Privacy policy"=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DAADoc=
+:Privacy_policy">Privacy=20
+  policy</A>=20
+  <LI id=3Dabout><A title=3DAADoc:About=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DAADoc=
+:About">About=20
+  AADoc</A>=20
+  <LI id=3Ddisclaimer><A title=3D"AADoc:General disclaimer"=20
+  =
+href=3D"http://www.activeagenda.net/documentation/index.php?title=3DAADoc=
+:General_disclaimer">Disclaimers</A>=20
+  </LI></UL></DIV>
+<SCRIPT type=3Dtext/javascript>if (window.runOnloadHook) =
+runOnloadHook();</SCRIPT>
+</DIV><!-- Served by alameda.activeagenda.net in 0.152 secs. =
+--></BODY></HTML>
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.activeagenda.net/documentation/images/thumb/6/6b/EditGridFeedbackResponses.png/180px-EditGridFeedbackResponses.png
+
+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
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.activeagenda.net/documentation/skins/common/images/magnify-clip.png
+
+iVBORw0KGgoAAAANSUhEUgAAAA8AAAALCAMAAACXmSduAAAAPFBMVEX////39/fv7+/m5ube3t7W
+1tbOzs69vb21tbWtra2lpaWcnJyUlJSMjIyEhIR7e3tzc3Nra2tjY2NaWlpsdnH4AAAAAXRSTlMA
+QObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACvAAAArwAUKsNJgAAAAHdElNRQfVBAISERH3ZT2L
+AAAASElEQVQI14XMQQ6AIAxE0cGqIyoiev+7ArU2ceVb9SeTAsBMJy2Rj90Uak8w6b+FzCsZ3mbp
+j+7BO/Xjiur03h7jd9/IooJlBTYfA5Z+e3mSAAAAAElFTkSuQmCC
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.activeagenda.net/documentation/images/thumb/d/d9/ViewGrid.png/180px-ViewGrid.png
+
+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
+SUVORK5CYII=
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.activeagenda.net/documentation/images/thumb/5/5b/SelectGrid.png/180px-SelectGrid.png
+
+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
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.activeagenda.net/documentation/images/thumb/0/03/SearchSelect.png/180px-SearchSelect.png
+
+iVBORw0KGgoAAAANSUhEUgAAALQAAABGCAYAAABll74gAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
+WXMAAAsTAAALEwEAmpwYAAAt+klEQVR42u2915Mdy3bm98vMstvbtuhGo+GOAc7hNbQiOQzGKCTF
+jDSiQnqR9CDFKKQXKfQP6VkvEqlgUApqFKRIDoPu8vKac+5x8Gi0795+l6/K1EPtbgDHAdfonsYA
+GYFo9O6q2lVZK1eu9a1vrSWMMYavGMaY839vxouHlBIhxJuJ+AaH9VV/KIqCMAxJ0xRYCLQBxJmw
+v5m8L0ymZVGpVLBt+41gf0NDfJmGLoqC6XRKkiQIAdPIcOe4IC8MioJ31myqnnWuueXZyxNgtOHZ
+CwohEIu18FWaXkqBMedrBYP54oIRIBHoC76SlFI0m00cx3kjXRdBQxtjiKKIJEnO5Ig4Fyjb4zjI
+SFJDUSR8d1tiKQnA4SCkEJI0LVjp+ThSIGUpfEGQMg5zJlHOtbU6tiqvWWhQSqCLgvsHEf2WyzzM
+AWg3XDxLIARoUwp8EqV8tBfx3nYDJUAK0BqkhLwAJbkQWrEoCubzOa1WCynlGwn7pgU6z3OiKDrX
+rgYQpqDuSVa3axgDo0lAEOc0qxIp4Ps/OeJ7uzFFAf/e7Q5hmNNrOAymKWmSEWpFyxV8/HiKbVtU
+HTid5fzet1ew4oj/9S93+dW3OjzeD9DasL3RIAxTap7FYJbSa7pM5zE7w4yjUUhuBDVbMIkL6q4C
+x+a332rjWRdjUrMsI4oiKpXKG9PjmxRorTVBEFAUxXMvwrU0Ogy5vLmEFIadIsIYszARDJ5rcanr
+EyYFjw8DHMdiHs6JtKRfUVSRhGHKNDM4ImUXiOOCIC043Z/TqjscDGPqVRtHGMbTmEGQ081yJkHB
+dJZRWOBIuHsQstx22T1OqNVcKo5k52DGe1ca+JbFN22QCCEwxhCGIY7jYNv2Gyn7ZdvQxphzYY6i
+6Au2rhBwOslIcjBGk2U5qx0Pz1UAjKcptmsRxTlSQhAX1DyLeZzjOYo4K7ClwCBQEg5PAj4+SvgP
+v7tMkWQoSxElOYUuTQmlJFlWYFkSDCgpiNIcpMS3BKkGTwnCTONagqQwrLQ8rAu2w9u2TaPRwLKs
+N5r6lyXQeZ6bLMtI05Qsy17upKe4x7nAP4uAPPur+ZLjtS4/FeL5c5897gvfwfNAy+d/6gvqKyql
+zjW1Zb28TXSmVM40/pvxjKw9N09P5yvLCywhBGEYnjuBr+cklYurxNy//tgSkXn+uLPzMXwpCpOm
+Kb7vc3h4+FKa2hhDtVqlVqtxdHSEUqp0sn+OVSukBKN/Zrj1Iiwss5hfY8r/Syno97r4vkeeF4xn
+QWlDZ1lGEASv5bYoBIRBynCa0OlUqXoKzNnuUEKQUohSWHXBo50JK2stfKeEGqWA6TQhCBO0ZbPe
+r5xDkGdQ5ZkdnWUZq6urLyUYSimiKEIpRateZTCe0V9ZwbOtr1wEZ+/PGIOQ5T0bY8jThMPDIyrN
+Dp1mbeHsL3YAxHPnftm1AKajIcL2qdf8b0y40xx2TwvCGJLMYClDX0i01mhdLlbreS3z+gl0kaX8
+2V/eo9mu8P0PDqnaAuXZhGFCt1uniBKEYxPMImzPIRhFnIxDpkFBr6Y4HqfsPRrQ6FWpVT3u2pJq
+1eboZE5vqUmtqrh5bQVfCBzHwff9lxIGYwxxHOP5Hsc7d/jrH93hnVvvMT05Zm1rm069wunhAceT
+OSv9DhrJ0cEBG5tbjE6G+L7NyXTG7/zu77D/8DFzLdFmwKP7d2j4VYaDE7Sy6DW7TIMJ7U6TnScH
+rHZ7TOOI/vIKriVY2biM71jsfnzCJNZEyZTO0jJhHPPurdtUfpnQUmI4Ho347N5j0hzeur6NkKpU
+HeIrYLvXbZhCE4Y565ds7j8ashfkrG/UufdohPVgjDEFFBIjClzLwrEtwixFeh67jyccDTLadRuT
+FXz08QG1lk8SRMQJ9E5Tvvtrq/xcasKAVDa9doPDnXucDAIazTo7D+dYJuXgdErF82g2fe7dfcRk
+niOznCwLiBHEaY4xGpCEYcBoNGJ2Mqbd6CGk4ODuEyKZMBid8PjxKUQuy+tVTp48JCwcpGWzvLZW
+xiPmMdVahSePH+I1uzzZf8zW5haupX4p7yrXBmlVKYxEuA7S9cr38+yOWxSFOTk5YT6fv7ZOxvHh
+lL2TiOXlGkmY4ruCP/mze6xfWWKt7WBbFpYSyIUdN49S/JpHkaYURlJxJVlu8F2L+TyhWnNLlEZJ
+jBJsb/Zo1itMp1PW1tZeeruez+ekaUqrUWUwmtJqtQhmc+rNJnmR4yjBeBLQaDaQUjMazcjDCT/4
++BG/8Ru/iskzekt9KFIOD0/wa3WKNMar1HAWDuro4JBJWrC63iUMYurVBrYjGZ8eU1g+JotZWlsn
+nk7IjaJScSnylOlsjlup0KjXUb+kAFKSGXaOCnINOeAow0ZHYynIc81kHpUCPRqNzoMpr7NTeAaZ
+FLkmTnNc18ZW4ufDtg1IJanXGyRJglLqpe9Ja01RFDiOc263Pmu/ntn3pQYWSCHQRpdbr2WjlDx3
+JKWUzy2kZ1GU59GrL3eMn7OpF3SGZ6/zTY+80IynC6dQa02e5685HCTOISFjwHUkRhek+quho697
+l0+PMVjGIkkS9vb2qFarzztvX+FgnR2jtUYIubATxZd+qTEQJoYsL1EAIeDyWodarXJ+7aIovhYe
+fFkY8ewLLxyQuLi/c4H+qgd+XeyOIs34wQf7YDm8daOHhUEpSZoVWLbCFBqhJMIYBiczhoHmymaj
+1MBS4FiyDCApSVZopsM5k0SwuV6jXpXYeU6z2aTmwCeP9rh2/SZV10XrAs/zOHr8BGPXWVvvYHTB
+dDpmPIvpNNpYnsS2XbI0xvWrOJ9DOtLM8NluynyaEacG11FYTqm5XwcI+1mlYH2ZVngdRxYnfHp/
+yFrP53/740PyvKBedZjPU1rdKnaeM4oNKkuIC0NWKP7x+4YgLfAcm2pFMY9yKrZkHOS4RuO2m6R5
+yjs3VqkKgZCS4dEuu08eM5+OUVaFJApwHYvJaUDVaTM57HAyHaJJGIxjLjW7jPUczxjiMGXz3dvc
+env7OUezMDCcJPzd935AWsB3vv0rGOO+Xu/0y1CO1zUiJYRAKomtBEkh6LdcDscJrmV4OIiwXEWa
+5ljSwvVcfvPtPh9/ekKWFzSkIM81s0BTa/qoLKPp21hKUK3bC6R3Mb9a0+iu8Fu/tYVVxBRCcu+z
+O9i+T9G2aHoeuydHNFp1kC6XKg0qyiePM2zlsXVlGafmfQE1MQZsp8LNt94h0eBWKhjy1+adPucH
+FEVhTk9Pmc/nvJKL2fCLseeMYTpL0ELSrNnM5ynBPOLRYcTtt/voPMcgsaTAcRRBlCJlyTaEkn8S
+JzmWKrNWpIQsLw3wVrNKo14jiiL6/f7zOHieI5WiKAqUkhSFWfwsFteRaF0gpEKyYD9+7j1pA9NA
+o41AGxBC0/AMUoqfRcm9kto5zzXjWVgK9PFgyHwevnLbU+nlg+vY5cszP+Xbe4Y4orUmzXJc20bI
+hVYVTyNpn/9e8YJrxmmGFBLHViAEruMszhM/98s7vwlKslic5ueP4toKS6mfepHrQhNnObyiCt1Q
+coQsKHHVwTR85TS0AWxLcbVdx3XcZxwEvYCWnmJxBvPs5k+e5SjbWoAHgnv37zCcpbx74yoV31ug
+CvIpFKYNhdYopUqtalnIRXQ1z1IKbZBSYlmK2WzG/Qf32bpylaVm66kkimfk0Zxp2gVY9iUgxtmz
+mAXshjFkaYYxoGyFUorHjx+ydzqhWm9jtGF9qUWv3TjnOhhTPrn8PJqyuBetS6Tlo49/QlhYOK7/
+Sgq0pRTdZr0UaCUFSqlX0uRQUqKkQikLU2T87V/8JbGyef/2bYo8p1b1mQcRtVqF2TzAcxzCYMLf
+/fk/8p1///e4vNpHScl8NqcoFEpJlLIQQnK6e5c//Ysf8J/+5/+KnQ++z8NjzXtvdfiH7z/mP/sv
+/yUPfvR3fPB4ylZT8eMPH3D927/OP/udXyHPRwTBHEuV9yWkYvfOR/zV3/6Qd779a1xebWGkhckz
+cqNRllvSYZMcz7OwLLtMtAhD6q0ONc/i3/zxH1HfeIvhnY84Hif8/h/8K66sdQiCgDzLsZSFkXpx
+/2VO46NPP+THnz7i3V+5TcP3sR0X27EpioIiTSiEottuIwTMplOsaqdkBL6CdrdaZE9ZAFLIc9vv
+VdPQlpJPE3eLjE8+/hE7o4gffe/vmIQp7717g+//7Y+4/tZVTmdzKp7Hrfdvc/+TD/lsZ59//T/9
+96x1SmxYlXlclHNi+Id/++f84f/x/5KTsXf3Pka7fPhhgWKZIk/4sz/9E/76s1P++Xfe5+G9JzQ3
+3zrXukrKhRlkkEJw9Oge/+b//nNGYcj//ugeK5uXiI+mRBiqdR/b9SFPqDQ8grjAFvDg4WP+xX/x
+X/Pd7Q5/9Ed/SPvat1gTmpNxQhiliIUWt1T5/rQ5y+8ste7RwQ5/9W//kmk85/6PPqSzuoW0Qmy3
+zt6De7Q3tvnv/tv/hrprLZ5flfNpXrWd2mBJhTgTaKXKrVK8gjaHUk9JVRrBO9/6Dr3hlKprEyY5
+vqe4cesdNtbX+LXNTaLBAbGy+NXf/WekRYEln0YCLSXPE37zLKG2dJn/+X/8HxjP5jg3rtGodQiT
+EbX6BnkccPX93+LGdy3m05iVtQ3WrqwuInOlQClZLhBtDP3Nbf7Fv/wP8Os1VnsNWp02ekMgLYWw
+C5IkI04117aX+cHHD/j2O9fo9XqsLrWZBwF/8F/9a4o8QadwFUm74Z8z5tTC1DFanOcxGm3orG3w
+O7/9W3jVCtn1a1y9dpvB8Wesbt9mo9/CbvS+8PyWUq/eNm1Kcw8hSqfwaDBmFkSvnJd7pqGTYMjp
+yfE5TCVEqR2LoljwgJ+nRxaFRipZWq8L23U4HLCx/TY1z+bwYPfchhVSYrT+XFRvoQWlXCQXmOd8
+tTgKQbncuPEWR/uPS665eGrHnvGpP49CGPMUghICdFFgFmFmuWCVnYe9F/c9Go1YXr9Cp7tUzgcp
+B3s7FEVxfq9lCFwvrv30Tp9+BsPRkO0b7+H5lVdQQ5c7k22pUqCzPKfQr6Z7K4A0TV462+arhpQS
+1/Mp8mxRi+TnuyfbdVFKEX9JStsvckghcD3/XDMXRUGSRD+1GayUwnW988ToV20URcFkGpQC/bpy
+od+Mf3dGluUcD0bIs236zXgzXuVxJsESXuEI0ZvxZnxuWACFNnz8aMgsykrHhS/W4TrzX/SzPNrn
+at290fJnNu27W23q/vP1OLJc85NHI6IkRyxKn51N4FmC7hct8aeffT7H73VWxZYlubXVpuI+zzrU
+xmAJIEwK/s9/2OHWZp0s0/i+/bwHrjUHh1O0EfSX6niO5OR4hlvzEWlKiqLb8kphXyRmmtdSmOHH
+D8ZUXIv3tjvP/W0SpPxf39vh/csNwijD8Wwqnk0WpwwmCctLtacibAxJUuC41rkimY4DMqHoNr1X
+1oH/Rc3xD+6N6NRdrq01npf1s9C3NoZ+y+N2T/C//OGn/MF/8j5Vp+QCZ1FGLmGWzNk9iHh7vYbJ
+Uw4ODklaHZZVSi586nVDvVFFWIKrG13ka2jHlAVxii8tZaANrLVd9OEho1jy67fXSaKYTCfsHU7o
+rrgYZVGx4HQ449MPT/jd371KMIvpdSr8xfd2qK4uc+V6m62Vxusr0FIwmmdfWdLhada3Mfzgx084
+OJnyvR/usPfoiO5al3g4ZRxAt6pIUs3f/P0ddnfnNGoW2cGMhwby3PA32vCt9ze59dZyqUFeQ4EW
+iwKSX7lbGqg2PB5+tMPR4YDTUcLl1RrTk5APHxyw0quSGMnv/9oGs3HIn/4/HzBLDEpo0rjgRjcn
+TvOyqM5rbHp8ndl1LtBFUSCrdf7j/+g2hRH4tmT1Uo/9PYdVYVNzFUVhiHVGvd2k6krGQcZqr1Zy
+AcKUpX6Nk3HEYJagXkOBtp/J4fuyobXBqla5fXuDVtNnMAhoNj2yjYI0z/FqHjrJGISarZtL+L5N
+lGqqnmR3f0a75XE0iuk2E+D1FGhbya8tqWw9tbUlN9/dJM31Ioq1gjGwstI+1z5nWqbkbz2Pj5xF
+v8o6eAnPniTOV5XgLD3u7Fpf7hC9qiYHJHnxpZi+oAzN91e71LptpBSsXeo/k+hq0Avex9nPc20k
+BFtXF3MFHIziL7iNzzL1ntbk/lyFJ76kvNriwy8r2XYhUYwznrl4gUALAZvLLYS0AEMc54DGCInJ
+c+azmCjVrKy28ZxSE8VxhuMo4jinWnPPQ8lnI0lShFQUeYHnO0gMT3YHePUKvmvhO4ogyqnX3H8H
+7A0I5nN+fP/0K5xzg5KCTrPONNIIytLFaaZJ45RKvYpryxJhMp8TNCHQec5gOMdIRa9TR2KIkxzH
+tZECxsMZlUYV11YMT8cMJzGNdp1+pwqLYpxpppHCIJTCsRTBdM44KGjUXKoVhzhKsV3n5890//9v
+ikmTgKLIv5JX/hzuUeiFlsVw5+4+xydTMuXQ8hTTwZzjUczN9zZZanl02j4/+WCfd9+7xP3P9ml0
+m0ijWV7voIxB2ZJ7n+zhtpocPTnBrnkYo7l/94TLV9rMYri93eIff3LI7//eu1Qc+UqbhUJAVryg
+H42AJNPM4wIpBXuPDnh4EFIRGrfdolOzGA8DlO+SRwmVZo08Csmkw40rXT756AmFV6dVGRJFKfsH
+U65cX2F4MiZLNGsbXeazkOPdU07GMd/97Vv4vkuhDel8zv0nM5oejMICaQmmxyOo1CjikBvvXObx
+nR36m5fY3mhi9MUU6SItvlZOvpgkK0peg2cZjqYJFhF+r8lwFGJZDuOjAcNJld/r1wjmMcPRnEf3
+j/BHMRSa7kqbg/0BraUmSgmG44DpLCKPc1SRUa15TCYhg0nC98OAyTRh/2TOjY3G1zpUr4JAv5A+
+YJ4puVYU7B9MGI9iMtfBywZMpx4iiUgnMSaNccOMIgoZhoIb15fp9+okwuHBZ0/AtXE9F6Uzwrig
+5khGJxN2dgbUGhW2Nmr0O1WCacAwKOg3LNI4YVrA6UlAreESxppmpWAcpnz80WOSOCXdH7B1qXVB
+UaoXUzSsZ99ImqYkWdlXpd6u8u5NC6Vz/KpHu+EglKJIE0TFJ80S2h2bvaMR195dIwhjhPLI04he
+vwrktPo1Th6fsnFjmTyKyKlRsSXCUlxDMwkzbr3lYUzCbB784vIDv6HtMIqir38AAUWekSUJpii4
+dLnH5mVDEGaQZ6hKFZHb5EZhchdl20ShYMn1KJKIesunrmy8d1eIMlBCE4QxvZ5Pu+6RpRl+dZlm
+3ceyJK7KcC3FiqfAGHodi7AQ3L61zOko5NJqA20MV650GI9m1Js18qwgiQKsiyjRAnSWfK3GsL6o
+acoqPK7ncGnZwXVtBAax1MBgKLKCOMnRCN5+59JzTqHW5ZabZTm2Y1Gr+3zr1saCdtl4Wst34ays
+LG5SSUGSZARRTq3qlqlDi9SgVwX+K4mZL16OlgLXEgjbYt1rYCj56DovQErUIm3qzMszpiTeGDT9
+fgMwLHX989Qp8Wwq5VlAy5yhKvr87pSSbG/1mYcpnuewutx8rnrSSr/2jLN+cdVKrsXX7JLyGYE2
+pizM7VoINN/72884DjRXr/SpVR10nuP4HiJP+eGPD3jn9gZogyU0QWq4vNHh8OEh1V4H4ozBKASl
+6LV8Do+nLK92aNfLzlDxPOT+zpRmRRIWAtsRjA+GDFOFpwpuvr3Jzv0ndNZWubJWeyVMkXPBEl9v
+chhhoxfZLKeHJzw5Sbi8WmccpNR8m3mQ0unWCecBfq2KR8b3fviEpbUOVd/Bc8rs8uP9IUsby1jk
+uJ5LHCZUmzWadbfsRpZn3L83pN3xGU1T/IpNGgTsHIR0Wjad5T7FfEwsfG5u9xaL6Fn442KqDSOL
+rw26WJ+b73PhHg3nTFP48Y8e8fa7mwz3j3hyErO2UiNLEv7mrz9B2ha2lDQbHspxCMZzqNY4vb/H
+3cOE5Z7HZ4nBtQyJsbBXPY7HGUsNi+EoQGSSTx4MaXcqnB5O6K22eXI4ItEwPhkxSBSbK7VXJ0bz
+Is0mns6y0QV7ewP2jkPGJyM83+aj4xndpSaP7h8wnsVsbK9zc73CfJ7SDgJ2hyG9huLDj/axHBvb
+tbj/8ISlpSbBLGLr5iYVB/aPZqwu1ZhOAhxX8PDuAbV2jflohl+vcXQ0ZjTLEHlMbBy2Njs4r0Tg
+4MVNYK1nZ1sXBYUxCAztbg2RQKvm0q1bnADray18xwAV+isWQVLQrlVo1m1cC4qKzb37B9Rth2vb
+dbpNm939EXceDOhvrWE7Ft22wrIEFbfgMCi4cb3HyShk+9oSQkK7vcpgMOHS1jIYQxinr8RkCwH5
+S5RTK8uu5Zgiw636bG26xLFmdamGaymWVlrMpy5+LaRRd5C24u2312g3LGZhQTCZ0u03aNQcLNdi
+dbVBo1XDtUzZMk8Kep0KUknabZf90xlXri0zGgesbnTLgFe/QjidoxpN2gKiKMHyrVfAfxGYF2zX
+1rPaI01ToqTM/Lj+9jJ60UuwKDTf+tbGUx0uytKyhTbn2bZCFFTXmnRWNEIu0v+1xnFbVOoOS43S
+aTIYohy2r/YWfQYFa6u1c+9VSsHWpcY56y+L5mTPpCUZc3FtvCSJX6CkBcJkSB0jBNy82qUEPMpU
+qLXlCoXWyGUPY9rn9u3WpbK0QKtpY5ZdbvBsPbfWYnNoLJJyE6oOGFOwtdVmU5uyH6SuLxiSZ9X9
+W+eBL2Ny0DlojUZgKfF8WYULM98CY9KXFGhj8H0fr1JHoPnkk33q7SonRzPW1jtUPMWTRyf01nrU
+Kza2kggJn312QLNdZTiMuXy5jSMVlio99zSM2Hk0x6tX8bwqAvBcGyk0jx6e0l5u06y7i/oa8ty0
+2N87IVcerknZOZijFNRbdbJZwCzOELbNjWsrNKv2hZlrIWA+myHE8GtNEqk8pGMj0Nz7bI8wB1sI
+lte7uLYkSzKUbWHbCl1oPN8lnEy583BAd7nN2lKNLCuYjUPa/SbogjQvGBwMORwn3Li+gmMrbCVI
+swKEwBaSQkPFt8+jiLPxjLgAnWZ4NR8l4cn9A0S1giUEm5faPN45ZWNzCceRF0agy5DU7OVwaGMM
+RpREpZ27BwzSHJ3A/sGQaqvGZP+UBwdzVnsemZHcemuVx3f2GaU5rlsjiQIe7c1YXaoyHs7JUk0U
+JEh7wsHRiE6nismh7mi+98Eh77y3jskLLm+v0qtZjIOcftvj7t19ZrlFw7N5571NHv/kIX/zk10s
+Y0gL2Ly+tkBUXjGOzjONiYwu2Hl0QmgErrIojObJzoBqxSbOoN+tsH844a1bV6joEGU7DPePeXBn
+lyzX2FLxq50G0+MBP/roiO2tDmjYfXTILMpIoxTLtkBZiCwhLCS/8evXMVkClk04mjFKFNlkxCgx
+OJZgcDJj5VKb45MZxhR8dmcPq1rl8kr952pY9At1vF/ehn6qRbSG1Ut91isW46MZk7DE/qo1j6Ji
+YwvNKBb4nsXapT4bFZtgHDMYBOSZJggSZvME13VoNJ/WKFaWJJgGjEcpy8sNWnWP+w9OuF33MTpD
+CIiCiExYSMp4/cOHJxjl8N7tTXSU8Hhv9Ex94oslzeYljznjwnieA0bi2ZLpOCTLNXluaDRqdJou
+ByczpBIoqRiPx9TrLq5doKWEXPPg0TH5dEaeayzHptmwKLIYYwye59LrVsGyGR2dkkj1NJxuDJVG
+hcf3jkEofNeQF4Z+v4nRmnrN5f7DY+qNKuPRnI3l+ivhc38hsBLFEWFU2tDLl6pYtqLfdtDGkCQ5
+1mYdyxLMJyFbLYfxeMzypSq2rcjaDitZBaUUxwenJNrjvXdWFw03S2J2khbIvkuhwVaCLMu5utUk
+DSdkgC0hSgtuv1M6hIXWBEGK263ieTZGe/RXKyRZQRpNGWZy8ZRPy2x9U8kF4iVtaJ0n5HGEEHD7
+/RUKI3BsSZ4X5EUXxypbuFmWpNG0sB2DLV1u3Wzh+S5KtIiTHIEhKzT2Uocr2208z14Iq0uSaVxH
+LchHkrXeMnFaYJsQ5QkgxSjBW1ebCGVjSXN+DpTfnSQZrmuX9xVPL4zS0HnysjY0+J6H61URGE5O
+59i2Q5qmdHs1JIbptHRmvKUqUkp830LJkqgkpCAKInb2xixfusTV62XDyTzPUMqiyDOEA3XbsHMw
+Y2mjw3gSsLHR5PRkTLVRIw1CLLdGEgSEicF1Xba2emUY1kAcJ0jLsFqzGE4SbKWwHYs0zkjSlGlY
+sL7WwvkGWsoKYB7MEWL0tSrGtl28Sils89mEVAvqzTpVKRa9CDWD4wl+06e/1ERrQzibM5tpKvUK
+eRIzjyUrK00cS5LGKVkB1YpzrvmrC212ztyTgqp+pjbJgkVWFDa2o8hyQ6fhUKQJj3fHtNtV/EoD
+dI6WDl7FvTCbYZ5IYP4yJscZvVMhTcEP/v4umW2RpIK3b3TZ359wOpgjhaHRbXF5rcVkPMP2XMJZ
+xOXra6w0LB7cPWbjquCjwyH1WoVGwyeLUmZRjLFdKjLneJwSx0WZynU0Y/dgzPWba+w9OkTYHkvd
+CsOjMdVel5XlBlGcU/FtDp4c8+lezHvXW/zgoyP6NQdtOwwPR1Q6Ddo1iygT3L7R+6V3lhWLSNWL
+DioM5FoidMYHP3xEbDm8dX2Zg70hrVaF6Swhms4pHI+N1QbD4RxZFBwdzXHqDQaPDzgOCgaDOXGc
+kMwjUuWx0nUJogKJxvMdgiCj160wmkR4jmIyi1le63N1s02cZDiW5LNPD1hZa/Lo0QDbtymShOG0
+oN0Y4jbaVEzEcSD4ze9e4ULw74SgMC9rcvBMIibQ7TSYFTk1V3K4P+LJ7pT+coNWxcIIyf6TAbNZ
+SGE5OLKgOU7YXq2z0m9go5HKYjSYEoYp8/EMu1bFkQGhLkO/e7tDKp5iMAxJhODkaMxwGBKlAeiC
+06MJq7UmRZ5xcDRjY63Jk8Mps2nCP/0kJE0L9oKElfXueVWj87xdAcL80uf65clJC+l2XAtpWUwG
+Mw4PxqS5Jg4TXNtmteOz8+CIeappVm2UJRGLbrLVVgNf5Tw4nNKqOTRrDkd7QzKpcG2H5aUGe7tD
+siTFchRHgxnLKx3m45B8rcHJyYyVlSaWguNhQBynFFKQBinNmscsjBlOj1BKkheCaZjRrtoXQKR/
+SnJSnCTEaQjGsLrV4lrNZT6JGM8jessNHLvcwvJcU/EqzOYe1apHmiQ06zCaTFlaq+J4NmmR0txu
+Mx3NWVpewRIaY9u4i1B51REMJwlbV7tMpxGVioPndahVfaIopttdo9l0iOKEftchDOZc2V5iWxhm
+YUa77jGeRHS7dZL1Kkmc8MEn+2zfdBlPpr909EMAcfwicpKgyBLSJEEYw1vvriElTKYR7767TK3m
+EscZFd/FdRVLfZ9ZEGPbZeneulvgXe3h+B7SFFiexHUdsqxgfWWFKC6oVlw8V3LjWpd6w2M6jalt
+tXEstUhiTllb9jE6Zf1SneNRyO3315iO57ibTRQG2+2RxglGWTgKZBGRJuk3jygJMFn88hraUhLX
+KfFgYSDJDf2VNquyU5ZgzTVxWtCoe2hd1lgOk5xarYdagPD+qosx0G3XmE4iVpdaSPl8C94yOwM2
+LpWRs+V+E4FBXuqhlCAOY6ZhTr3qYluSLC9wPJflilc6rItrdTuNEkFp+AgE6+ulqXEW7PllC3SR
+py/gQRgsS+G7dol1aENhYGur8VwwQ+tSaQgBvV4DjCGOUtI0x3VdKr6DkpKb9ernDMby3LMdVhea
+pW5JQpKq5I/MJgE5kopn0+21aLbqWJZiqVt/Sk4CoP5MBssFoUEKQUb+8oEVy7JRtoUwmu///X2O
+Q83tW+vkccL4ZMIkKpl2N9+5xI3LbT744WMi6XJjq8XJIKDq2YznCf1ujfk04N7dY/qbS2yvNzg+
+ndNq+OwfjtncXmWl7WEMRNMZ93ZK4vk0E1gWDPcHxJaHzBNuvXeFe588YWVrg6uX6heWqFSGvl/c
+Gs8IiwIBRnPvzg6nkeTa5RZxqrHQhJnhylaf0fGI0ThkHGl6DYd4HrN/MKG/1md9vcF0FpdwX5Bg
+uw4N3yZINJc3u1iy3JoHRyfMMkkeBEjPxQjYu39AY7lDGCTcfmeNDz/c4d1fuUqz8gKT4gKwDwQC
+TfryGvpZTRLMY9JM8PGPHzEOMiq2oNtrIhDsPzphbaVJo+EzPJyxt2f4+OM9jLS4stnhs0/3uHJ9
+FdtSpNMZf3V3jyA3XN/ucXg85fK1NSbDKSfznJW6xWwaQWq492RCp1Ph9Digt2JxeDoj+/FDpqMZ
+ASdsrdcvNlHJvPzfpaXo9+qIuebeJzvMc3CkotX0OK7XaLiSH+4OyrrdukowmJHnBUf7A4TJePzo
+BMdz8FyFEJIjJYi1ZG2tzXg8wTgeoiiYz1LS2ZzR4ZSKK4lSgxuGnJ7O+eiTgtPhjL2DCa1r/Vcg
+SmVeWJT/ORs6z3OyokCg6a/UcRLB2lKVg5MpzZrHPEhZWe1godF5hpGGatVBSsPSapNWs8pKv0a9
+ahGmCcvrLdp1l3a7wmAaIcnxKy46S7ArNsuOjRSGakUzyQS33lni8DTk5tsrGAyrq5ucnIxZe2cD
+XRTMgxhbiQuZBSAEpC+qgCpAFzl5niEKges7tC2ouj0G04xGzaPqldiz57lsbPSoOALpuGR1h6ww
+520qVtdbNJtlbiam/O4gKTA6o9mqYBBou8LB4BC3XedKTzONCpb6dYwULC/VGY4C3ru9gUGTpSmv
+QnqFzrOX19B5npOk5bZ59cbyeQ3j1ZXaMz1BFsQYnbG21mJtvfz96pXu+XXabfe5XarT89k0TTAl
+ocmyDFmWgAENbG8vnR+/utxYkGfKJNCVpXXOZNjkMUl2MSdaCMjShBft25ICiwwBNJouDQzGOGyd
+d1B4eoH33156JipaP6cnnDdIeqZd8tkLKpttLq6hFO/fWn/uHqFMGBBSsb3ZPrePtUl5FUYhipe3
+oT3Pw/UtBIYPfviAk0Bz+9YlpC6oVl1msxjfdwjmMV7VQ6cZwlKkcUajWcN3JD/5aIfeSh9baIQU
+ZLmhuiAzTachmVZYGmr1ChW37OtitOHh/WOa7SqjSUyz6ZInGR98cszaWp1qo0FVppzMDe9e71/I
+nVEIUMoCMfj62K1yEbaF0QWf/mSHYViwealDxbfRgOtY5GmOBmzHxl9EACWa+/ePKJTNSr+GbVsU
+eYFfcUniBCkVaZKhHIdmw0UuQqdHe6cozyOYhtSbFcDw2cf7dFdaGGGxsVThwZMxb91c44Jufs/D
+yhpg+nIa+pycpDUHu0NOM0j/MWI4iei1q0hLkoYxRtroPMNv1thea/LhB49ZurLBt641uHPvkN3D
+GQbFlUs1fvCjXar1Klc3WxzsjwmTAr/m0O61+dbbffYOZywv1Tk8GCEswUcf7OC1KiTTkEK67O4c
+o+05DSfncKLZ2uxSuTDsr8/xDF6G4L+o4C+VRavuEuuMJ3d3mUQ5qDKFqNAaIwUV38N3Fb31Pk2r
+IMhBBjP+6fEx/V6Nnb0RvU6N8TgoQ93KwvNdvv2dK8yGMyrNKtPhDFWHg4eHZLaN1DmzWYGwxgxn
+OVlY5cHOiKXVLv3mxS4ncdb94CVNjjIWZLRGG0Ot6ZMngk7bJdOGZtNnHibU6hX6/RbT0zGRgPF4
+Tm7KXteTaUB3uU00C1lZ7ZDHEcq2qfqKJ/sjBALbtZASHNcCIahWHKQUdLs+93YGLF/qEIQxbqeO
+aysyPKJ5SJDbdJsWk3mMv0BILpqG1i9xU4bFcUbj+g71QkLiUmk1sC1BOI9wfA9Llt1tR6MptZpP
+1crRu2X10k63wcpyleEkpNbwyfIc17NptxqQ52htcH0bJQXNTo17TwZ47TpOnlEYi7WapBDQqQuO
+RxHLSw1ms5Be07kQrLqvm+SXF2gBcRQRxikguHpzCW3AdRSX1mtYVlkw5qy5UL/bI89Lvu3KatlQ
+XUq4fXPxOQJjLH57qYZlSfIs5/R0ilur0qhY2I5iNpsiBQTzlO5SlWrLw3EUWVpBWWphBkqMbi16
+7YHWIcNhdCFNjiR+MTnJFAkmjdACmm2HZttBr/nlzggY0+RpiV1N0HeoeSlKCW691TvvKyOl4De/
+u4aUCrNVf9oRDBAmxHUFmIh2x+G9Wg/LtjBFcT6PSpU9W/QiSSMvNEUyu/BuoSl+GnLSGcFfwHwy
+Z+dgytJKneW+XXZz0pqzXMqD3QGdlQ7DwwG1bps8mLM/Stja6lGtll2Z8rxAWSVRXSnJ+vpq+VVa
+s/PomGliWF+pc3g4wfZsisywdaWDY329MWcupvJgPp+9kJykLBfHtzG64MnjE4Ictja72JZCYsos
+IEud18WYBWOizCIYxiyvtlALx1EXhsnRCbMEtrf75+3czthyAEWWMZ2nOJZFYSw8XzEdTDieZjRr
+Dp1eg9lohl/zqFXtZxoiXdyRJ3N+CnLS2d5Z8MmdI6Rjs/PoiH86neLYFgUWG2tV7t47RRpD/XDK
+0f6I7/xWjaM7e9w/TYnisodeq+5xchKwstLgye6Aze113r3WYTpLqFdtPv1ol0EKu088tq6uUPcE
+P757yuaVZUDw6rYwekHodoH0CCHJ4pjxHO5Gu0SpJk8yCgS1uo/vWqxf6nL/4ycM4oI0yNi+eYm6
+A4NJyDzKMHFMUihOBxO0Lp3rq29t0mvYxJnGKlLuPxjRrUmeHAfYnmI+mOI2mzx5NOPy9Q2OHu/R
+WFnh9o3l85Z0F9kp1D8LOUlIga0E42lIFKRMgoR61aG/3CCZRQxO5zQbPmGQUqt5WErgVzyWuzbB
+LEYDYZSRJAmnJzMms4Q0L9DaMJnGVCo2lq1wkXieRRQmhFKheb744Cslyi9bQmTRWk0IQb1eIRGa
+cDYjSwu0lvQ7HvMgYX8Sc/XaKq12E1trsiBhNJgw0jlJUlAoha8UthBMxiG2a+O5Ht12hTyKmIc5
+3YaNKVJOpqX2LnKN5bg4UhNLxb07T1BKkQ+mpMXSOXf9lVUYnw+shFFIFOcgYGW1ghoK2lc7REGE
+RlKr2mSp4TvfWaNWcTBGMw8zbBHTX2+yJAVxnBIlObWaR6dlUa/7rK/7OJ5hOpvSrAuC2ZTLV9ss
+54Ju22M4mJNkFpubVWbjIdGrWC1dQJ6m51VDv8pWKrKILC555dWGhVcT5F1BnBkqroWUgjiUxIWE
+bM7aZg3bLSv9R+fcZ5sgTPEcCynlooF9ge85kE6xLEG/CcakbG1WiTJo1hyms5hqpXT8XK9PGER4
+vocuCnQ8JZMXf5KFSRcJ1C+BQ7sK3GrpjIlqlZVetbSZ+/5TaAr/c6Vbz/K8nMWFnv5dLC/OX6p8
+Lltb0q53zq+50vHP2TVGv7rtLKx6Fd+bf4UnXr6EXt2mfTbHzwj/8yGV1lMrUFQXk1k7L3/75Y3u
+n0KHz5XMXa8hvvQcAzSes+9fhXm3VI07B8lXQqTPs+0sha0kb8bPNpQSX+gO+/kN07IUjrDeTNbP
+OKQUX2uOns9skmlG8/Qc+nkzfgaBloJ5lH+lMEdpwWievmly+vMItIAgyb/SurYMoITBcyR/8g97
+X6th3owXuyxhUlD3FVmWf26rLAue//Hf774R6J8LiIYkK6i48rk5zhYBJZHluRkMJ2T5V3Rv0gZj
+9C8JnyyJNmd9q19JoRbiK2srG/Ny0cRvauhCL3pUii9/rgui7L5sjrU2uK7N/wenUY0qOUho2QAA
+AABJRU5ErkJggg==
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.activeagenda.net/documentation/skins/common/images/poweredby_mediawiki_88x31.png
+
+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
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://creativecommons.org/images/public/somerights20.gif
+
+R0lGODlhWAAfAMQWACAgILC2r9XX1VZXVpaXlu/v77zAvLi9uLK3scDEv8nNyK2yrLW6tMXJxK60
+rXx8fEBAQM3QzKyyq6uxqv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEA
+ABYALAAAAABYAB8AAAX/oFWNZGmeaKqubJuK1STP9CTd97I4fIAgDMbhYDAkjo2kYhlpOpvLZfKY
+KA6Dv0CAp1vgbrUZKVz7SnQ8hxYoHBqRjehz7oxOj4bhAYvYcr04NmQTI4MyZmc7PT9Bbm9KCk4M
+AyUAAwxPUg14eXsMWWk6iIOFhjY4XT0+QHqPSk6UFQAQDxAkD5FQSZtVep99fg6iX6QxhmZoi2xC
+RXBMEZQABBTU1IQVA5l3Vp6gXKNkpYPIimqMzK7PDxUQBdXvAgAVD3UK21e/wcOB4cZkiMnMsXLj
+LFKDEQ3eKRSAEIo9Xlb46APEL4y4cagUrRnYLMGrCOseUChA4IEBCgIe/zwQQIHSSl0QO+Xzsw9M
+v2PklAVhVjCCAFsRKMgb8UAeAAACDg4Q4HAKN4l/zBQz9SWVwEZEjEBqYotCgnkUSsZQcJICu3r3
+dnoTRlGQRX9hJJy6IUxnozcemSjo+lVkygonWZqFwDSCpioy80WV+hZnVY3nHHmMk8uWgALy1tmC
+YKsAQwjaIHpSzJZxY8c50qzaSaSngnXTDgygRaEWhAVh5xU+/JS0MHA1LsbNCJmN5K0RGMhyp7Aa
+5gqYmnIaDWwxsdP/zNRVsxqdsyYCKA1oXk28T5ibnmahWVMu9uwZVUfuiLyBPMILbQFQUNjwtjxQ
+ceGAacHBNVx8dhE02f8zAigw1AAEGPBALBA00N9DonXTRygU2fTegajIZ1xWPYFXlAkAvIRWTPis
+1d5U48yViEbdKYjcExMQAOEETPVn2EN4+LLeHx2692EZOSVI4oK5zCGAjytOp6E+A17XjwtYZqnl
+llhOUxsAQcVDDWfUVFDNOmZSs4CZEIxHgQEA1AZBbdV4ieac1NRSDQR2ijTmmSnN6SYFeNZGwpw6
+0mmmnwO4yWYJhI7HZm6EyjmYWWFJyo5Z08xJQqaKblrBNAgUMEABno4QqVkjSCMUbYu+qdJJj35K
+5qQhxamnqNPMMoKnIqU66qsi/WqWSA8UkKywhAory5jF0unlNGkSqqq3mriqFGc1ouI5FJ7KFvos
+oX5WmuecE6DKbbOsygKBNClhiuyT0dryqUoMVernnLt6OgsBBRiLqLDvEhCvwJSGx+ytxuoZbbB/
+1qrqrfri6qmnlhoLFrMOswqsWe4wzKawrqJ06kjjQWBABBiPOTHGfO6ZsadeMiQqxNSUHG/ExSZw
+ac5nmqAtNhPOY8kAKc6jkr0nFlVUio1a8u46SSs9VNIppji0trRoS7VmX3s9NJdkl202CyEAADs=
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.activeagenda.net/documentation/skins/monobook/main.css?9
+
+#column-content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: =
+0px; MARGIN: 0px 0px 0.6em -12.2em; WIDTH: 100%; PADDING-TOP: 0px
+}
+#content {
+	BORDER-RIGHT: #aaa 1px; PADDING-RIGHT: 1em; BORDER-TOP: #aaa 1px solid; =
+PADDING-LEFT: 1em; Z-INDEX: 2; BACKGROUND: white; PADDING-BOTTOM: 1.5em; =
+MARGIN: 2.8em 0px 0px 12.2em; BORDER-LEFT: #aaa 1px solid; COLOR: black; =
+LINE-HEIGHT: 1.5em; PADDING-TOP: 0px; BORDER-BOTTOM: #aaa 1px solid; =
+POSITION: relative
+}
+#column-one {
+	PADDING-TOP: 160px
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: =
+url(../common/images/watermark.png) #ffffff -80px 0px; PADDING-BOTTOM: =
+0px; MARGIN: 0px; FONT: x-small sans-serif; COLOR: black; PADDING-TOP: =
+0px
+}
+#globalWrapper {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 127%; PADDING-BOTTOM: =
+0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+.visualClear {
+	CLEAR: both
+}
+TABLE {
+	FONT-SIZE: 100%; COLOR: black
+}
+A {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #2461aa; =
+TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #076bdb
+}
+A:active {
+	COLOR: #2261a8
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A.stub {
+	COLOR: #901800
+}
+A.new {
+	COLOR: #e02a06
+}
+#p-personal A.new {
+	COLOR: #e02a06
+}
+A.new:visited {
+	COLOR: #e02a06
+}
+#p-personal A.new:visited {
+	COLOR: #e02a06
+}
+IMG {
+	VERTICAL-ALIGN: middle; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: =
+none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+P {
+	MARGIN: 0.4em 0px 0.5em; LINE-HEIGHT: 1.5em
+}
+P IMG {
+	MARGIN: 0px
+}
+HR {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; MARGIN: 0.2em 0px; COLOR: #aaaaaa; HEIGHT: 1px; BACKGROUND-COLOR: =
+#aaaaaa; BORDER-RIGHT-WIDTH: 0px
+}
+H1 {
+	FONT-WEIGHT: normal; BACKGROUND: none transparent scroll repeat 0% 0%; =
+PADDING-BOTTOM: 0.17em; MARGIN: 0px; COLOR: black; PADDING-TOP: 0.5em; =
+BORDER-BOTTOM: #aaaaaa 1px solid
+}
+H2 {
+	FONT-WEIGHT: normal; BACKGROUND: none transparent scroll repeat 0% 0%; =
+PADDING-BOTTOM: 0.17em; MARGIN: 0px; COLOR: black; PADDING-TOP: 0.5em; =
+BORDER-BOTTOM: #aaaaaa 1px solid
+}
+H3 {
+	FONT-WEIGHT: normal; BACKGROUND: none transparent scroll repeat 0% 0%; =
+PADDING-BOTTOM: 0.17em; MARGIN: 0px; COLOR: black; PADDING-TOP: 0.5em; =
+BORDER-BOTTOM: #aaaaaa 1px solid
+}
+H4 {
+	FONT-WEIGHT: normal; BACKGROUND: none transparent scroll repeat 0% 0%; =
+PADDING-BOTTOM: 0.17em; MARGIN: 0px; COLOR: black; PADDING-TOP: 0.5em; =
+BORDER-BOTTOM: #aaaaaa 1px solid
+}
+H5 {
+	FONT-WEIGHT: normal; BACKGROUND: none transparent scroll repeat 0% 0%; =
+PADDING-BOTTOM: 0.17em; MARGIN: 0px; COLOR: black; PADDING-TOP: 0.5em; =
+BORDER-BOTTOM: #aaaaaa 1px solid
+}
+H6 {
+	FONT-WEIGHT: normal; BACKGROUND: none transparent scroll repeat 0% 0%; =
+PADDING-BOTTOM: 0.17em; MARGIN: 0px; COLOR: black; PADDING-TOP: 0.5em; =
+BORDER-BOTTOM: #aaaaaa 1px solid
+}
+H1 {
+	FONT-SIZE: 188%
+}
+H2 {
+	FONT-SIZE: 150%
+}
+H3 {
+	FONT-WEIGHT: bold; BORDER-BOTTOM-STYLE: none
+}
+H4 {
+	FONT-WEIGHT: bold; BORDER-BOTTOM-STYLE: none
+}
+H5 {
+	FONT-WEIGHT: bold; BORDER-BOTTOM-STYLE: none
+}
+H6 {
+	FONT-WEIGHT: bold; BORDER-BOTTOM-STYLE: none
+}
+H3 {
+	FONT-SIZE: 132%
+}
+H4 {
+	FONT-SIZE: 116%
+}
+H5 {
+	FONT-SIZE: 100%
+}
+H6 {
+	FONT-SIZE: 80%
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: =
+url(bullet.gif); PADDING-BOTTOM: 0px; MARGIN: 0.3em 0px 0px 1.5em; =
+LINE-HEIGHT: 1.5em; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: none; =
+PADDING-BOTTOM: 0px; MARGIN: 0.3em 0px 0px 3.2em; LINE-HEIGHT: 1.5em; =
+PADDING-TOP: 0px
+}
+LI {
+	MARGIN-BOTTOM: 0.1em
+}
+DT {
+	FONT-WEIGHT: bold; MARGIN-BOTTOM: 0.1em
+}
+DL {
+	MARGIN-TOP: 0.2em; MARGIN-BOTTOM: 0.5em
+}
+DD {
+	MARGIN-BOTTOM: 0.1em; MARGIN-LEFT: 2em; LINE-HEIGHT: 1.5em
+}
+FIELDSET {
+	BORDER-RIGHT: #2f6fab 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: =
+#2f6fab 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; MARGIN: 1em =
+0px; BORDER-LEFT: #2f6fab 1px solid; LINE-HEIGHT: 1.5em; PADDING-TOP: =
+0px; BORDER-BOTTOM: #2f6fab 1px solid
+}
+LEGEND {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-SIZE: 95%; =
+PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+FORM {
+	MARGIN: 0px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+TEXTAREA {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; =
+WIDTH: 100%; PADDING-TOP: 0.1em
+}
+INPUT.historysubmit {
+	PADDING-RIGHT: 0.3em! important; PADDING-LEFT: 0.3em! important; =
+FONT-SIZE: 94%; PADDING-BOTTOM: 0.3em! important; MARGIN-LEFT: 1.6em; =
+CURSOR: pointer; PADDING-TOP: 0px! important; HEIGHT: 1.7em! important
+}
+SELECT {
+	VERTICAL-ALIGN: top
+}
+ABBR {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: help; COLOR: =
+black; BORDER-BOTTOM: black 1px dotted
+}
+ACRONYM {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: help; COLOR: =
+black; BORDER-BOTTOM: black 1px dotted
+}
+.explain {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: help; COLOR: =
+black; BORDER-BOTTOM: black 1px dotted
+}
+Q {
+	FONT-STYLE: italic; FONT-FAMILY: Times, "Times New Roman", serif
+}
+CODE {
+	BACKGROUND-COLOR: #f9f9f9
+}
+PRE {
+	BORDER-RIGHT: #2f6fab 1px dashed; PADDING-RIGHT: 1em; BORDER-TOP: =
+#2f6fab 1px dashed; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: =
+#2f6fab 1px dashed; COLOR: black; LINE-HEIGHT: 1.1em; PADDING-TOP: 1em; =
+BORDER-BOTTOM: #2f6fab 1px dashed; BACKGROUND-COLOR: #f9f9f9
+}
+#siteSub {
+	DISPLAY: none
+}
+#jump-to-nav {
+	DISPLAY: none
+}
+#contentSub {
+	FONT-SIZE: 84%; MARGIN: 0px 0px 1.4em 1em; WIDTH: auto; COLOR: #7d7d7d; =
+LINE-HEIGHT: 1.2em
+}
+#contentSub2 {
+	FONT-SIZE: 84%; MARGIN: 0px 0px 1.4em 1em; WIDTH: auto; COLOR: #7d7d7d; =
+LINE-HEIGHT: 1.2em
+}
+SPAN.subpages {
+	DISPLAY: block
+}
+#bodyContent H1 {
+	MARGIN-BOTTOM: 0.6em
+}
+#bodyContent H2 {
+	MARGIN-BOTTOM: 0.6em
+}
+#bodyContent H3 {
+	MARGIN-BOTTOM: 0.3em
+}
+#bodyContent H4 {
+	MARGIN-BOTTOM: 0.3em
+}
+#bodyContent H5 {
+	MARGIN-BOTTOM: 0.3em
+}
+.firstHeading {
+	MARGIN-BOTTOM: 0.1em
+}
+.usermessage {
+	BORDER-RIGHT: #ffa500 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: =
+#ffa500 1px solid; PADDING-LEFT: 1em; FONT-WEIGHT: bold; PADDING-BOTTOM: =
+0.5em; MARGIN: 2em 0px 1em; VERTICAL-ALIGN: middle; BORDER-LEFT: #ffa500 =
+1px solid; COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ffa500 1px =
+solid; BACKGROUND-COLOR: #ffce7b
+}
+#siteNotice {
+	PADDING-RIGHT: 0.9em; PADDING-LEFT: 0.9em; FONT-SIZE: 95%; =
+PADDING-BOTTOM: 0px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+#siteNotice P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+.error {
+	FONT-SIZE: larger; COLOR: red
+}
+.errorbox {
+	BORDER-RIGHT: 2px solid; PADDING-RIGHT: 1em; BORDER-TOP: 2px solid; =
+PADDING-LEFT: 1em; FONT-SIZE: larger; FLOAT: left; MARGIN-BOTTOM: 2em; =
+PADDING-BOTTOM: 0.5em; BORDER-LEFT: 2px solid; COLOR: #000; PADDING-TOP: =
+0.5em; BORDER-BOTTOM: 2px solid
+}
+.successbox {
+	BORDER-RIGHT: 2px solid; PADDING-RIGHT: 1em; BORDER-TOP: 2px solid; =
+PADDING-LEFT: 1em; FONT-SIZE: larger; FLOAT: left; MARGIN-BOTTOM: 2em; =
+PADDING-BOTTOM: 0.5em; BORDER-LEFT: 2px solid; COLOR: #000; PADDING-TOP: =
+0.5em; BORDER-BOTTOM: 2px solid
+}
+.errorbox {
+	BORDER-LEFT-COLOR: red; BORDER-BOTTOM-COLOR: red; BORDER-TOP-COLOR: =
+red; BACKGROUND-COLOR: #fff2f2; BORDER-RIGHT-COLOR: red
+}
+.successbox {
+	BORDER-LEFT-COLOR: green; BORDER-BOTTOM-COLOR: green; BORDER-TOP-COLOR: =
+green; BACKGROUND-COLOR: #dfd; BORDER-RIGHT-COLOR: green
+}
+.errorbox H2 {
+	DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 1em; MARGIN: 0px 0.5em =
+0px 0px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.successbox H2 {
+	DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 1em; MARGIN: 0px 0.5em =
+0px 0px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#catlinks {
+	CLEAR: both; BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 5px; =
+BORDER-TOP: #aaa 1px solid; MARGIN-TOP: 1em; PADDING-LEFT: 5px; =
+PADDING-BOTTOM: 5px; BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 5px; =
+BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f9f9f9
+}
+.documentDescription {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN: 1em 0px; LINE-HEIGHT: 1.5em
+}
+.documentByLine {
+	CLEAR: both; FONT-WEIGHT: normal; FONT-SIZE: 90%; COLOR: #76797c; =
+TEXT-ALIGN: right
+}
+.center {
+	WIDTH: 100%; TEXT-ALIGN: center
+}
+*.center * {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.small {
+	FONT-SIZE: 94%
+}
+.small * {
+	FONT-SIZE: 94%
+}
+TABLE.small {
+	FONT-SIZE: 100%
+}
+#toc {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaa 1px =
+solid; PADDING-LEFT: 5px; FONT-SIZE: 95%; PADDING-BOTTOM: 5px; =
+BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #aaa 1px =
+solid; BACKGROUND-COLOR: #f9f9f9
+}
+.toc {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaa 1px =
+solid; PADDING-LEFT: 5px; FONT-SIZE: 95%; PADDING-BOTTOM: 5px; =
+BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #aaa 1px =
+solid; BACKGROUND-COLOR: #f9f9f9
+}
+.mw-warning {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaa 1px =
+solid; PADDING-LEFT: 5px; FONT-SIZE: 95%; PADDING-BOTTOM: 5px; =
+BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #aaa 1px =
+solid; BACKGROUND-COLOR: #f9f9f9
+}
+#toc H2 {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FONT-WEIGHT: =
+bold; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; =
+PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; =
+BORDER-BOTTOM-STYLE: none
+}
+.toc H2 {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FONT-WEIGHT: =
+bold; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; =
+PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; =
+BORDER-BOTTOM-STYLE: none
+}
+#toc #toctitle {
+	TEXT-ALIGN: center
+}
+.toc #toctitle {
+	TEXT-ALIGN: center
+}
+#toc .toctitle {
+	TEXT-ALIGN: center
+}
+.toc .toctitle {
+	TEXT-ALIGN: center
+}
+#toc UL {
+	PADDING-LEFT: 0px; LIST-STYLE-IMAGE: none; MARGIN-LEFT: 0px; =
+LIST-STYLE-TYPE: none; TEXT-ALIGN: left
+}
+.toc UL {
+	PADDING-LEFT: 0px; LIST-STYLE-IMAGE: none; MARGIN-LEFT: 0px; =
+LIST-STYLE-TYPE: none; TEXT-ALIGN: left
+}
+#toc UL UL {
+	MARGIN: 0px 0px 0px 2em
+}
+.toc UL UL {
+	MARGIN: 0px 0px 0px 2em
+}
+#toc .toctoggle {
+	FONT-SIZE: 94%
+}
+.toc .toctoggle {
+	FONT-SIZE: 94%
+}
+.mw-warning {
+	MARGIN-LEFT: 50px; MARGIN-RIGHT: 50px; TEXT-ALIGN: center
+}
+DIV.floatright {
+	BORDER-TOP-WIDTH: 0px; CLEAR: right; BORDER-LEFT-WIDTH: 0px; FLOAT: =
+right; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 0px 0.5em 0.5em; POSITION: =
+relative; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE.floatright {
+	BORDER-TOP-WIDTH: 0px; CLEAR: right; BORDER-LEFT-WIDTH: 0px; FLOAT: =
+right; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 0px 0.5em 0.5em; POSITION: =
+relative; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.floatright P {
+	FONT-STYLE: italic
+}
+DIV.floatleft {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: left; =
+BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 0.5em 0.5em 0px; POSITION: =
+relative; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE.floatleft {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: left; =
+BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 0.5em 0.5em 0px; POSITION: =
+relative; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.floatleft P {
+	FONT-STYLE: italic
+}
+DIV.thumb {
+	BORDER-LEFT-COLOR: white; MARGIN-BOTTOM: 0.5em; BORDER-BOTTOM-COLOR: =
+white; WIDTH: auto; BORDER-TOP-STYLE: solid; BORDER-TOP-COLOR: white; =
+BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: solid; BORDER-RIGHT-COLOR: =
+white; BORDER-BOTTOM-STYLE: solid
+}
+DIV.thumb DIV {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 3px! important; =
+BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 3px! important; FONT-SIZE: =
+94%; PADDING-BOTTOM: 3px! important; OVERFLOW: hidden; BORDER-LEFT: #ccc =
+1px solid; PADDING-TOP: 3px! important; BORDER-BOTTOM: #ccc 1px solid; =
+BACKGROUND-COLOR: #f9f9f9; TEXT-ALIGN: center
+}
+DIV.thumb DIV A IMG {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: =
+#ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+DIV.thumb DIV DIV.thumbcaption {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.1em; =
+BORDER-TOP-STYLE: none; LINE-HEIGHT: 1.4em; PADDING-TOP: 0.3em; =
+BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-ALIGN: left; =
+BORDER-BOTTOM-STYLE: none
+}
+DIV.magnify {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: right; =
+BORDER-TOP-STYLE: none! important; BORDER-RIGHT-STYLE: none! important; =
+BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+DIV.magnify A {
+	DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; =
+BORDER-TOP-STYLE: none! important; BORDER-RIGHT-STYLE: none! important; =
+BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+DIV.magnify IMG {
+	DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; =
+BORDER-TOP-STYLE: none! important; BORDER-RIGHT-STYLE: none! important; =
+BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+DIV.tright {
+	BORDER-TOP-WIDTH: 0.5em; CLEAR: right; BORDER-LEFT-WIDTH: 1.4em; FLOAT: =
+right; BORDER-BOTTOM-WIDTH: 0.8em; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.tleft {
+	BORDER-TOP-WIDTH: 0.5em; BORDER-LEFT-WIDTH: 0px; FLOAT: left; =
+BORDER-BOTTOM-WIDTH: 0.8em; MARGIN-RIGHT: 0.5em; BORDER-RIGHT-WIDTH: =
+1.4em
+}
+.hiddenStructure {
+	DISPLAY: none; speak: none
+}
+IMG.tex {
+	VERTICAL-ALIGN: middle
+}
+SPAN.texhtml {
+	FONT-FAMILY: serif
+}
+TABLE.rimage {
+	FLOAT: right; MARGIN-BOTTOM: 1em; MARGIN-LEFT: 1em; POSITION: relative; =
+TEXT-ALIGN: center
+}
+.toccolours {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaa 1px =
+solid; PADDING-LEFT: 5px; FONT-SIZE: 95%; PADDING-BOTTOM: 5px; =
+BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #aaa 1px =
+solid; BACKGROUND-COLOR: #f9f9f9
+}
+DIV.townBox {
+	CLEAR: right; BORDER-RIGHT: gray 1px solid; PADDING-RIGHT: 0.3em; =
+BORDER-TOP: gray 1px solid; PADDING-LEFT: 0.3em; BACKGROUND: white; =
+FLOAT: right; PADDING-BOTTOM: 0.3em; MARGIN-LEFT: 1em; OVERFLOW: hidden; =
+BORDER-LEFT: gray 1px solid; WIDTH: 200px; PADDING-TOP: 0.3em; =
+BORDER-BOTTOM: gray 1px solid; POSITION: relative
+}
+DIV.townBox DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 96%; PADDING-BOTTOM: =
+0px; MARGIN: 0px 0px 0.3em; PADDING-TOP: 0px
+}
+DIV.townBox DL DT {
+	BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN: 0.4em 0px 0px
+}
+DIV.townBox DL DD {
+	MARGIN: 0.1em 0px 0px 1.1em; BACKGROUND-COLOR: #f3f3f3
+}
+.special LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px
+}
+.autocomment {
+	COLOR: gray
+}
+#pagehistory SPAN.user {
+	MARGIN-LEFT: 1.4em; MARGIN-RIGHT: 0.4em
+}
+#pagehistory SPAN.minor {
+	FONT-WEIGHT: bold
+}
+#pagehistory LI {
+	BORDER-RIGHT: white 1px solid; BORDER-TOP: white 1px solid; =
+BORDER-LEFT: white 1px solid; BORDER-BOTTOM: white 1px solid
+}
+#pagehistory LI.selected {
+	BORDER-RIGHT: #aaa 1px dashed; BORDER-TOP: #aaa 1px dashed; =
+BORDER-LEFT: #aaa 1px dashed; BORDER-BOTTOM: #aaa 1px dashed; =
+BACKGROUND-COLOR: #f9f9f9
+}
+TABLE.diff {
+	BACKGROUND-COLOR: white
+}
+TD.diff-otitle {
+	BACKGROUND-COLOR: white
+}
+TD.diff-ntitle {
+	BACKGROUND-COLOR: white
+}
+TD.diff-addedline {
+	FONT-SIZE: smaller; BACKGROUND: #cfc
+}
+TD.diff-deletedline {
+	FONT-SIZE: smaller; BACKGROUND: #ffa
+}
+TD.diff-context {
+	FONT-SIZE: smaller; BACKGROUND: #eee
+}
+SPAN.diffchange {
+	FONT-WEIGHT: bold; COLOR: red
+}
+#bodyContent A.external {
+	PADDING-RIGHT: 13px; BACKGROUND: url(external.png) no-repeat right =
+center
+}
+#bodyContent A[href^=3D'gopher://'] {
+	PADDING-RIGHT: 13px; BACKGROUND: url(external.png) no-repeat right =
+center
+}
+#bodyContent A[href^=3D'https://'] {
+	PADDING-RIGHT: 16px; BACKGROUND: url(lock_icon.gif) no-repeat right =
+center
+}
+.link-https {
+	PADDING-RIGHT: 16px; BACKGROUND: url(lock_icon.gif) no-repeat right =
+center
+}
+#bodyContent A[href^=3D'mailto:'] {
+	PADDING-RIGHT: 18px; BACKGROUND: url(mail_icon.gif) no-repeat right =
+center
+}
+.link-mailto {
+	PADDING-RIGHT: 18px; BACKGROUND: url(mail_icon.gif) no-repeat right =
+center
+}
+#bodyContent A[href^=3D'news://'] {
+	PADDING-RIGHT: 18px; BACKGROUND: url(news_icon.png) no-repeat right =
+center
+}
+#bodyContent A[href^=3D'ftp://'] {
+	PADDING-RIGHT: 18px; BACKGROUND: url(file_icon.gif) no-repeat right =
+center
+}
+.link-ftp {
+	PADDING-RIGHT: 18px; BACKGROUND: url(file_icon.gif) no-repeat right =
+center
+}
+#bodyContent A[href^=3D'irc://'] {
+	PADDING-RIGHT: 18px; BACKGROUND: url(discussionitem_icon.gif) no-repeat =
+right center
+}
+.link-irc {
+	PADDING-RIGHT: 18px; BACKGROUND: url(discussionitem_icon.gif) no-repeat =
+right center
+}
+#bodyContent A.extiw {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent =
+scroll repeat 0% 0%; PADDING-BOTTOM: 0px; COLOR: #36b; PADDING-TOP: 0px
+}
+#bodyContent A.extiw:active {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent =
+scroll repeat 0% 0%; PADDING-BOTTOM: 0px; COLOR: #36b; PADDING-TOP: 0px
+}
+#bodyContent A.external {
+	COLOR: #36b
+}
+#bodyContent .plainlinks A {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; =
+BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px! =
+important; PADDING-TOP: 0px! important
+}
+.portlet {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: none; PADDING-BOTTOM: =
+0px; MARGIN: 0px 0px 0.5em; OVERFLOW: hidden; WIDTH: 11.6em; =
+BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.portlet H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 95%; WHITE-SPACE: nowrap
+}
+.portlet H5 {
+	PADDING-RIGHT: 1em; DISPLAY: inline; PADDING-LEFT: 0.5em; FONT-WEIGHT: =
+normal; FONT-SIZE: 91%; BACKGROUND: none transparent scroll repeat 0% =
+0%; PADDING-BOTTOM: 0px; TEXT-TRANSFORM: lowercase; PADDING-TOP: 0px; =
+WHITE-SPACE: nowrap; HEIGHT: 1em
+}
+.portlet H6 {
+	BORDER-RIGHT: #2f6fab 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: =
+#2f6fab 1px solid; DISPLAY: block; PADDING-LEFT: 1em; FONT-WEIGHT: =
+normal; FONT-SIZE: 1em; BACKGROUND: #ffae2e; PADDING-BOTTOM: 0px; =
+TEXT-TRANSFORM: lowercase; BORDER-LEFT: #2f6fab 1px solid; PADDING-TOP: =
+0px; BORDER-BOTTOM: #2f6fab 1px; WHITE-SPACE: nowrap; HEIGHT: 1.2em
+}
+.pBody {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 0.8em; BORDER-TOP: #aaa =
+1px solid; PADDING-LEFT: 0.5em; FONT-SIZE: 95%; PADDING-BOTTOM: 0.3em; =
+BORDER-LEFT: #aaa 1px solid; COLOR: black; PADDING-TOP: 0px; =
+BORDER-BOTTOM: #aaa 1px solid; BORDER-COLLAPSE: collapse; =
+BACKGROUND-COLOR: white
+}
+.portlet H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+.portlet H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+.portlet H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+.portlet H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+.portlet UL {
+	FONT-SIZE: 95%; LIST-STYLE-IMAGE: url(bullet.gif); LINE-HEIGHT: 1.5em; =
+LIST-STYLE-TYPE: square
+}
+.portlet LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+#p-logo {
+	Z-INDEX: 3; LEFT: 0px; OVERFLOW: visible; WIDTH: 12em; POSITION: =
+absolute; TOP: 0px; HEIGHT: 155px
+}
+#p-logo H5 {
+	DISPLAY: none
+}
+#p-logo A {
+	BACKGROUND-POSITION: 35% 50%; DISPLAY: block; WIDTH: 12.2em; =
+BACKGROUND-REPEAT: no-repeat; HEIGHT: 155px; TEXT-DECORATION: none
+}
+#p-logo A:hover {
+	BACKGROUND-POSITION: 35% 50%; DISPLAY: block; WIDTH: 12.2em; =
+BACKGROUND-REPEAT: no-repeat; HEIGHT: 155px; TEXT-DECORATION: none
+}
+#p-navigation {
+	Z-INDEX: 3; POSITION: relative
+}
+#p-navigation .pBody {
+	PADDING-RIGHT: 0px
+}
+#p-navigation A {
+	DISPLAY: block
+}
+#p-navigation LI.active A {
+	DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+#p-navigation LI.active A:hover {
+	DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+#p-search {
+	Z-INDEX: 3; POSITION: relative
+}
+INPUT.searchButton {
+	MARGIN-TOP: 1px; FONT-SIZE: 95%
+}
+#searchGoButton {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold
+}
+#searchInput {
+	FONT-SIZE: 95%; MARGIN: 0px; WIDTH: 10.9em
+}
+#p-search .pBody {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; =
+PADDING-TOP: 0.5em; TEXT-ALIGN: center
+}
+#p-personal {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent =
+scroll repeat 0% 0%; LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; =
+OVERFLOW: visible; WIDTH: 100%; BORDER-TOP-STYLE: none; LINE-HEIGHT: =
+1.2em; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; WHITE-SPACE: nowrap; =
+BORDER-LEFT-STYLE: none; POSITION: absolute; TOP: 0px; =
+BORDER-BOTTOM-STYLE: none
+}
+#p-personal H5 {
+	DISPLAY: none
+}
+#p-personal .portlet {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent =
+scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: =
+visible; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: =
+none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#p-personal .pBody {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent =
+scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: =
+visible; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: =
+none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#p-personal UL {
+	PADDING-RIGHT: 2em; PADDING-LEFT: 3em; BACKGROUND: none transparent =
+scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; TEXT-TRANSFORM: =
+lowercase; CURSOR: default; COLOR: #2f6fab; BORDER-TOP-STYLE: none; =
+LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; LIST-STYLE-TYPE: none; TEXT-ALIGN: right; =
+BORDER-BOTTOM-STYLE: none
+}
+#p-personal LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; BACKGROUND: =
+none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN-LEFT: =
+1em; COLOR: #2f6fab; BORDER-TOP-STYLE: none; LINE-HEIGHT: 1.2em; =
+PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; =
+BORDER-BOTTOM-STYLE: none
+}
+#p-personal LI.active {
+	FONT-WEIGHT: bold
+}
+#p-personal LI A {
+	BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: =
+0.2em; COLOR: #005896; TEXT-DECORATION: none
+}
+#p-personal LI A:hover {
+	PADDING-BOTTOM: 0.2em; BACKGROUND-COLOR: white; TEXT-DECORATION: none
+}
+#p-personal LI.active A:hover {
+	BACKGROUND-COLOR: transparent
+}
+LI#pt-userpage {
+	PADDING-LEFT: 20px; BACKGROUND: url(user.gif) no-repeat left top; =
+TEXT-TRANSFORM: none
+}
+LI#pt-anonuserpage {
+	PADDING-LEFT: 20px; BACKGROUND: url(user.gif) no-repeat left top; =
+TEXT-TRANSFORM: none
+}
+LI#pt-login {
+	PADDING-LEFT: 20px; BACKGROUND: url(user.gif) no-repeat left top; =
+TEXT-TRANSFORM: none
+}
+#p-cactions {
+	PADDING-LEFT: 1em; FONT-SIZE: 95%; BACKGROUND: none transparent scroll =
+repeat 0% 0%; LEFT: 11.5em; MARGIN: 0px; OVERFLOW: visible; WIDTH: 76%; =
+LINE-HEIGHT: 1.1em; WHITE-SPACE: nowrap; LIST-STYLE-TYPE: none; =
+POSITION: absolute; TOP: 1.3em; BORDER-COLLAPSE: collapse
+}
+#p-cactions .hiddenStructure {
+	DISPLAY: none
+}
+#p-cactions UL {
+	LIST-STYLE-TYPE: none
+}
+#p-cactions LI {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #aaa 1px =
+solid; DISPLAY: inline; PADDING-LEFT: 0px; BACKGROUND: white; =
+PADDING-BOTTOM: 0.1em; MARGIN: 0px 0.3em 0px 0px; OVERFLOW: visible; =
+BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #aaa 1px
+}
+#p-cactions LI.selected {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; =
+BORDER-LEFT-COLOR: #fabd23; BORDER-BOTTOM-COLOR: #fabd23; =
+PADDING-BOTTOM: 0.2em; BORDER-TOP-COLOR: #fabd23; PADDING-TOP: 0px; =
+BORDER-RIGHT-COLOR: #fabd23
+}
+#p-cactions LI A {
+	PADDING-RIGHT: 0.8em; PADDING-LEFT: 0.8em; PADDING-BOTTOM: 0.3em; =
+MARGIN: 0px; TEXT-TRANSFORM: lowercase; COLOR: #002bb8; =
+BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; POSITION: relative; BACKGROUND-COLOR: #fbfbfb; =
+TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+#p-cactions LI.selected A {
+	PADDING-RIGHT: 1em! important; PADDING-LEFT: 1em! important; Z-INDEX: =
+3; PADDING-BOTTOM: 0.2em! important; PADDING-TOP: 0px! important; =
+BACKGROUND-COLOR: #fff
+}
+#p-cactions .new A {
+	COLOR: #ba0000
+}
+#p-cactions LI A:hover {
+	Z-INDEX: 3; BACKGROUND-COLOR: #fff; TEXT-DECORATION: none
+}
+#p-cactions H5 {
+	DISPLAY: none
+}
+#p-cactions LI.istalk {
+	MARGIN-RIGHT: 0px
+}
+#p-cactions LI.istalk A {
+	PADDING-RIGHT: 0.5em
+}
+#p-cactions #ca-addsection A {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em
+}
+LI#ca-talk {
+	MARGIN-RIGHT: 1.6em
+}
+LI#ca-watch {
+	MARGIN-LEFT: 1.6em
+}
+LI#ca-unwatch {
+	MARGIN-LEFT: 1.6em
+}
+LI#ca-varlang-0 {
+	MARGIN-LEFT: 1.6em
+}
+LI#ca-print {
+	MARGIN-LEFT: 1.6em
+}
+#p-tbx {
+	Z-INDEX: 3; POSITION: relative
+}
+#p-lang {
+	Z-INDEX: 3; POSITION: relative
+}
+#t-ispermalink {
+	COLOR: #999
+}
+#t-iscite {
+	COLOR: #999
+}
+#footer {
+	PADDING-RIGHT: 0px; BORDER-TOP: #fabd23 1px solid; PADDING-LEFT: 0px; =
+FONT-SIZE: 90%; PADDING-BOTTOM: 1.2em; MARGIN: 0.6em 0px 1em; =
+PADDING-TOP: 0.4em; BORDER-BOTTOM: #fabd23 1px solid; BACKGROUND-COLOR: =
+white; TEXT-ALIGN: center
+}
+#footer LI {
+	DISPLAY: inline; MARGIN: 0px 1.3em
+}
+HEAD:first-child + BODY #footer LI {
+	WHITE-SPACE: nowrap
+}
+#f-poweredbyico {
+	MARGIN: 0px 8px; POSITION: relative; TOP: -2px
+}
+#f-copyrightico {
+	MARGIN: 0px 8px; POSITION: relative; TOP: -2px
+}
+#f-poweredbyico {
+	FLOAT: right; HEIGHT: 1%
+}
+#f-copyrightico {
+	FLOAT: left; HEIGHT: 1%
+}
+#preftoc {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: =
+0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+#preftoc LI {
+	BORDER-RIGHT: #716f64 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #fff =
+1px solid; PADDING-LEFT: 0px; Z-INDEX: 3; FLOAT: left; LIST-STYLE-IMAGE: =
+none; PADDING-BOTTOM: 3px; MARGIN: 1px -2px 1px 2px; BORDER-LEFT: #fff =
+1px solid; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #fff 0px solid; =
+WHITE-SPACE: nowrap; LIST-STYLE-TYPE: none; POSITION: relative; =
+BACKGROUND-COLOR: #f0f0f0
+}
+#preftoc LI.selected {
+	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; FONT-WEIGHT: =
+bold; BORDER-LEFT: #aaa 1px solid; CURSOR: default; MARGIN-RIGHT: -3px; =
+PADDING-TOP: 2px; BORDER-BOTTOM: #aaa 1px; TOP: 1px; BACKGROUND-COLOR: =
+#f9f9f9
+}
+#preftoc > LI.selected {
+	TOP: 2px
+}
+#preftoc A {
+	PADDING-RIGHT: 0.7em; DISPLAY: block; PADDING-LEFT: 0.7em; =
+PADDING-BOTTOM: 0px; COLOR: #000; PADDING-TOP: 0px; POSITION: relative; =
+TEXT-DECORATION: none
+}
+#preftoc A:active {
+	PADDING-RIGHT: 0.7em; DISPLAY: block; PADDING-LEFT: 0.7em; =
+PADDING-BOTTOM: 0px; COLOR: #000; PADDING-TOP: 0px; POSITION: relative; =
+TEXT-DECORATION: none
+}
+#preftoc LI.selected A {
+	CURSOR: default; TEXT-DECORATION: none
+}
+#prefcontrol {
+	CLEAR: both; PADDING-TOP: 2em
+}
+#preferences {
+	CLEAR: both; BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 1.5em; =
+BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 1.5em; PADDING-BOTTOM: 1.5em; =
+MARGIN: 0px; BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 1.5em; =
+BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f9f9f9
+}
+.prefsection {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.prefsection FIELDSET {
+	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; FLOAT: left; =
+BORDER-LEFT: #aaa 1px solid; MARGIN-RIGHT: 2em; BORDER-BOTTOM: #aaa 1px =
+solid
+}
+.prefsection LEGEND {
+	FONT-WEIGHT: bold
+}
+.prefsection TABLE {
+	BACKGROUND-COLOR: #f9f9f9
+}
+.prefsection LEGEND {
+	BACKGROUND-COLOR: #f9f9f9
+}
+.mainLegend {
+	DISPLAY: none
+}
+DIV.prefsectiontip {
+	CLEAR: both; PADDING-RIGHT: 0.7em; MARGIN-TOP: 0px; PADDING-LEFT: =
+0.7em; FONT-SIZE: 95%; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em; =
+BACKGROUND-COLOR: #ffc1c1
+}
+.btnSavePrefs {
+	PADDING-RIGHT: 0.3em; PADDING-LEFT: 0.3em; FONT-WEIGHT: bold
+}
+.preferences-login {
+	CLEAR: both; MARGIN-BOTTOM: 1.5em
+}
+.prefcache {
+	MARGIN-TOP: 2em; FONT-SIZE: 90%
+}
+DIV#userloginForm FORM {
+	CLEAR: both; BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 2em; =
+BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 2em; FLOAT: left; =
+PADDING-BOTTOM: 1.5em; MARGIN: 0px 3em 1em 0px; BORDER-LEFT: #aaa 1px =
+solid; PADDING-TOP: 1.5em; BORDER-BOTTOM: #aaa 1px solid; =
+BACKGROUND-COLOR: #f9f9f9
+}
+DIV#userlogin FORM#userlogin2 {
+	CLEAR: both; BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 2em; =
+BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 2em; FLOAT: left; =
+PADDING-BOTTOM: 1.5em; MARGIN: 0px 3em 1em 0px; BORDER-LEFT: #aaa 1px =
+solid; PADDING-TOP: 1.5em; BORDER-BOTTOM: #aaa 1px solid; =
+BACKGROUND-COLOR: #f9f9f9
+}
+DIV#userloginForm TABLE {
+	BACKGROUND-COLOR: #f9f9f9
+}
+DIV#userlogin FORM#userlogin2 TABLE {
+	BACKGROUND-COLOR: #f9f9f9
+}
+DIV#userloginForm H2 {
+	PADDING-TOP: 0px
+}
+DIV#userlogin FORM#userlogin2 H2 {
+	PADDING-TOP: 0px
+}
+DIV#userlogin .captcha {
+	BORDER-RIGHT: #bbb 1px solid; PADDING-RIGHT: 2em; BORDER-TOP: #bbb 1px =
+solid; PADDING-LEFT: 2em; PADDING-BOTTOM: 1.5em; BORDER-LEFT: #bbb 1px =
+solid; WIDTH: 400px; PADDING-TOP: 1.5em; BORDER-BOTTOM: #bbb 1px solid; =
+BACKGROUND-COLOR: white
+}
+#userloginprompt {
+	FONT-SIZE: 85%
+}
+#languagelinks {
+	FONT-SIZE: 85%
+}
+#login-sectiontip {
+	FONT-SIZE: 85%; LINE-HEIGHT: 1.2; PADDING-TOP: 2em
+}
+#userlogin .loginText {
+	WIDTH: 12em
+}
+#userlogin .loginPassword {
+	WIDTH: 12em
+}
+#userloginlink A {
+	FONT-WEIGHT: bold
+}
+#wpLoginattempt {
+	FONT-WEIGHT: bold
+}
+#wpCreateaccount {
+	FONT-WEIGHT: bold
+}
+* > HTML #p-cactions LI {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: =
+none; BORDER-BOTTOM-STYLE: none
+}
+* > HTML #p-cactions LI A {
+	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; BORDER-LEFT: =
+#aaa 1px solid; BORDER-BOTTOM: #aaa 1px
+}
+* > HTML #p-cactions LI.selected A {
+	BORDER-LEFT-COLOR: #fabd23; BORDER-BOTTOM-COLOR: #fabd23; =
+BORDER-TOP-COLOR: #fabd23; BORDER-RIGHT-COLOR: #fabd23
+}
+* > HTML #f-poweredbyico {
+	WIDTH: 88px
+}
+* > HTML #f-copyrightico {
+	WIDTH: 88px
+}
+* > HTML #bodyContent {
+	OVERFLOW-X: auto; PADDING-BOTTOM: 25px; WIDTH: 100%
+}
+* > HTML #bodyContent PRE {
+	OVERFLOW-X: auto; PADDING-BOTTOM: 25px; WIDTH: 100%
+}
+* HTML #footer {
+	MARGIN-TOP: 0px
+}
+* HTML #column-content {
+	DISPLAY: inline; MARGIN-BOTTOM: 0px
+}
+* HTML DIV.editsection {
+	FONT-SIZE: smaller
+}
+#pagehistory LI.selected {
+	POSITION: relative
+}
+* > HTML #column-content {
+	FLOAT: none
+}
+* > HTML #column-one {
+	LEFT: 0px; POSITION: absolute; TOP: 0px
+}
+* > HTML #footer {
+	MARGIN-LEFT: 13.2em
+}
+.redirectText {
+	FONT-SIZE: 150%; MARGIN: 5px
+}
+.printfooter {
+	DISPLAY: none
+}
+.not-patrolled {
+	BACKGROUND-COLOR: #ffa
+}
+DIV.patrollink {
+	FONT-SIZE: 75%; TEXT-ALIGN: right
+}
+SPAN.newpage {
+	FONT-WEIGHT: bold
+}
+SPAN.minor {
+	FONT-WEIGHT: bold
+}
+SPAN.searchmatch {
+	FONT-WEIGHT: bold
+}
+SPAN.bot {
+	FONT-WEIGHT: bold
+}
+SPAN.unpatrolled {
+	FONT-WEIGHT: bold; COLOR: red
+}
+SPAN.searchmatch {
+	COLOR: red
+}
+.sharedUploadNotice {
+	FONT-STYLE: italic
+}
+SPAN.updatedmarker {
+	COLOR: black; BACKGROUND-COLOR: #0f0
+}
+SPAN.newpageletter {
+	FONT-WEIGHT: bold; COLOR: black; BACKGROUND-COLOR: yellow
+}
+SPAN.minoreditletter {
+	COLOR: black; BACKGROUND-COLOR: #c5ffe6
+}
+TABLE.gallery {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #ccc 1px =
+solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 2px; BORDER-LEFT: =
+#ccc 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #ccc 1px solid; =
+BACKGROUND-COLOR: white
+}
+TABLE.gallery TR {
+	VERTICAL-ALIGN: top
+}
+TABLE.gallery TD {
+	BORDER-RIGHT: white 2px solid; BORDER-TOP: white 2px solid; =
+VERTICAL-ALIGN: top; BORDER-LEFT: white 2px solid; BORDER-BOTTOM: white =
+2px solid; BACKGROUND-COLOR: #f9f9f9
+}
+TABLE.gallery TD.galleryheader {
+	FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+DIV.gallerybox {
+	MARGIN: 2px; WIDTH: 150px
+}
+DIV.gallerybox DIV.thumb {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; MARGIN: 2px; =
+BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; TEXT-ALIGN: =
+center
+}
+DIV.gallerytext {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 94%; PADDING-BOTTOM: =
+2px; PADDING-TOP: 2px
+}
+SPAN.comment {
+	FONT-STYLE: italic
+}
+SPAN.changedby {
+	FONT-SIZE: 95%
+}
+.previewnote {
+	MARGIN-BOTTOM: 1em; PADDING-BOTTOM: 1em; COLOR: #c00; TEXT-INDENT: 3em; =
+BORDER-BOTTOM: #aaa 1px solid
+}
+.previewnote P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+.editExternally {
+	BORDER-RIGHT: gray 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: gray 1px =
+solid; MARGIN-TOP: 0.5em; PADDING-LEFT: 3px; FONT-SIZE: small; FLOAT: =
+left; PADDING-BOTTOM: 3px; BORDER-LEFT: gray 1px solid; PADDING-TOP: =
+3px; BORDER-BOTTOM: gray 1px solid; BACKGROUND-COLOR: #ffffff; =
+TEXT-ALIGN: center
+}
+.editExternallyHelp {
+	COLOR: gray; FONT-STYLE: italic
+}
+LI SPAN.deleted {
+	COLOR: #888; FONT-STYLE: italic; TEXT-DECORATION: line-through
+}
+SPAN.history-deleted {
+	COLOR: #888; FONT-STYLE: italic; TEXT-DECORATION: line-through
+}
+.toggle {
+	MARGIN-LEFT: 2em; TEXT-INDENT: -2em
+}
+TABLE.mw_metadata {
+	FONT-SIZE: 0.8em; MARGIN-BOTTOM: 0.5em; MARGIN-LEFT: 0.5em; WIDTH: =
+300px
+}
+TABLE.mw_metadata CAPTION {
+	FONT-WEIGHT: bold
+}
+TABLE.mw_metadata TH {
+	FONT-WEIGHT: normal
+}
+TABLE.mw_metadata TD {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; =
+PADDING-TOP: 0.1em
+}
+TABLE.mw_metadata {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: =
+none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-STYLE: none
+}
+TABLE.mw_metadata TD {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 0.1em; BORDER-TOP: =
+#aaaaaa 1px solid; PADDING-LEFT: 0.1em; BORDER-LEFT: #aaaaaa 1px solid; =
+BORDER-BOTTOM: #aaaaaa 1px solid; TEXT-ALIGN: center
+}
+TABLE.mw_metadata TH {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 0.1em; BORDER-TOP: =
+#aaaaaa 1px solid; PADDING-LEFT: 0.1em; BORDER-LEFT: #aaaaaa 1px solid; =
+BORDER-BOTTOM: #aaaaaa 1px solid; TEXT-ALIGN: center
+}
+TABLE.mw_metadata TH {
+	BACKGROUND-COLOR: #f9f9f9
+}
+TABLE.mw_metadata TD {
+	BACKGROUND-COLOR: #fcfcfc
+}
+TABLE.collapsed TR.collapsable {
+	DISPLAY: none
+}
+UL#filetoc {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#aaaaaa 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 95%; MARGIN-BOTTOM: =
+0.5em; PADDING-BOTTOM: 5px; MARGIN-LEFT: 0px; BORDER-LEFT: #aaaaaa 1px =
+solid; MARGIN-RIGHT: 0px; PADDING-TOP: 5px; BORDER-BOTTOM: #aaaaaa 1px =
+solid; BACKGROUND-COLOR: #f9f9f9; TEXT-ALIGN: center
+}
+#filetoc LI {
+	PADDING-RIGHT: 2em; DISPLAY: inline; LIST-STYLE-TYPE: none
+}
+INPUT#wpSave {
+	MARGIN-RIGHT: 0.33em
+}
+INPUT#wpDiff {
+	MARGIN-RIGHT: 0.33em
+}
+#editform .editOptions {
+	DISPLAY: inline
+}
+#wpSave {
+	FONT-WEIGHT: bold
+}
+TABLE.revisionform_default {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; =
+BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TABLE.revisionform_focus {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; =
+BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; =
+BACKGROUND-COLOR: #00bbff
+}
+TR.revision_tr_default {
+	BACKGROUND-COLOR: #eeeeee
+}
+TR.revision_tr_first {
+	BACKGROUND-COLOR: #dddddd
+}
+P.revision_saved {
+	FONT-WEIGHT: bold; COLOR: green
+}
+#mw_trackbacks {
+	BORDER-RIGHT: #bbbbff 1px solid; PADDING-RIGHT: 0.2em; BORDER-TOP: =
+#bbbbff 1px solid; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; =
+BORDER-LEFT: #bbbbff 1px solid; PADDING-TOP: 0.2em; BORDER-BOTTOM: =
+#bbbbff 1px solid; BACKGROUND-COLOR: #eeeeff
+}
+#allmessagestable TH {
+	BACKGROUND-COLOR: #b2b2ff
+}
+#allmessagestable TR.orig {
+	BACKGROUND-COLOR: #ffe2e2
+}
+#allmessagestable TR.new {
+	BACKGROUND-COLOR: #e2ffe2
+}
+#allmessagestable TR.def {
+	BACKGROUND-COLOR: #f0f0ff
+}
+DIV.noarticletext {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #ccc 1px =
+solid; PADDING-LEFT: 1em; BACKGROUND: #fff; PADDING-BOTTOM: 0.2em; =
+BORDER-LEFT: #ccc 1px solid; COLOR: #000; PADDING-TOP: 0.2em; =
+BORDER-BOTTOM: #ccc 1px solid
+}
+DIV#searchTargetContainer {
+	BACKGROUND: white; LEFT: 10px; WIDTH: 90%; TOP: 10px
+}
+DIV#searchTarget {
+	BORDER-RIGHT: blue 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: blue 1px =
+solid; PADDING-LEFT: 3px; BACKGROUND: #f0f0f0; PADDING-BOTTOM: 3px; =
+MARGIN: 5px; BORDER-LEFT: blue 1px solid; PADDING-TOP: 3px; =
+BORDER-BOTTOM: blue 1px solid
+}
+DIV#searchTarget UL LI {
+	LIST-STYLE-TYPE: none
+}
+DIV#searchTarget UL LI:unknown {
+	COLOR: orange; content: "=BB "
+}
+DIV.multipageimagenavbox {
+	BORDER-RIGHT: silver 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: silver =
+1px solid; PADDING-LEFT: 4px; BACKGROUND: #f0f0f0; PADDING-BOTTOM: 4px; =
+MARGIN: 1em; BORDER-LEFT: silver 1px solid; PADDING-TOP: 4px; =
+BORDER-BOTTOM: silver 1px solid; -moz-border-radius: 6px
+}
+DIV.multipageimagenavbox DIV.thumb {
+	MARGIN-LEFT: 2em; BORDER-TOP-STYLE: none; MARGIN-RIGHT: 2em; =
+BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: =
+none
+}
+DIV.multipageimagenavbox HR {
+	MARGIN: 6px
+}
+TABLE.multipageimage TD {
+	TEXT-ALIGN: center
+}
+.TablePager_nav A {
+	TEXT-DECORATION: none
+}
+.TablePager {
+	BORDER-COLLAPSE: collapse
+}
+.TablePager {
+	BORDER-RIGHT: #777777 0.15em solid; PADDING-RIGHT: 0.15em; BORDER-TOP: =
+#777777 0.15em solid; PADDING-LEFT: 0.15em; PADDING-BOTTOM: 0px; =
+BORDER-LEFT: #777777 0.15em solid; PADDING-TOP: 0px; BORDER-BOTTOM: =
+#777777 0.15em solid
+}
+.TablePager TD {
+	BORDER-RIGHT: #777777 0.15em solid; PADDING-RIGHT: 0.15em; BORDER-TOP: =
+#777777 0.15em solid; PADDING-LEFT: 0.15em; PADDING-BOTTOM: 0px; =
+BORDER-LEFT: #777777 0.15em solid; PADDING-TOP: 0px; BORDER-BOTTOM: =
+#777777 0.15em solid
+}
+.TablePager TH {
+	BORDER-RIGHT: #777777 0.15em solid; PADDING-RIGHT: 0.15em; BORDER-TOP: =
+#777777 0.15em solid; PADDING-LEFT: 0.15em; PADDING-BOTTOM: 0px; =
+BORDER-LEFT: #777777 0.15em solid; PADDING-TOP: 0px; BORDER-BOTTOM: =
+#777777 0.15em solid
+}
+.TablePager TH {
+	BACKGROUND-COLOR: #eeeeff
+}
+.TablePager TD {
+	BACKGROUND-COLOR: #ffffff
+}
+.TablePager TR:hover TD {
+	BACKGROUND-COLOR: #eeeeff
+}
+.imagelist TD {
+	WHITE-SPACE: nowrap
+}
+.imagelist TH {
+	WHITE-SPACE: nowrap
+}
+.imagelist .TablePager_col_links {
+	BACKGROUND-COLOR: #eeeeff
+}
+.imagelist .TablePager_col_img_description {
+	WHITE-SPACE: normal
+}
+.imagelist TH.TablePager_sort {
+	BACKGROUND-COLOR: #ccccff
+}
+.infobox {
+	CLEAR: right; PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; FLOAT: right; =
+MARGIN-BOTTOM: 0.5em; PADDING-BOTTOM: 0.2em; MARGIN-LEFT: 1em; COLOR: =
+black; PADDING-TOP: 0.2em; BACKGROUND-COLOR: #f6f6fc
+}
+.infobox TD {
+	VERTICAL-ALIGN: top
+}
+.infobox TH {
+	VERTICAL-ALIGN: top
+}
+.infobox CAPTION {
+	FONT-SIZE: larger; BACKGROUND-COLOR: #cedcf1
+}
+.bordered.infobox {
+	BORDER-COLLAPSE: collapse
+}
+.bordered.infobox TD {
+=09
+}
+.bordered.infobox TH {
+=09
+}
+.bordered.infobox .borderless TD {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+.bordered.infobox .borderless TH {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+.sisterproject.infobox {
+	FONT-SIZE: 90%; WIDTH: 20em
+}
+.bordered.infobox .mergedtoprow TD {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; =
+BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px
+}
+.bordered.infobox .mergedtoprow TH {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; =
+BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px
+}
+.bordered.infobox .mergedrow TD {
+	BORDER-TOP-WIDTH: 0px; BORDER-RIGHT: #aaaaaa 1px solid; =
+BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px
+}
+.bordered.infobox .mergedrow TH {
+	BORDER-TOP-WIDTH: 0px; BORDER-RIGHT: #aaaaaa 1px solid; =
+BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px
+}
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: text/css;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.activeagenda.net/documentation/skins/common/commonPrint.css
+
+A.stub {
+	COLOR: #ba0000; TEXT-DECORATION: none
+}
+A.new {
+	COLOR: #ba0000; TEXT-DECORATION: none
+}
+#toc {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#aaaaaa 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: =
+#aaaaaa 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #aaaaaa 1px solid; =
+BACKGROUND-COLOR: #f9f9f9
+}
+.tocindent {
+	MARGIN-LEFT: 2em
+}
+.tocline {
+	MARGIN-BOTTOM: 0px
+}
+.toctoggle {
+	FONT-SIZE: smaller
+}
+.editsection {
+	FONT-SIZE: smaller
+}
+DIV.floatright {
+	BORDER-RIGHT: white 0px solid; BORDER-TOP: white 0.5em solid; FLOAT: =
+right; MARGIN: 0px; BORDER-LEFT: white 1.4em solid; BORDER-BOTTOM: white =
+0.8em solid; POSITION: relative
+}
+DIV.floatright P {
+	FONT-STYLE: italic
+}
+DIV.floatleft {
+	BORDER-RIGHT: white 1.4em solid; BORDER-TOP: white 0.5em solid; FLOAT: =
+left; MARGIN: 0.3em 0.5em 0.5em 0px; BORDER-LEFT: white 0px solid; =
+BORDER-BOTTOM: white 0.8em solid; POSITION: relative
+}
+DIV.floatleft P {
+	FONT-STYLE: italic
+}
+DIV.thumb {
+	BORDER-LEFT-COLOR: white; MARGIN-BOTTOM: 0.5em; BORDER-BOTTOM-COLOR: =
+white; OVERFLOW: hidden; WIDTH: auto; BORDER-TOP-STYLE: solid; =
+BORDER-TOP-COLOR: white; BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: =
+solid; BORDER-RIGHT-COLOR: white; BORDER-BOTTOM-STYLE: solid
+}
+DIV.thumb DIV {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 3px! important; =
+BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 3px! important; FONT-SIZE: =
+94%; PADDING-BOTTOM: 3px! important; BORDER-LEFT: #cccccc 1px solid; =
+PADDING-TOP: 3px! important; BORDER-BOTTOM: #cccccc 1px solid; =
+BACKGROUND-COLOR: #f9f9f9; TEXT-ALIGN: center
+}
+DIV.thumb DIV A IMG {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; =
+BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+DIV.thumb DIV DIV.thumbcaption {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.1em; =
+BORDER-TOP-STYLE: none; PADDING-TOP: 0.3em; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.magnify {
+	DISPLAY: none
+}
+DIV.tright {
+	BORDER-TOP-WIDTH: 0.5em; BORDER-LEFT-WIDTH: 1.4em; FLOAT: right; =
+BORDER-BOTTOM-WIDTH: 0.8em; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.tleft {
+	BORDER-TOP-WIDTH: 0.5em; BORDER-LEFT-WIDTH: 0px; FLOAT: left; =
+BORDER-BOTTOM-WIDTH: 0.8em; MARGIN-RIGHT: 0.5em; BORDER-RIGHT-WIDTH: =
+1.4em
+}
+TABLE.rimage {
+	FLOAT: right; MARGIN-BOTTOM: 1em; MARGIN-LEFT: 1em; WIDTH: 1pt; =
+POSITION: relative; TEXT-ALIGN: center
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: white; =
+PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: black; PADDING-TOP: 0px
+}
+.noprint {
+	DISPLAY: none
+}
+DIV#jump-to-nav {
+	DISPLAY: none
+}
+DIV.top {
+	DISPLAY: none
+}
+DIV#column-one {
+	DISPLAY: none
+}
+#colophon {
+	DISPLAY: none
+}
+.editsection {
+	DISPLAY: none
+}
+.toctoggle {
+	DISPLAY: none
+}
+.tochidden {
+	DISPLAY: none
+}
+DIV#f-poweredbyico {
+	DISPLAY: none
+}
+DIV#f-copyrightico {
+	DISPLAY: none
+}
+LI#f-viewcount {
+	DISPLAY: none
+}
+LI#f-about {
+	DISPLAY: none
+}
+LI#f-disclaimer {
+	DISPLAY: none
+}
+LI#f-privacy {
+	DISPLAY: none
+}
+UL {
+	LIST-STYLE-TYPE: square
+}
+#content {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-SIZE: =
+11pt; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: =
+0px! important; MARGIN: 0px; BORDER-TOP-STYLE: none! important; =
+PADDING-TOP: 0px! important; BORDER-RIGHT-STYLE: none! important; =
+BORDER-LEFT-STYLE: none! important; BORDER-BOTTOM-STYLE: none! important
+}
+#footer {
+	BORDER-TOP: black 1px solid; BACKGROUND: white; COLOR: black
+}
+H1 {
+	FONT-WEIGHT: bold
+}
+H2 {
+	FONT-WEIGHT: bold
+}
+H3 {
+	FONT-WEIGHT: bold
+}
+H4 {
+	FONT-WEIGHT: bold
+}
+H5 {
+	FONT-WEIGHT: bold
+}
+H6 {
+	FONT-WEIGHT: bold
+}
+P {
+	MARGIN: 1em 0px; LINE-HEIGHT: 1.2em
+}
+.documentDescription {
+	MARGIN: 1em 0px; LINE-HEIGHT: 1.2em
+}
+.tocindent P {
+	MARGIN: 0px
+}
+PRE {
+	BORDER-RIGHT: black 1pt dashed; PADDING-RIGHT: 0px; BORDER-TOP: black =
+1pt dashed; PADDING-LEFT: 0px; FONT-SIZE: 8pt; BACKGROUND: white; =
+PADDING-BOTTOM: 1em; OVERFLOW: auto; BORDER-LEFT: black 1pt dashed; =
+COLOR: black; PADDING-TOP: 1em; BORDER-BOTTOM: black 1pt dashed; =
+WHITE-SPACE: pre
+}
+TABLE.listing {
+	BORDER-RIGHT: black 1pt solid; BORDER-TOP: black 1pt solid; =
+BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: black 1pt solid; =
+BORDER-COLLAPSE: collapse
+}
+TABLE.listing TD {
+	BORDER-RIGHT: black 1pt solid; BORDER-TOP: black 1pt solid; =
+BORDER-LEFT: black 1pt solid; BORDER-BOTTOM: black 1pt solid; =
+BORDER-COLLAPSE: collapse
+}
+A {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; =
+PADDING-BOTTOM: 0px! important; COLOR: black! important; PADDING-TOP: =
+0px! important
+}
+A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #520; =
+TEXT-DECORATION: underline
+}
+A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #520; =
+TEXT-DECORATION: underline
+}
+#content A.text.external:unknown {
+	content: " (" attr(href) ") "
+}
+#content A.autonumber.external:unknown {
+	content: " (" attr(href) ") "
+}
+#globalWrapper {
+	MIN-WIDTH: 0px! important; WIDTH: 100%! important
+}
+#content {
+	BACKGROUND: white; COLOR: black
+}
+#column-content {
+	MARGIN: 0px
+}
+#column-content #content {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; MARGIN: =
+0px; PADDING-TOP: 1em
+}
+A {
+	COLOR: black! important; TEXT-DECORATION: none! important
+}
+A.external {
+	COLOR: black! important; TEXT-DECORATION: none! important
+}
+A.new {
+	COLOR: black! important; TEXT-DECORATION: none! important
+}
+A.stub {
+	COLOR: black! important; TEXT-DECORATION: none! important
+}
+A {
+=09
+}
+A.external {
+=09
+}
+A.new {
+=09
+}
+A.stub {
+=09
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: =
+none; BORDER-BOTTOM-STYLE: none
+}
+IMG.tex {
+	VERTICAL-ALIGN: middle
+}
+SPAN.texhtml {
+	FONT-FAMILY: serif
+}
+DIV.townBox {
+	CLEAR: right; BORDER-RIGHT: gray 1px solid; PADDING-RIGHT: 0.3em; =
+BORDER-TOP: gray 1px solid; PADDING-LEFT: 0.3em; BACKGROUND: white; =
+FLOAT: right; PADDING-BOTTOM: 0.3em; MARGIN-LEFT: 1em; OVERFLOW: hidden; =
+BORDER-LEFT: gray 1px solid; WIDTH: 200px; PADDING-TOP: 0.3em; =
+BORDER-BOTTOM: gray 1px solid; POSITION: relative
+}
+DIV.townBox DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 96%; PADDING-BOTTOM: =
+0px; MARGIN: 0px 0px 0.3em; PADDING-TOP: 0px
+}
+DIV.townBox DL DT {
+	BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN: 0.4em 0px 0px
+}
+DIV.townBox DL DD {
+	MARGIN: 0.1em 0px 0px 1.1em; BACKGROUND-COLOR: #f3f3f3
+}
+#siteNotice {
+	DISPLAY: none
+}
+TABLE.gallery {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: =
+#cccccc 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 2px; =
+BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc =
+1px solid; BACKGROUND-COLOR: #ffffff
+}
+TABLE.gallery TR {
+	VERTICAL-ALIGN: top
+}
+DIV.gallerybox {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; MARGIN: =
+2px; BORDER-LEFT: #cccccc 1px solid; WIDTH: 150px; BORDER-BOTTOM: =
+#cccccc 1px solid; BACKGROUND-COLOR: #f9f9f9
+}
+DIV.gallerybox DIV.thumb {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; MARGIN: =
+2px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; =
+TEXT-ALIGN: center
+}
+DIV.gallerytext {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 94%; PADDING-BOTTOM: =
+2px; PADDING-TOP: 2px
+}
+TABLE.diff {
+	BACKGROUND: white
+}
+TD.diff-otitle {
+	BACKGROUND: #ffffff
+}
+TD.diff-ntitle {
+	BACKGROUND: #ffffff
+}
+TD.diff-addedline {
+	BORDER-RIGHT: black 2px solid; BORDER-TOP: black 2px solid; FONT-SIZE: =
+smaller; BACKGROUND: #ccffcc; BORDER-LEFT: black 2px solid; =
+BORDER-BOTTOM: black 2px solid
+}
+TD.diff-deletedline {
+	BORDER-RIGHT: black 2px dotted; BORDER-TOP: black 2px dotted; =
+FONT-SIZE: smaller; BACKGROUND: #ffffaa; BORDER-LEFT: black 2px dotted; =
+BORDER-BOTTOM: black 2px dotted
+}
+TD.diff-context {
+	FONT-SIZE: smaller; BACKGROUND: #eeeeee
+}
+SPAN.diffchange {
+	FONT-WEIGHT: bold; COLOR: silver; TEXT-DECORATION: underline
+}
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.activeagenda.net/documentation/skins/monobook/IE70Fixes.css?1
+
+#column-content #content {
+	MARGIN-TOP: 3em; MARGIN-LEFT: 12.2em; HEIGHT: 1%
+}
+.rtl #column-one {
+	PADDING-TOP: 0px
+}
+.rtl #column-one #p-navigation {
+	MARGIN-TOP: 160px
+}
+#p-cactions {
+	Z-INDEX: 3
+}
+#p-cactions LI {
+	FLOAT: none! important; PADDING-BOTTOM: 0px! important; CURSOR: =
+default; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: transparent; =
+BORDER-BOTTOM-STYLE: none
+}
+#p-cactions LI A {
+	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; DISPLAY: =
+inline-block! important; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; =
+BORDER-LEFT: #aaa 1px solid; BORDER-BOTTOM: #aaa 0px solid
+}
+#p-cactions LI.selected A {
+	BORDER-LEFT-COLOR: #fabd23; BORDER-BOTTOM-COLOR: #fabd23; =
+PADDING-BOTTOM: 0.17em; BORDER-TOP-COLOR: #fabd23; BORDER-RIGHT-COLOR: =
+#fabd23
+}
+#p-cactions LI A:hover {
+	PADDING-BOTTOM: 0.17em
+}
+#p-navigation A {
+	DISPLAY: inline-block; WIDTH: 100%
+}
+#portal-personaltools {
+	PADDING-BOTTOM: 0.1em
+}
+TEXTAREA {
+	WIDTH: 96%
+}
+#footer LI {
+	MARGIN-RIGHT: 0px
+}
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: 7bit
+Content-Location: http://www.activeagenda.net/documentation/index.php?title=-&action=raw&gen=css&maxage=18000
+
+A.new {
+	COLOR: #cc2200
+}
+#quickbar A.new {
+	COLOR: #cc2200
+}
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.activeagenda.net/documentation/skins/common/wikibits.js?1
+
+// MediaWiki JavaScript support functions=0A=
+=0A=
+var clientPC =3D navigator.userAgent.toLowerCase(); // Get client info=0A=
+var is_gecko =3D ((clientPC.indexOf('gecko')!=3D-1) && =
+(clientPC.indexOf('spoofer')=3D=3D-1)=0A=
+                && (clientPC.indexOf('khtml') =3D=3D -1) && =
+(clientPC.indexOf('netscape/7.0')=3D=3D-1));=0A=
+var is_safari =3D ((clientPC.indexOf('applewebkit')!=3D-1) && =
+(clientPC.indexOf('spoofer')=3D=3D-1));=0A=
+var is_khtml =3D (navigator.vendor =3D=3D 'KDE' || ( document.childNodes =
+&& !document.all && !navigator.taintEnabled ));=0A=
+if (clientPC.indexOf('opera') !=3D -1) {=0A=
+	var is_opera =3D true;=0A=
+	var is_opera_preseven =3D (window.opera && !document.childNodes);=0A=
+	var is_opera_seven =3D (window.opera && document.childNodes);=0A=
+}=0A=
+=0A=
+// add any onload functions in this hook (please don't hard-code any =
+events in the xhtml source)=0A=
+=0A=
+var doneOnloadHook;=0A=
+=0A=
+if (!window.onloadFuncts)=0A=
+	var onloadFuncts =3D [];=0A=
+=0A=
+function addOnloadHook(hookFunct) {=0A=
+	// Allows add-on scripts to add onload functions=0A=
+	onloadFuncts[onloadFuncts.length] =3D hookFunct;=0A=
+}=0A=
+=0A=
+function runOnloadHook() {=0A=
+	// don't run anything below this for non-dom browsers=0A=
+	if (doneOnloadHook || !(document.getElementById && =
+document.getElementsByTagName))=0A=
+		return;=0A=
+=0A=
+	histrowinit();=0A=
+	unhidetzbutton();=0A=
+	tabbedprefs();=0A=
+	akeytt();=0A=
+	scrollEditBox();=0A=
+	setupCheckboxShiftClick();=0A=
+=0A=
+	// Run any added-on functions=0A=
+	for (var i =3D 0; i < onloadFuncts.length; i++)=0A=
+		onloadFuncts[i]();=0A=
+=0A=
+	doneOnloadHook =3D true;=0A=
+}=0A=
+=0A=
+function hookEvent(hookName, hookFunct) {=0A=
+	if (window.addEventListener)=0A=
+		addEventListener(hookName, hookFunct, false);=0A=
+	else if (window.attachEvent)=0A=
+		attachEvent("on" + hookName, hookFunct);=0A=
+}=0A=
+=0A=
+//note: all skins shoud call runOnloadHook() at the end of html output,=0A=
+//      so the below should be redundant. It's there just in case.=0A=
+hookEvent("load", runOnloadHook);=0A=
+=0A=
+// document.write special stylesheet links=0A=
+if (typeof stylepath !=3D 'undefined' && typeof skin !=3D 'undefined') {=0A=
+	if (is_opera_preseven) {=0A=
+		document.write('<link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"'+stylepath+'/'+skin+'/Opera6Fixes.css">');=0A=
+	} else if (is_opera_seven) {=0A=
+		document.write('<link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"'+stylepath+'/'+skin+'/Opera7Fixes.css">');=0A=
+	} else if (is_khtml) {=0A=
+		document.write('<link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"'+stylepath+'/'+skin+'/KHTMLFixes.css">');=0A=
+	}=0A=
+}=0A=
+// Un-trap us from framesets=0A=
+if (window.top !=3D window)=0A=
+	window.top.location =3D window.location;=0A=
+=0A=
+// for enhanced RecentChanges=0A=
+function toggleVisibility(_levelId, _otherId, _linkId) {=0A=
+	var thisLevel =3D document.getElementById(_levelId);=0A=
+	var otherLevel =3D document.getElementById(_otherId);=0A=
+	var linkLevel =3D document.getElementById(_linkId);=0A=
+	if (thisLevel.style.display =3D=3D 'none') {=0A=
+		thisLevel.style.display =3D 'block';=0A=
+		otherLevel.style.display =3D 'none';=0A=
+		linkLevel.style.display =3D 'inline';=0A=
+	} else {=0A=
+		thisLevel.style.display =3D 'none';=0A=
+		otherLevel.style.display =3D 'inline';=0A=
+		linkLevel.style.display =3D 'none';=0A=
+	}=0A=
+}=0A=
+=0A=
+// page history stuff=0A=
+// attach event handlers to the input elements on history page=0A=
+function histrowinit() {=0A=
+	var hf =3D document.getElementById('pagehistory');=0A=
+	if (!hf)=0A=
+		return;=0A=
+	var lis =3D hf.getElementsByTagName('li');=0A=
+	for (var i =3D 0; i < lis.length; i++) {=0A=
+		var inputs =3D historyRadios(lis[i]);=0A=
+		if (inputs[0] && inputs[1]) {=0A=
+			inputs[0].onclick =3D diffcheck;=0A=
+			inputs[1].onclick =3D diffcheck;=0A=
+		}=0A=
+	}=0A=
+	diffcheck();=0A=
+}=0A=
+=0A=
+function historyRadios(parent) {=0A=
+	var inputs =3D parent.getElementsByTagName('input');=0A=
+	var radios =3D [];=0A=
+	for (var i =3D 0; i < inputs.length; i++) {=0A=
+		if (inputs[i].name =3D=3D "diff" || inputs[i].name =3D=3D "oldid")=0A=
+			radios[radios.length] =3D inputs[i];=0A=
+	}=0A=
+	return radios;=0A=
+}=0A=
+=0A=
+// check selection and tweak visibility/class onclick=0A=
+function diffcheck() {=0A=
+	var dli =3D false; // the li where the diff radio is checked=0A=
+	var oli =3D false; // the li where the oldid radio is checked=0A=
+	var hf =3D document.getElementById('pagehistory');=0A=
+	if (!hf)=0A=
+		return true;=0A=
+	var lis =3D hf.getElementsByTagName('li');=0A=
+	for (i=3D0;i<lis.length;i++) {=0A=
+		var inputs =3D historyRadios(lis[i]);=0A=
+		if (inputs[1] && inputs[0]) {=0A=
+			if (inputs[1].checked || inputs[0].checked) { // this row has a =
+checked radio button=0A=
+				if (inputs[1].checked && inputs[0].checked && inputs[0].value =3D=3D =
+inputs[1].value)=0A=
+					return false;=0A=
+				if (oli) { // it's the second checked radio=0A=
+					if (inputs[1].checked) {=0A=
+						oli.className =3D "selected";=0A=
+						return false;=0A=
+					}=0A=
+				} else if (inputs[0].checked) {=0A=
+					return false;=0A=
+				}=0A=
+				if (inputs[0].checked)=0A=
+					dli =3D lis[i];=0A=
+				if (!oli)=0A=
+					inputs[0].style.visibility =3D 'hidden';=0A=
+				if (dli)=0A=
+					inputs[1].style.visibility =3D 'hidden';=0A=
+				lis[i].className =3D "selected";=0A=
+				oli =3D lis[i];=0A=
+			}  else { // no radio is checked in this row=0A=
+				if (!oli)=0A=
+					inputs[0].style.visibility =3D 'hidden';=0A=
+				else=0A=
+					inputs[0].style.visibility =3D 'visible';=0A=
+				if (dli)=0A=
+					inputs[1].style.visibility =3D 'hidden';=0A=
+				else=0A=
+					inputs[1].style.visibility =3D 'visible';=0A=
+				lis[i].className =3D "";=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+	return true;=0A=
+}=0A=
+=0A=
+// generate toc from prefs form, fold sections=0A=
+// XXX: needs testing on IE/Mac and safari=0A=
+// more comments to follow=0A=
+function tabbedprefs() {=0A=
+	var prefform =3D document.getElementById('preferences');=0A=
+	if (!prefform || !document.createElement)=0A=
+		return;=0A=
+	if (prefform.nodeName.toLowerCase() =3D=3D 'a')=0A=
+		return; // Occasional IE problem=0A=
+	prefform.className =3D prefform.className + 'jsprefs';=0A=
+	var sections =3D new Array();=0A=
+	var children =3D prefform.childNodes;=0A=
+	var seci =3D 0;=0A=
+	for (var i =3D 0; i < children.length; i++) {=0A=
+		if (children[i].nodeName.toLowerCase() =3D=3D 'fieldset') {=0A=
+			children[i].id =3D 'prefsection-' + seci;=0A=
+			children[i].className =3D 'prefsection';=0A=
+			if (is_opera || is_khtml)=0A=
+				children[i].className =3D 'prefsection operaprefsection';=0A=
+			var legends =3D children[i].getElementsByTagName('legend');=0A=
+			sections[seci] =3D new Object();=0A=
+			legends[0].className =3D 'mainLegend';=0A=
+			if (legends[0] && legends[0].firstChild.nodeValue)=0A=
+				sections[seci].text =3D legends[0].firstChild.nodeValue;=0A=
+			else=0A=
+				sections[seci].text =3D '# ' + seci;=0A=
+			sections[seci].secid =3D children[i].id;=0A=
+			seci++;=0A=
+			if (sections.length !=3D 1)=0A=
+				children[i].style.display =3D 'none';=0A=
+			else=0A=
+				var selectedid =3D children[i].id;=0A=
+		}=0A=
+	}=0A=
+	var toc =3D document.createElement('ul');=0A=
+	toc.id =3D 'preftoc';=0A=
+	toc.selectedid =3D selectedid;=0A=
+	for (i =3D 0; i < sections.length; i++) {=0A=
+		var li =3D document.createElement('li');=0A=
+		if (i =3D=3D 0)=0A=
+			li.className =3D 'selected';=0A=
+		var a =3D document.createElement('a');=0A=
+		a.href =3D '#' + sections[i].secid;=0A=
+		a.onmousedown =3D a.onclick =3D uncoversection;=0A=
+		a.appendChild(document.createTextNode(sections[i].text));=0A=
+		a.secid =3D sections[i].secid;=0A=
+		li.appendChild(a);=0A=
+		toc.appendChild(li);=0A=
+	}=0A=
+	prefform.parentNode.insertBefore(toc, =
+prefform.parentNode.childNodes[0]);=0A=
+	document.getElementById('prefsubmit').id =3D 'prefcontrol';=0A=
+}=0A=
+=0A=
+function uncoversection() {=0A=
+	var oldsecid =3D this.parentNode.parentNode.selectedid;=0A=
+	var newsec =3D document.getElementById(this.secid);=0A=
+	if (oldsecid !=3D this.secid) {=0A=
+		var ul =3D document.getElementById('preftoc');=0A=
+		document.getElementById(oldsecid).style.display =3D 'none';=0A=
+		newsec.style.display =3D 'block';=0A=
+		ul.selectedid =3D this.secid;=0A=
+		var lis =3D ul.getElementsByTagName('li');=0A=
+		for (var i =3D 0; i< lis.length; i++) {=0A=
+			lis[i].className =3D '';=0A=
+		}=0A=
+		this.parentNode.className =3D 'selected';=0A=
+	}=0A=
+	return false;=0A=
+}=0A=
+=0A=
+// Timezone stuff=0A=
+// tz in format [+-]HHMM=0A=
+function checkTimezone(tz, msg) {=0A=
+	var localclock =3D new Date();=0A=
+	// returns negative offset from GMT in minutes=0A=
+	var tzRaw =3D localclock.getTimezoneOffset();=0A=
+	var tzHour =3D Math.floor( Math.abs(tzRaw) / 60);=0A=
+	var tzMin =3D Math.abs(tzRaw) % 60;=0A=
+	var tzString =3D ((tzRaw >=3D 0) ? "-" : "+") + ((tzHour < 10) ? "0" : =
+"") + tzHour + ((tzMin < 10) ? "0" : "") + tzMin;=0A=
+	if (tz !=3D tzString) {=0A=
+		var junk =3D msg.split('$1');=0A=
+		document.write(junk[0] + "UTC" + tzString + junk[1]);=0A=
+	}=0A=
+}=0A=
+=0A=
+function unhidetzbutton() {=0A=
+	var tzb =3D document.getElementById('guesstimezonebutton');=0A=
+	if (tzb)=0A=
+		tzb.style.display =3D 'inline';=0A=
+}=0A=
+=0A=
+// in [-]HH:MM format...=0A=
+// won't yet work with non-even tzs=0A=
+function fetchTimezone() {=0A=
+	// FIXME: work around Safari bug=0A=
+	var localclock =3D new Date();=0A=
+	// returns negative offset from GMT in minutes=0A=
+	var tzRaw =3D localclock.getTimezoneOffset();=0A=
+	var tzHour =3D Math.floor( Math.abs(tzRaw) / 60);=0A=
+	var tzMin =3D Math.abs(tzRaw) % 60;=0A=
+	var tzString =3D ((tzRaw >=3D 0) ? "-" : "") + ((tzHour < 10) ? "0" : =
+"") + tzHour +=0A=
+		":" + ((tzMin < 10) ? "0" : "") + tzMin;=0A=
+	return tzString;=0A=
+}=0A=
+=0A=
+function guessTimezone(box) {=0A=
+	document.getElementsByName("wpHourDiff")[0].value =3D fetchTimezone();=0A=
+}=0A=
+=0A=
+function showTocToggle() {=0A=
+	if (document.createTextNode) {=0A=
+		// Uses DOM calls to avoid document.write + XHTML issues=0A=
+=0A=
+		var linkHolder =3D document.getElementById('toctitle')=0A=
+		if (!linkHolder)=0A=
+			return;=0A=
+=0A=
+		var outerSpan =3D document.createElement('span');=0A=
+		outerSpan.className =3D 'toctoggle';=0A=
+=0A=
+		var toggleLink =3D document.createElement('a');=0A=
+		toggleLink.id =3D 'togglelink';=0A=
+		toggleLink.className =3D 'internal';=0A=
+		toggleLink.href =3D 'javascript:toggleToc()';=0A=
+		toggleLink.appendChild(document.createTextNode(tocHideText));=0A=
+=0A=
+		outerSpan.appendChild(document.createTextNode('['));=0A=
+		outerSpan.appendChild(toggleLink);=0A=
+		outerSpan.appendChild(document.createTextNode(']'));=0A=
+=0A=
+		linkHolder.appendChild(document.createTextNode(' '));=0A=
+		linkHolder.appendChild(outerSpan);=0A=
+=0A=
+		var cookiePos =3D document.cookie.indexOf("hidetoc=3D");=0A=
+		if (cookiePos > -1 && document.cookie.charAt(cookiePos + 8) =3D=3D 1)=0A=
+			toggleToc();=0A=
+	}=0A=
+}=0A=
+=0A=
+function changeText(el, newText) {=0A=
+	// Safari work around=0A=
+	if (el.innerText)=0A=
+		el.innerText =3D newText;=0A=
+	else if (el.firstChild && el.firstChild.nodeValue)=0A=
+		el.firstChild.nodeValue =3D newText;=0A=
+}=0A=
+=0A=
+function toggleToc() {=0A=
+	var toc =3D =
+document.getElementById('toc').getElementsByTagName('ul')[0];=0A=
+	var toggleLink =3D document.getElementById('togglelink')=0A=
+=0A=
+	if (toc && toggleLink && toc.style.display =3D=3D 'none') {=0A=
+		changeText(toggleLink, tocHideText);=0A=
+		toc.style.display =3D 'block';=0A=
+		document.cookie =3D "hidetoc=3D0";=0A=
+	} else {=0A=
+		changeText(toggleLink, tocShowText);=0A=
+		toc.style.display =3D 'none';=0A=
+		document.cookie =3D "hidetoc=3D1";=0A=
+	}=0A=
+}=0A=
+=0A=
+var mwEditButtons =3D [];=0A=
+var mwCustomEditButtons =3D []; // eg to add in MediaWiki:Common.js=0A=
+=0A=
+// this function generates the actual toolbar buttons with localized text=0A=
+// we use it to avoid creating the toolbar where javascript is not =
+enabled=0A=
+function addButton(imageFile, speedTip, tagOpen, tagClose, sampleText) {=0A=
+	// Don't generate buttons for browsers which don't fully=0A=
+	// support it.=0A=
+	mwEditButtons[mwEditButtons.length] =3D=0A=
+		{"imageFile": imageFile,=0A=
+		 "speedTip": speedTip,=0A=
+		 "tagOpen": tagOpen,=0A=
+		 "tagClose": tagClose,=0A=
+		 "sampleText": sampleText};=0A=
+}=0A=
+=0A=
+// this function generates the actual toolbar buttons with localized text=0A=
+// we use it to avoid creating the toolbar where javascript is not =
+enabled=0A=
+function mwInsertEditButton(parent, item) {=0A=
+	var image =3D document.createElement("img");=0A=
+	image.width =3D 23;=0A=
+	image.height =3D 22;=0A=
+	image.src =3D item.imageFile;=0A=
+	image.border =3D 0;=0A=
+	image.alt =3D item.speedTip;=0A=
+	image.title =3D item.speedTip;=0A=
+	image.style.cursor =3D "pointer";=0A=
+	image.onclick =3D function() {=0A=
+		insertTags(item.tagOpen, item.tagClose, item.sampleText);=0A=
+		return false;=0A=
+	}=0A=
+	=0A=
+	parent.appendChild(image);=0A=
+	return true;=0A=
+}=0A=
+=0A=
+function mwSetupToolbar() {=0A=
+	var toolbar =3D document.getElementById('toolbar');=0A=
+	if (!toolbar) return false;=0A=
+=0A=
+	var textbox =3D document.getElementById('wpTextbox1');=0A=
+	if (!textbox) return false;=0A=
+	=0A=
+	// Don't generate buttons for browsers which don't fully=0A=
+	// support it.=0A=
+	if (!document.selection && textbox.selectionStart =3D=3D null)=0A=
+		return false;=0A=
+	=0A=
+	for (var i in mwEditButtons) {=0A=
+		mwInsertEditButton(toolbar, mwEditButtons[i]);=0A=
+	}=0A=
+	for (var i in mwCustomEditButtons) {=0A=
+		mwInsertEditButton(toolbar, mwCustomEditButtons[i]);=0A=
+	}=0A=
+	return true;=0A=
+}=0A=
+=0A=
+function escapeQuotes(text) {=0A=
+	var re =3D new RegExp("'","g");=0A=
+	text =3D text.replace(re,"\\'");=0A=
+	re =3D new RegExp("\\n","g");=0A=
+	text =3D text.replace(re,"\\n");=0A=
+	return escapeQuotesHTML(text);=0A=
+}=0A=
+=0A=
+function escapeQuotesHTML(text) {=0A=
+	var re =3D new RegExp('&',"g");=0A=
+	text =3D text.replace(re,"&amp;");=0A=
+	var re =3D new RegExp('"',"g");=0A=
+	text =3D text.replace(re,"&quot;");=0A=
+	var re =3D new RegExp('<',"g");=0A=
+	text =3D text.replace(re,"&lt;");=0A=
+	var re =3D new RegExp('>',"g");=0A=
+	text =3D text.replace(re,"&gt;");=0A=
+	return text;=0A=
+}=0A=
+=0A=
+// apply tagOpen/tagClose to selection in textarea,=0A=
+// use sampleText instead of selection if there is none=0A=
+// copied and adapted from phpBB=0A=
+function insertTags(tagOpen, tagClose, sampleText) {=0A=
+	if (document.editform)=0A=
+		var txtarea =3D document.editform.wpTextbox1;=0A=
+	else {=0A=
+		// some alternate form? take the first one we can find=0A=
+		var areas =3D document.getElementsByTagName('textarea');=0A=
+		var txtarea =3D areas[0];=0A=
+	}=0A=
+=0A=
+	// IE=0A=
+	if (document.selection  && !is_gecko) {=0A=
+		var theSelection =3D document.selection.createRange().text;=0A=
+		if (!theSelection)=0A=
+			theSelection=3DsampleText;=0A=
+		txtarea.focus();=0A=
+		if (theSelection.charAt(theSelection.length - 1) =3D=3D " ") { // =
+exclude ending space char, if any=0A=
+			theSelection =3D theSelection.substring(0, theSelection.length - 1);=0A=
+			document.selection.createRange().text =3D tagOpen + theSelection + =
+tagClose + " ";=0A=
+		} else {=0A=
+			document.selection.createRange().text =3D tagOpen + theSelection + =
+tagClose;=0A=
+		}=0A=
+=0A=
+	// Mozilla=0A=
+	} else if(txtarea.selectionStart || txtarea.selectionStart =3D=3D '0') {=0A=
+		var replaced =3D false;=0A=
+		var startPos =3D txtarea.selectionStart;=0A=
+		var endPos =3D txtarea.selectionEnd;=0A=
+		if (endPos-startPos)=0A=
+			replaced =3D true;=0A=
+		var scrollTop =3D txtarea.scrollTop;=0A=
+		var myText =3D (txtarea.value).substring(startPos, endPos);=0A=
+		if (!myText)=0A=
+			myText=3DsampleText;=0A=
+		if (myText.charAt(myText.length - 1) =3D=3D " ") { // exclude ending =
+space char, if any=0A=
+			subst =3D tagOpen + myText.substring(0, (myText.length - 1)) + =
+tagClose + " ";=0A=
+		} else {=0A=
+			subst =3D tagOpen + myText + tagClose;=0A=
+		}=0A=
+		txtarea.value =3D txtarea.value.substring(0, startPos) + subst +=0A=
+			txtarea.value.substring(endPos, txtarea.value.length);=0A=
+		txtarea.focus();=0A=
+		//set new selection=0A=
+		if (replaced) {=0A=
+			var cPos =3D startPos+(tagOpen.length+myText.length+tagClose.length);=0A=
+			txtarea.selectionStart =3D cPos;=0A=
+			txtarea.selectionEnd =3D cPos;=0A=
+		} else {=0A=
+			txtarea.selectionStart =3D startPos+tagOpen.length;=0A=
+			txtarea.selectionEnd =3D startPos+tagOpen.length+myText.length;=0A=
+		}=0A=
+		txtarea.scrollTop =3D scrollTop;=0A=
+=0A=
+	// All other browsers get no toolbar.=0A=
+	// There was previously support for a crippled "help"=0A=
+	// bar, but that caused more problems than it solved.=0A=
+	}=0A=
+	// reposition cursor if possible=0A=
+	if (txtarea.createTextRange)=0A=
+		txtarea.caretPos =3D document.selection.createRange().duplicate();=0A=
+}=0A=
+=0A=
+function akeytt() {=0A=
+	if (typeof ta =3D=3D "undefined" || !ta)=0A=
+		return;=0A=
+	var pref =3D 'alt-';=0A=
+	if (is_safari || navigator.userAgent.toLowerCase().indexOf('mac') + 1=0A=
+		|| navigator.userAgent.toLowerCase().indexOf('konqueror') + 1 )=0A=
+		pref =3D 'control-';=0A=
+	if (is_opera)=0A=
+		pref =3D 'shift-esc-';=0A=
+=0A=
+	for (var id in ta) {=0A=
+		var n =3D document.getElementById(id);=0A=
+		if (n) {=0A=
+			var a =3D null;=0A=
+			var ak =3D '';=0A=
+			// Are we putting accesskey in it=0A=
+			if (ta[id][0].length > 0) {=0A=
+				// Is this object a object? If not assume it's the next child.=0A=
+=0A=
+				if (n.nodeName.toLowerCase() =3D=3D "a") {=0A=
+					a =3D n;=0A=
+				} else {=0A=
+					a =3D n.childNodes[0];=0A=
+				}=0A=
+=0A=
+				if (a) {=0A=
+					a.accessKey =3D ta[id][0];=0A=
+					ak =3D ' ['+pref+ta[id][0]+']';=0A=
+				}=0A=
+			} else {=0A=
+				// We don't care what type the object is when assigning tooltip=0A=
+				a =3D n;=0A=
+				ak =3D '';=0A=
+			}=0A=
+=0A=
+			if (a) {=0A=
+				a.title =3D ta[id][1]+ak;=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+function setupRightClickEdit() {=0A=
+	if (document.getElementsByTagName) {=0A=
+		var divs =3D document.getElementsByTagName('div');=0A=
+		for (var i =3D 0; i < divs.length; i++) {=0A=
+			var el =3D divs[i];=0A=
+			if(el.className =3D=3D 'editsection') {=0A=
+				addRightClickEditHandler(el);=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+function addRightClickEditHandler(el) {=0A=
+	for (var i =3D 0; i < el.childNodes.length; i++) {=0A=
+		var link =3D el.childNodes[i];=0A=
+		if (link.nodeType =3D=3D 1 && link.nodeName.toLowerCase() =3D=3D 'a') {=0A=
+			var editHref =3D link.getAttribute('href');=0A=
+=0A=
+			// find the following a=0A=
+			var next =3D el.nextSibling;=0A=
+			while (next.nodeType !=3D 1)=0A=
+				next =3D next.nextSibling;=0A=
+=0A=
+			// find the following header=0A=
+			next =3D next.nextSibling;=0A=
+			while (next.nodeType !=3D 1)=0A=
+				next =3D next.nextSibling;=0A=
+=0A=
+			if (next && next.nodeType =3D=3D 1 &&=0A=
+				next.nodeName.match(/^[Hh][1-6]$/)) {=0A=
+				next.oncontextmenu =3D function() {=0A=
+					document.location =3D editHref;=0A=
+					return false;=0A=
+				}=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+function setupCheckboxShiftClick() {=0A=
+	if (document.getElementsByTagName) {=0A=
+		var uls =3D document.getElementsByTagName('ul');=0A=
+		var len =3D uls.length;=0A=
+		for (var i =3D 0; i < len; ++i) {=0A=
+			addCheckboxClickHandlers(uls[i]);=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+function addCheckboxClickHandlers(ul, start, finish) {=0A=
+	if (ul.checkboxHandlersTimer) {=0A=
+		clearInterval(ul.checkboxHandlersTimer);=0A=
+	}=0A=
+	if ( !ul.childNodes ) {=0A=
+		return;=0A=
+	}=0A=
+	var len =3D ul.childNodes.length;=0A=
+	if (len < 2) {=0A=
+		return;=0A=
+	}=0A=
+	start =3D start || 0;=0A=
+	finish =3D finish || start + 250;=0A=
+	if ( finish > len ) { finish =3D len; }=0A=
+	ul.checkboxes =3D ul.checkboxes || [];=0A=
+	ul.lastCheckbox =3D ul.lastCheckbox || null;=0A=
+	for (var i =3D start; i<finish; ++i) {=0A=
+		var child =3D ul.childNodes[i];=0A=
+		if ( child && child.childNodes && child.childNodes[0] ) {=0A=
+			var cb =3D child.childNodes[0];=0A=
+			if ( !cb.nodeName || cb.nodeName.toLowerCase() !=3D 'input' ||=0A=
+			     !cb.type || cb.type.toLowerCase() !=3D 'checkbox' ) {=0A=
+				return;=0A=
+			}=0A=
+			cb.index =3D ul.checkboxes.push(cb) - 1;=0A=
+			cb.container =3D ul;=0A=
+			cb.onmouseup =3D checkboxMouseupHandler;=0A=
+		}=0A=
+	}=0A=
+	if (finish < len) {=0A=
+	  var f=3Dfunction(){ addCheckboxClickHandlers(ul, finish, finish+250); =
+};=0A=
+	  ul.checkboxHandlersTimer=3DsetInterval(f, 200);=0A=
+	}=0A=
+}=0A=
+=0A=
+function checkboxMouseupHandler(e) {=0A=
+	if (typeof e =3D=3D 'undefined') {=0A=
+		e =3D window.event;=0A=
+	}=0A=
+	if ( !e.shiftKey || this.container.lastCheckbox =3D=3D=3D null ) {=0A=
+		this.container.lastCheckbox =3D this.index;=0A=
+		return true;=0A=
+	}=0A=
+	var endState =3D !this.checked;=0A=
+	if ( is_opera ) { // opera has already toggled the checkbox by this =
+point=0A=
+		endState =3D !endState;=0A=
+	}=0A=
+	var start, finish;=0A=
+	if ( this.index < this.container.lastCheckbox ) {=0A=
+		start =3D this.index + 1;=0A=
+		finish =3D this.container.lastCheckbox;=0A=
+	} else {=0A=
+		start =3D this.container.lastCheckbox;=0A=
+		finish =3D this.index - 1;=0A=
+	}=0A=
+	for (var i =3D start; i <=3D finish; ++i ) {=0A=
+		this.container.checkboxes[i].checked =3D endState;=0A=
+	}=0A=
+	this.container.lastCheckbox =3D this.index;=0A=
+	return true;=0A=
+}=0A=
+=0A=
+function toggle_element_activation(ida,idb) {=0A=
+	if (!document.getElementById)=0A=
+		return;=0A=
+	document.getElementById(ida).disabled=3Dtrue;=0A=
+	document.getElementById(idb).disabled=3Dfalse;=0A=
+}=0A=
+=0A=
+function toggle_element_check(ida,idb) {=0A=
+	if (!document.getElementById)=0A=
+		return;=0A=
+	document.getElementById(ida).checked=3Dtrue;=0A=
+	document.getElementById(idb).checked=3Dfalse;=0A=
+}=0A=
+=0A=
+function fillDestFilename(id) {=0A=
+	if (!document.getElementById)=0A=
+		return;=0A=
+	var path =3D document.getElementById(id).value;=0A=
+	// Find trailing part=0A=
+	var slash =3D path.lastIndexOf('/');=0A=
+	var backslash =3D path.lastIndexOf('\\');=0A=
+	var fname;=0A=
+	if (slash =3D=3D -1 && backslash =3D=3D -1) {=0A=
+		fname =3D path;=0A=
+	} else if (slash > backslash) {=0A=
+		fname =3D path.substring(slash+1, 10000);=0A=
+	} else {=0A=
+		fname =3D path.substring(backslash+1, 10000);=0A=
+	}=0A=
+=0A=
+	// Capitalise first letter and replace spaces by underscores=0A=
+	fname =3D =
+fname.charAt(0).toUpperCase().concat(fname.substring(1,10000)).replace(/ =
+/g, '_');=0A=
+=0A=
+	// Output result=0A=
+	var destFile =3D document.getElementById('wpDestFile');=0A=
+	if (destFile)=0A=
+		destFile.value =3D fname;=0A=
+}=0A=
+=0A=
+=0A=
+function considerChangingExpiryFocus() {=0A=
+	if (!document.getElementById)=0A=
+		return;=0A=
+	var drop =3D document.getElementById('wpBlockExpiry');=0A=
+	if (!drop)=0A=
+		return;=0A=
+	var field =3D document.getElementById('wpBlockOther');=0A=
+	if (!field)=0A=
+		return;=0A=
+	var opt =3D drop.value;=0A=
+	if (opt =3D=3D 'other')=0A=
+		field.style.display =3D '';=0A=
+	else=0A=
+		field.style.display =3D 'none';=0A=
+}=0A=
+=0A=
+function scrollEditBox() {=0A=
+	var editBoxEl =3D document.getElementById("wpTextbox1");=0A=
+	var scrollTopEl =3D document.getElementById("wpScrolltop");=0A=
+	var editFormEl =3D document.getElementById("editform");=0A=
+=0A=
+	if (editBoxEl && scrollTopEl) {=0A=
+		if (scrollTopEl.value) editBoxEl.scrollTop =3D scrollTopEl.value;=0A=
+		editFormEl.onsubmit =3D function() {=0A=
+			document.getElementById("wpScrolltop").value =3D =
+document.getElementById("wpTextbox1").scrollTop;=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+hookEvent("load", scrollEditBox);=0A=
+=0A=
+function allmessagesfilter() {=0A=
+	text =3D document.getElementById('allmessagesinput').value;=0A=
+	k =3D document.getElementById('allmessagestable');=0A=
+	if (!k) { return;}=0A=
+=0A=
+	var items =3D k.getElementsByTagName('span');=0A=
+=0A=
+	if ( text.length > allmessages_prev.length ) {=0A=
+		for (var i =3D items.length-1, j =3D 0; i >=3D 0; i--) {=0A=
+			j =3D allmessagesforeach(items, i, j);=0A=
+		}=0A=
+	} else {=0A=
+		for (var i =3D 0, j =3D 0; i < items.length; i++) {=0A=
+			j =3D allmessagesforeach(items, i, j);=0A=
+		}=0A=
+	}=0A=
+	allmessages_prev =3D text;=0A=
+}=0A=
+=0A=
+function allmessagesforeach(items, i, j) {=0A=
+	var hItem =3D items[i].getAttribute('id');=0A=
+	if (hItem.substring(0,17) =3D=3D 'sp-allmessages-i-') {=0A=
+		if (items[i].firstChild && items[i].firstChild.nodeName =3D=3D '#text' =
+&& items[i].firstChild.nodeValue.indexOf(text) !=3D -1) {=0A=
+			var itemA =3D document.getElementById( hItem.replace('i', 'r1') );=0A=
+			var itemB =3D document.getElementById( hItem.replace('i', 'r2') );=0A=
+			if ( itemA.style.display !=3D '' ) {=0A=
+				var s =3D "allmessageshider(\"" + hItem.replace('i', 'r1') + "\", =
+\"" + hItem.replace('i', 'r2') + "\", '')";=0A=
+				var k =3D window.setTimeout(s,j++*5);=0A=
+			}=0A=
+		} else {=0A=
+			var itemA =3D document.getElementById( hItem.replace('i', 'r1') );=0A=
+			var itemB =3D document.getElementById( hItem.replace('i', 'r2') );=0A=
+			if ( itemA.style.display !=3D 'none' ) {=0A=
+				var s =3D "allmessageshider(\"" + hItem.replace('i', 'r1') + "\", =
+\"" + hItem.replace('i', 'r2') + "\", 'none')";=0A=
+				var k =3D window.setTimeout(s,j++*5);=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+	return j;=0A=
+}=0A=
+=0A=
+=0A=
+function allmessageshider(idA, idB, cstyle) {=0A=
+	var itemA =3D document.getElementById( idA );=0A=
+	var itemB =3D document.getElementById( idB );=0A=
+	if (itemA) { itemA.style.display =3D cstyle; }=0A=
+	if (itemB) { itemB.style.display =3D cstyle; }=0A=
+}=0A=
+=0A=
+function allmessagesmodified() {=0A=
+	allmessages_modified =3D !allmessages_modified;=0A=
+	k =3D document.getElementById('allmessagestable');=0A=
+	if (!k) { return;}=0A=
+	var items =3D k.getElementsByTagName('tr');=0A=
+	for (var i =3D 0, j =3D 0; i< items.length; i++) {=0A=
+		if (!allmessages_modified ) {=0A=
+			if ( items[i].style.display !=3D '' ) {=0A=
+				var s =3D "allmessageshider(\"" + items[i].getAttribute('id') + "\", =
+null, '')";=0A=
+				var k =3D window.setTimeout(s,j++*5);=0A=
+			}=0A=
+		} else if (items[i].getAttribute('class') =3D=3D 'def' && =
+allmessages_modified) {=0A=
+			if ( items[i].style.display !=3D 'none' ) {=0A=
+				var s =3D "allmessageshider(\"" + items[i].getAttribute('id') + "\", =
+null, 'none')";=0A=
+				var k =3D window.setTimeout(s,j++*5);=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+function allmessagesshow() {=0A=
+	k =3D document.getElementById('allmessagesfilter');=0A=
+	if (k) { k.style.display =3D ''; }=0A=
+=0A=
+	allmessages_prev =3D '';=0A=
+	allmessages_modified =3D false;=0A=
+}=0A=
+=0A=
+hookEvent("load", allmessagesshow);=0A=
+hookEvent("load", mwSetupToolbar);=0A=
+
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.activeagenda.net/documentation/index.php?title=-&action=raw&gen=js
+
+/* generated javascript */var skin =3D 'monobook';=0A=
+var stylepath =3D '/documentation/skins';/* MediaWiki:Monobook */=0A=
+/* tooltips and access keys */=0A=
+var ta =3D new Object();=0A=
+ta['pt-userpage'] =3D new Array('.','My user page');=0A=
+ta['pt-anonuserpage'] =3D new Array('.','The user page for the ip =
+you\'re editing as');=0A=
+ta['pt-mytalk'] =3D new Array('n','My talk page');=0A=
+ta['pt-anontalk'] =3D new Array('n','Discussion about edits from this ip =
+address');=0A=
+ta['pt-preferences'] =3D new Array('','My preferences');=0A=
+ta['pt-watchlist'] =3D new Array('l','The list of pages you\'re =
+monitoring for changes.');=0A=
+ta['pt-mycontris'] =3D new Array('y','List of my contributions');=0A=
+ta['pt-login'] =3D new Array('o','You are encouraged to log in, it is =
+not mandatory however.');=0A=
+ta['pt-anonlogin'] =3D new Array('o','You are encouraged to log in, it =
+is not mandatory however.');=0A=
+ta['pt-logout'] =3D new Array('o','Log out');=0A=
+ta['ca-talk'] =3D new Array('t','Discussion about the content page');=0A=
+ta['ca-edit'] =3D new Array('e','You can edit this page. Please use the =
+preview button before saving.');=0A=
+ta['ca-addsection'] =3D new Array('+','Add a comment to this =
+discussion.');=0A=
+ta['ca-viewsource'] =3D new Array('e','This page is protected. You can =
+view its source.');=0A=
+ta['ca-history'] =3D new Array('h','Past versions of this page.');=0A=
+ta['ca-protect'] =3D new Array('=3D','Protect this page');=0A=
+ta['ca-delete'] =3D new Array('d','Delete this page');=0A=
+ta['ca-undelete'] =3D new Array('d','Restore the edits done to this page =
+before it was deleted');=0A=
+ta['ca-move'] =3D new Array('m','Move this page');=0A=
+ta['ca-watch'] =3D new Array('w','Add this page to your watchlist');=0A=
+ta['ca-unwatch'] =3D new Array('w','Remove this page from your =
+watchlist');=0A=
+ta['search'] =3D new Array('f','Search this wiki');=0A=
+ta['p-logo'] =3D new Array('','Main Page');=0A=
+ta['n-mainpage'] =3D new Array('z','Visit the Main Page');=0A=
+ta['n-portal'] =3D new Array('','About the project, what you can do, =
+where to find things');=0A=
+ta['n-currentevents'] =3D new Array('','Find background information on =
+current events');=0A=
+ta['n-recentchanges'] =3D new Array('r','The list of recent changes in =
+the wiki.');=0A=
+ta['n-randompage'] =3D new Array('x','Load a random page');=0A=
+ta['n-help'] =3D new Array('','The place to find out.');=0A=
+ta['n-sitesupport'] =3D new Array('','Support us');=0A=
+ta['t-whatlinkshere'] =3D new Array('j','List of all wiki pages that =
+link here');=0A=
+ta['t-recentchangeslinked'] =3D new Array('k','Recent changes in pages =
+linked from this page');=0A=
+ta['feed-rss'] =3D new Array('','RSS feed for this page');=0A=
+ta['feed-atom'] =3D new Array('','Atom feed for this page');=0A=
+ta['t-contributions'] =3D new Array('','View the list of contributions =
+of this user');=0A=
+ta['t-emailuser'] =3D new Array('','Send a mail to this user');=0A=
+ta['t-upload'] =3D new Array('u','Upload images or media files');=0A=
+ta['t-specialpages'] =3D new Array('q','List of all special pages');=0A=
+ta['ca-nstab-main'] =3D new Array('c','View the content page');=0A=
+ta['ca-nstab-user'] =3D new Array('c','View the user page');=0A=
+ta['ca-nstab-media'] =3D new Array('c','View the media page');=0A=
+ta['ca-nstab-special'] =3D new Array('','This is a special page, you =
+can\'t edit the page itself.');=0A=
+ta['ca-nstab-project'] =3D new Array('a','View the project page');=0A=
+ta['ca-nstab-image'] =3D new Array('c','View the image page');=0A=
+ta['ca-nstab-mediawiki'] =3D new Array('c','View the system message');=0A=
+ta['ca-nstab-template'] =3D new Array('c','View the template');=0A=
+ta['ca-nstab-help'] =3D new Array('c','View the help page');=0A=
+ta['ca-nstab-category'] =3D new Array('c','View the category page');
+------=_NextPart_000_02BA_01C9938F.4ED1F9C0--

@@ -1,0 +1,18 @@
+@ Je¿eli pole jest null to jeden znak a jak inne to drugi
+
+@ Przydatne w po³aczeniu z funkcj¹ sum liczac¹ wystêpowanie 1 w redkorach
+
+@ Przyk³ad u¿ycia:
+<SummaryField 
+	name="_InvoiceApprovedCount" localKey="_InvoiceID" summaryKey="_IncomingInvoiceID" 
+	summaryFunction="sum" summaryField="_InvoiceApproved" summaryModuleID="xir" 
+	phrase="Approved|The invoice has been approved"/>
+<CalculatedField 
+	name="_InvoiceApprovedSign" calcFunction="flipflop_onnull" params="_InvoiceApprovedCount #&#9679; #&#9675;"  
+	phrase="Approved|The invoice has been approved"/>
+<CombinedField 
+	name="_InvoiceApprovedGraph" 
+	phrase="Approved|The invoice has been approved">
+	<![CDATA[<div style="font-size:24px\;color:#9ABEEA\;\padding-left:20px">]]>
+	<CombinedFieldRef name="_InvoiceApprovedSign"/><![CDATA[</div>]]>
+</CombinedField>

@@ -1,0 +1,6 @@
+@ Potrzeba kopi pola zachowuj¹cej siê tak sama jak orgina³ (combinedfield wycina typ)
+
+@ Mo¿ana u¿yæ funkcji copy_field z jednym paramtrem nazwy pola do sklonowania:
+<CalculatedField 
+	name="_JobID1" calcFunction="copy_field" params="_JobID" 
+	phrase="Sample Phrase|This is a sample phrase"/>

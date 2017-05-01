@@ -1,0 +1,12 @@
+@ Je¿eli kasuj siê rekord to powinno siê (zazwyczaj) skasowaæ równie¿ nale¿ne za³¹czniki..
+
+@ Wywo³anie ma postaæ np:
+deleteOnIdGlobals="att nts cos lnk dat"
+
+@ Wywo³anie jest w TableField bêd¹cym kluczem rekordu w tabeli
+
+@ Przez konwecncjê podstawiana jest:
+- RelatedModuleID
+- RelatedRecordID
+
+@ Je¿eli ten nazwy sa inne to trzeba rêcznie pisaæ tygier

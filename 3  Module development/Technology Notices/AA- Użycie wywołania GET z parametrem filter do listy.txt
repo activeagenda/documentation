@@ -1,0 +1,21 @@
+@ Czasami niezbêdne jest posy³anie linku do listy przefiltrowanej po dacie, statusie (np powiadamiania o nowych rzeczahc w danym dniu)
+
+@ Mo¿na to zrealizowaæ przez przekazanie parametrów do wywo³ania listy (na przyk³adzie CooR)
+http://192.168.109.129/list.php?mdl=xj&filter=1&_JobStartDate=2010-08-06
+http://192.168.109.129/list.php?mdl=xj&filter=1&_JobStatusID=1
+
+@ Wywo³ania mog¹ byæ zakodowane
+http://192.168.109.129/frames.php?dest=bGlzdC5waHA/bWRsPXhq
+http://192.168.109.129/frames.php?dest=bGlzdC5waHA/bWRsPXhq
+
+@ Parametry wyszukuj¹ tylko po równoœci i musz¹ byæ ustawione nastêpuj¹co:
+filter=1 
+myParam=xxx
+
+@ Nale¿y sprawdziæ url encoding szczególnoœci co do stringów
+
+@ Zdjêcie warunków odbywa siê przez:
+- "Wyczyœc wszystkie warunki wyszukiwania"
+- Nowe wywo³anie z innymi parametrami
+
+@ Wyczysczenie wszelkich filtrów odbywa siê przez podanie paramteru filter=1 i (nic po za tym)

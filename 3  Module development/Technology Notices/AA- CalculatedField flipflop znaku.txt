@@ -1,0 +1,17 @@
+@ W zale¿noœci od true/false zwracany jest ró¿ny znak -> pierwszy na true drugi na false
+
+@ True musi byæ 1 wszsytko inne jest False
+
+@ Przyk³ad z ppl:
+<TableField 
+	name="VacationHandler" type="bool" dbFlags="default 0" 
+	phrase="Vacation handler|This person is a vacation handler"/>
+<CalculatedField 
+	name="VacationHandlerSign" calcFunction="flipflop" params="VacationHandler #&#9679; #&#9675;"  
+	phrase="Vacation handler|This person is a vacation handler"/>
+<CombinedField 
+	name="VacationHandlerGraph" 
+	phrase="Vacation handler|This person is a vacation handler">
+	<![CDATA[<div style="font-size:24px\;color:#9ABEEA\;\padding-left:20px">]]>
+	<CombinedFieldRef name="VacationHandlerSign"/><![CDATA[</div>]]>
+</CombinedField>

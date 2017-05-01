@@ -1,0 +1,5 @@
+@ Lokalizacja liczba ".'->"," czasami przeszkadza!
+
+@ Aby wymusiæ pokazanie lokalizacji separatora liczby trzeba wpisaæ np displayDecimal="2"
+
+@ Dotyczy to równie¿ CalculatedField !

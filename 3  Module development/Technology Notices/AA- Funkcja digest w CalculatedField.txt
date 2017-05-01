@@ -1,0 +1,11 @@
+@ Wywo³¹nie 
+<CalculatedField name="_Digest" calcFunction="digest" params="Description #75" />
+
+@ Zwraca: 
+ - pierwsze 75 znaków strinu plus '...' je¿eli jest d³u¿sze ni¿ 75 znaków
+ - tekst je¿eli jest krótszy ni¿e 75 bez doklejania '..."
+
+@ Funkcja jest oparta o SUBSTRING ale wbrew dokumentacji nie jest ona mulitbyte safe czyli przy UTF8 mog¹ siê pojawiaæ krzaczki przy polskich literach na koñcu
+
+
+@ Funkcja tnie w po³owie markup html i rozwala style IE-> nale¿y poprawiæ implementacjê!

@@ -1,0 +1,11 @@
+@ Wyœwietlanie na liœcie dostêpnoœci zasobu
+
+@ Przyk³ad u¿ycia:
+<CalculatedField 
+ name="CountryIcon" 
+ calcFunction="item_exists" 
+ params="CountryAbbreviation"  
+ phrase="Icon calculated|This is a sample phrase"/>
+
+@ Wiêcej w Tips&Tricks w 
+"AA- Demo wyœwietlania na liœcie dostêpnoœci zasobu.xml"

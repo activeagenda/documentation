@@ -1,0 +1,29 @@
+@ AA w wersji USA posiada zarz¹dzanie tylko na poziomie modu³ów w nastêpuj¹cej granulacji:
+ - u¿ytkownika ma prawo dostêpu do danych z modu³u lub nie
+ - u¿ytkownik ma prawo dostêpu do podgl¹du danych (view)
+ - u¿ytkownik ma prawo podgl¹du i edycji danych 
+
+@? AA w wersji USA posiada uprawnienia dla organizacji umo¿liwiaj¹ce:
+ - u¿ytkownika z danej organizacji ma prawo dostêpu do danych z modu³u lub nie
+ - u¿ytkownik z danej organizacji ma prawo dostêpu do podgl¹du danych organizacji (view)
+ - u¿ytkownik z danej organizacji ma prawo podgl¹du i edycji danych organizacji
+
+@ AA w wersji USA nie posiada regulacji praw dostêpu na poziomie dostêpu do rekordu w kontekœcie:
+ - w³aœciciela rekordu
+ - grupy w³aœciela rekordu
+
+@ AA daje prawo dla pojedynczego u¿ytkownika:
+- nadania w³asnej grupie wgl¹du w rekordy posiadane przez u¿ytkownika
+- nadania wszystkim wgl¹du w rekordy posiadane przez u¿ytkownika
+
+@ AA daje prawo dla grupy u¿ytkowników:
+- nadania w³asnej grupie wgl¹du w rekordy posiadane przez u¿ytkownika grupy (?)
+- nadania wszystkim wgl¹du w rekordy posiadane przez u¿ytkownika grupy (?)
+
+@ U¿ytkownik mo¿e byæ cz³onkiem wielu grup. Szersze prawa nadpisuj¹ wê¿sze prawa
+
+@ AA daje prawo dla grupy roboczej u¿ytkowników dostêpu do danego rekordu o ile posiada ono pole GroupOwnership. Grupa robocza jest definiowana poprzez:
+Menu G³ówne / Administracja / Grupy Robocze
+
+
+@ Wyspecyfikowanie SQl do sprawdzania zachowania od l.302 w user.class.php function getRecordPermissionWhereSQL

@@ -1,0 +1,11 @@
+@ Czasami trzeba ustawiæ inn¹ liczbê wyœwietlnych rekordów ni¿ domyœlen 10
+
+@ W definicji ViewGrid i EditGrid podaje siê parametr perPage="XX" z mo¿liwymi wartoœciami:
+- 5
+- 10
+- 15
+- 20
+- 50
+- 100
+
+@ Paremter mo¿e byæ zdefiniowany na stronie zagnie¿dzaj¹cej grid i module bazowym grida
