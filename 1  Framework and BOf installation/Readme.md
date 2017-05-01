@@ -22,25 +22,25 @@ As the preparation for installation:
 
 ## Patch the aa-base with aa-patch
 * Download [the latest release of aa-patch](https://github.com/activeagenda/aa-patch/releases/latest) to directory ./s2a/util/ as a zip file
-* Run the script: `./aa-patch aa-patch.X.zip`
+* Run the script: `./aa-patch aa-patch-X.zip`
 
 ## Patch the aa-base with aa-xmlbase
 * Download the [the latest release of aa-xmlbase](https://github.com/activeagenda/aa-xmlbase/releases/latest) to directory ./s2a/util/ as a zip file
-* Run the script: `./aa-xml aa-xmlbase.X.zip`
+* Run the script: `./aa-xmlbase aa-xmlbase-X.zip`
 
 ## Patch the aa-xmlbase with BOf ::
 * Download the [the latest release of BOf::](https://github.com/activeagenda/bof/releases/latest) to directory ./s2a/util/ as a zip file
-* Run the script: `./aa-patch BOf.X.zip` 
+* Run the script: `./aa-patch BOf-X.zip` 
 
 ## Application auto generation
 * Configure root database user the  in ./s2a/active_agenda/[gen-config.php](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/gen-config.php) (you can remove this file later, when application development is finished)
 * Configure database user and password in ./s2a/active_agenda/[config.php](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/config.php) (search for "Database connection string") 
 * Prepare application admin username and password requested during an interactive installation
 * Run `./aa-permiss` to set the access permissions to files and directories 
-* Run `./s2a/s2a.php -m mod -l pl_PL` (try several times if error encountered 
-* Run `./s2a/s2a.php -t -l pl_PL` (Beware of generation time - several minutes needed)
-* Run `./s2a/ s2a-install-db -u`
-* Customize database root and password in the file ./aa-postinstall and run the script `./aa-postinstall`
+* Run `./s2a/s2a.php -m mod -l pl_PL` (set "activeagenda" as database name, try several times if error encountered) 
+* Run `./s2a/s2a.php -t -l pl_PL` (beware of generation time - several minutes needed)
+* Run `./s2a/ s2a-install-db -u` (application admin username and password)
+* Customize database root and password in the file ./aa-postinstall, run the script `./aa-postinstall`
 * Configure the web server 
 
 ## Test the application installation
