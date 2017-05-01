@@ -36,9 +36,9 @@ As the preparation for installation:
 
 ###  Install framework prerequisites
 * All package prerequisites are listed in the aa-instal file Run `./s2a/util/aa-install`  .Run the script to install them with your preferred root/password naming policy.
-* Check php settings, see configuration file [php.ini](https://github.com/activeagenda/documentation/blob/master/config%20file%20examples/php.ini)
-* Check mysql settings, see configuration file [my.cnf](https://github.com/activeagenda/documentation/blob/master/config%20file%20examples/my.cnf)
-* Check appache settings, see configuration file [default](https://github.com/activeagenda/documentation/blob/master/config%20file%20examples/default)
+* Check php settings, see configuration file [php.ini](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/php.ini)
+* Check mysql settings, see configuration file [my.cnf](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/my.cnf)
+* Check appache settings, see configuration file [default](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/default)
 
 ### Patch the aa-base with aa-patch
 * Download [the latest release of aa-patch](https://github.com/activeagenda/aa-patch/releases/latest) to directory ./s2a/util/ as a zip file
@@ -53,8 +53,8 @@ As the preparation for installation:
 * Run the script: `./aa-patch BOf.X.zip` 
 
 ### Application auto generation
-* Configure root database user the  in ./s2a/active_agenda/[gen-config.php](https://github.com/activeagenda/documentation/blob/master/config%20file%20examples/gen-config.php) (you can remove this file later, when application development is finished)
-* Configure database user and password in ./s2a/active_agenda/[config.php](https://github.com/activeagenda/documentation/blob/master/config%20file%20examples/config.php) (search for "Database connection string") 
+* Configure root database user the  in ./s2a/active_agenda/[gen-config.php](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/gen-config.php) (you can remove this file later, when application development is finished)
+* Configure database user and password in ./s2a/active_agenda/[config.php](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/config.php) (search for "Database connection string") 
 * Prepare application admin username and password requested during an interactive installation
 * Run `./aa-permiss` to set the access permissions to files and directories 
 * Run `./s2a/s2a.php -m mod -l pl_PL` (try several times if error encountered 
@@ -69,7 +69,7 @@ As the preparation for installation:
 * Play a bit with the application ...
 
 ### Email notfication setup
-* Configure ./s2a/active_agenda/[email-config.php](https://github.com/activeagenda/documentation/blob/master/config%20file%20examples/email-config.php) 
+* Configure ./s2a/active_agenda/[email-config.php](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/email-config.php) 
 * Setup crone job
 * Setup email connection to your post server
 
