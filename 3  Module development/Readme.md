@@ -1,5 +1,5 @@
 # Documentation
-For module development documenation browse to [Active Agenda - The Technology](http://www.activeagenda.com/tiki-index.php?page=The%20Technology) The legacy documentation is stored in the folder 
+For module development documenation browse to [Active Agenda - The Technology](http://www.activeagenda.com/tiki-index.php?page=The%20Technology) The legacy documentation is stored in the folder [Active Agenda 0.8.2-beta Technology documentation](https://github.com/activeagenda/documentation/tree/master/3%20%20Module%20development/Active%20Agenda%200.8.2-beta%20Technology%20documention)
 
 Changes are documented in "Technology Notices" in the polish language. Use Google translator for browsing the files by calling
 
