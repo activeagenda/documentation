@@ -1,7 +1,7 @@
 #  BOf :: on Active Agenda framework
 
 ## Demo
-For demo browse to http://demo-s1st.cloudapp.net .Login and password are provided on the login page.
+For demo browse to [http://demo-s1st.cloudapp.net](http://demo-s1st.cloudapp.net). 
 
 ## Framework structure
 [Active Agenda](https://sourceforge.net/projects/activeagenda) framework and [BOf ::](https://activeagenda.github.io) consists of:
@@ -11,8 +11,8 @@ For demo browse to http://demo-s1st.cloudapp.net .Login and password are provide
 * [BOf ::](https://github.com/activeagenda/BOf) - a set of business modules developed on the basis of the framework
 
 ## Framework release numbering
-The release versioning numbering schema (X.X.X e.g. 1.345.23) is as follows:
-* aa-base: semantic version numbering  e.g. 1  -> 1.X.X
+The Active Agenda 0.8.2-beta establishes as the base of the fork the major numer 1, which is omitted in the numbering of the framework. The release versioning numbering schema (X.X.X e.g. 1.345.23) is defined follows:
+* aa-base: consecutive version numbering e.g. 1  -> 1.X.X
 * aa-patch: consecutive version numbering e.g. -> X.345.X
 * aa-xmlbase: consecutive version numbering e.g. -> X.X.23
 

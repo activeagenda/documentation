@@ -28,6 +28,10 @@ As the preparation for installation:
 * Download the [the latest release of aa-xmlbase](https://github.com/activeagenda/aa-xmlbase/releases/latest) to directory ./s2a/util/ as a zip file
 * Run the script: `./aa-xmlbase aa-xmlbase-X.zip`
 
+## Patch the aa-base with tutor
+* Download the [the latest release of aa-xmlbase](https://github.com/activeagenda/tutor/releases/latest) to directory ./s2a/util/ as a zip file
+* Run the script: `./aa-patch tutor-X.zip`
+
 ## Patch the aa-xmlbase with BOf ::
 * Download the [the latest release of BOf::](https://github.com/activeagenda/bof/releases/latest) to directory ./s2a/util/ as a zip file
 * Run the script: `./aa-patch BOf-X.zip` 
