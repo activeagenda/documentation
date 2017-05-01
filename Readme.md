@@ -8,7 +8,7 @@ For demo browse to http://demo-s1st.cloudapp.net .Login and password are provide
 * [aa-base](https://github.com/activeagenda/aa-base) - slightly modified unpublished version of [Active Agenda 0.8.2 beta](https://github.com/activeagenda/0.8.2-beta) , starting point for the fork of the active agenda framework
 * [aa-patch](https://github.com/activeagenda/aa-patch) - a patch to the  [aa-base](https://github.com/activeagenda/aa-base) reflecting development changes to the code
 * [aa-xmlbase](https://github.com/activeagenda/aa-xmlbase) - a basic set of modules needed by the framework to work. It must be always installed but can be modified if needed
-* [BOf ::](https://github.com/activeagenda/BOf) - a set of business applications developed on the basis of the framework
+* [BOf ::](https://github.com/activeagenda/BOf) - a set of business modules developed on the basis of the framework
 
 ## Framework release numbering
 The release versioning numbering schema (X.X.X e.g. 1.345.23) is as follows:

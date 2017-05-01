@@ -45,7 +45,7 @@ As the preparation for installation:
 
 ## Test the application installation
 * Browse to the application and login in with the credentials entered during autogeneration
-* Enter new people (Browser URL bar: .../list.php?mdl=ppl) and make out of them user (Browser URL bar: .../list.php?mdl=ppl) with proper modules permissions
+* Enter new people (browser URL bar: .../list.php?mdl=ppl) and make out of them user (browser URL bar: .../list.php?mdl=ppl) with proper modules permissions
 * Play a bit with the application ...
 
 ## Email notfication setup
