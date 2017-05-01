@@ -1,0 +1,1 @@
+[Use Google Translate for browsing the files in english](https://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.co.uk&sl=pl&sp=nmt4&tl=en&u=https://github.com/activeagenda/documentation/tree/master/3%2520%2520Module%2520development/Technology%2520Notices&usg=ALkJrhiJZO-asAW_c10QufCQVlMNrwz7cg)
