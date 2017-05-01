@@ -1,1 +1,1 @@
-The Active Agenda 0.8.2-beta technology documentation. Download the folder as the a zip file and browse it locally. GitHub doesn't support browsing *.mht files.
+The Active Agenda 0.8.2-beta technology documentation. [Download the documenation repository as the a zip file](https://github.com/activeagenda/documentation/archive/master.zip) and browse it locally. GitHub doesn't support browsing *.mht files.
