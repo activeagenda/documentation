@@ -70,8 +70,8 @@ As the preparation for installation:
 
 ### Email notfication setup
 * Configure ./s2a/active_agenda/[email-config.php](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/email-config.php) 
-* Setup crone job
-* Setup email connection to your post server
+* Setup crone job, see the [cron job](https://github.com/activeagenda/documentation/blob/master/1%20%20Framework%20and%20BOf%20installation/config%20file%20examples/cronjob)
+* Setup email connection to your main post server
 
 ## Feedback
 https://github.com/activeagenda/bof/issues 

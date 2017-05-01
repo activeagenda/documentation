@@ -1,1 +1,1 @@
-For BOf :: implementation look for the ( ? ) icon in the right upper corner of each page. It contains implementation instructions in the polish language. Use Google Translate for translation in you preferred langauage.
+For BOf :: implementation look for the ( ? ) icon in the right upper corner of each page and activate the window. It contains implementation instructions in the polish language. Use Google Translate for translation in you preferred langauage.

@@ -1,0 +1,2 @@
+*/5 * * * * /usr/bin/php /var/www/s2a/lib/cron/cron-notifications.php active_agenda 1
+*/5 * * * * /usr/bin/php /var/www/s2a/lib/cron/cron-reminders.php active_agenda 1
